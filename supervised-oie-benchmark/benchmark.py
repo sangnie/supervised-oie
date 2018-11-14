@@ -1,6 +1,6 @@
 '''
 Usage:
-   benchmark --gold=GOLD_OIE --out=OUTPUT_FILE (--stanford=STANFORD_OIE | --ollie=OLLIE_OIE |--reverb=REVERB_OIE | --clausie=CLAUSIE_OIE | --openiefour=OPENIEFOUR_OIE | --props=PROPS_OIE | --tabbed=TABBED_OIE) [--exactMatch | --predMatch | --argMatch] [--error-file=ERROR_FILE]
+   benchmark --gold=GOLD_OIE --out=OUTPUT_FILE (--openiefive=OPENIE5 | --stanford=STANFORD_OIE | --ollie=OLLIE_OIE |--reverb=REVERB_OIE | --clausie=CLAUSIE_OIE | --openiefour=OPENIEFOUR_OIE | --props=PROPS_OIE | --tabbed=TABBED_OIE) [--exactMatch | --predMatch | --argMatch] [--error-file=ERROR_FILE]
 
 Options:
   --gold=GOLD_OIE              The gold reference Open IE file (by default, it should be under ./oie_corpus/all.oie).
@@ -8,6 +8,7 @@ Options:
   --clausie=CLAUSIE_OIE        Read ClausIE format from file CLAUSIE_OIE.
   --ollie=OLLIE_OIE            Read OLLIE format from file OLLIE_OIE.
   --openiefour=OPENIEFOUR_OIE  Read Open IE 4 format from file OPENIEFOUR_OIE.
+  --openiefive=OPENIE5         Read Open IE 5 format from file OPENIE5.
   --props=PROPS_OIE            Read PropS format from file PROPS_OIE
   --reverb=REVERB_OIE          Read ReVerb format from file REVERB_OIE
   --stanford=STANFORD_OIE      Read Stanford format from file STANFORD_OIE
@@ -30,6 +31,7 @@ from oie_readers.ollieReader import OllieReader
 from oie_readers.reVerbReader import ReVerbReader
 from oie_readers.clausieReader import ClausieReader
 from oie_readers.openieFourReader import OpenieFourReader
+from oie_readers.openieFiveReader import OpenieFiveReader
 from oie_readers.propsReader import PropSReader
 from oie_readers.tabReader import TabReader
 
@@ -52,6 +54,8 @@ class Benchmark:
         y_true = []
         y_scores = []
         errors = []
+        correct = 0
+        incorrect = 0
 
         correctTotal = 0
         unmatchedCount = 0
@@ -87,6 +91,7 @@ class Benchmark:
                         y_scores.append(predictedEx.confidence)
                         predictedEx.matched.append(output_fn)
                         found = True
+                        correct += 1
                         break
 
                 if not found:
@@ -96,11 +101,12 @@ class Benchmark:
             for predictedEx in [x for x in predictedExtractions if (output_fn not in x.matched)]:
                 # Add false positives
                 y_true.append(0)
+                incorrect+=1
                 y_scores.append(predictedEx.confidence)
 
         y_true = y_true
         y_scores = y_scores
-
+        print(correct, incorrect, unmatchedCount)
         # recall on y_true, y  (r')_scores computes |covered by extractor| / |True in what's covered by extractor|
         # to get to true recall we do:
         # r' * (|True in what's covered by extractor| / |True in gold|) = |true in what's covered| / |true in gold|
@@ -108,7 +114,6 @@ class Benchmark:
                                             recallMultiplier = ((correctTotal - unmatchedCount)/float(correctTotal)))
         logging.info("AUC: {}\n Optimal (precision, recall, F1, threshold): {}".format(auc(r, p),
                                                                                        optimal))
-
         # Write error log to file
         if error_file:
             logging.info("Writing {} error indices to {}".format(len(errors),
@@ -222,6 +227,10 @@ if __name__ == '__main__':
     if args['--openiefour']:
         predicted = OpenieFourReader()
         predicted.read(args['--openiefour'])
+
+    if args['--openiefive']:
+        predicted = OpenieFiveReader()
+        predicted.read(args['--openiefive'])
 
     if args['--tabbed']:
         predicted = TabReader()
