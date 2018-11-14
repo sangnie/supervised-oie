@@ -82,9 +82,10 @@ class Matcher:
         count = 0
 
         for w1 in sRef:
-            for w2 in sEx:
-                if w1 == w2:
-                    count += 1
+        #    for w2 in sEx:
+            if w1 in sEx:
+                count += 1
+                sEx.remove(w1)
 
         # We check how well does the extraction lexically cover the reference
         # Note: this is somewhat lenient as it doesn't penalize the extraction for

@@ -63,11 +63,12 @@ class Benchmark:
         gold = Benchmark.normalizeDict(self.gold)
 
         for sent, goldExtractions in gold.items():
+            print sent, "\n"
             if sent not in predicted:
                 # The extractor didn't find any extractions for this sentence
-                for goldEx in goldExtractions:
-                    unmatchedCount += len(goldExtractions)
-                    correctTotal += len(goldExtractions)
+                #for goldEx in goldExtractions:
+                unmatchedCount += len(goldExtractions)
+                correctTotal += len(goldExtractions)
                 continue
 
             predictedExtractions = predicted[sent]
@@ -92,6 +93,7 @@ class Benchmark:
                         predictedEx.matched.append(output_fn)
                         found = True
                         correct += 1
+                        print("Correct: ", predictedEx.bow())
                         break
 
                 if not found:
@@ -102,6 +104,7 @@ class Benchmark:
                 # Add false positives
                 y_true.append(0)
                 incorrect+=1
+                print("Incorrect: ",predictedEx.bow() )
                 y_scores.append(predictedEx.confidence)
 
         y_true = y_true
