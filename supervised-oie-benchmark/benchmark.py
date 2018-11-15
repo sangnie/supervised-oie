@@ -89,7 +89,7 @@ class Benchmark:
                                     ignoreCase = True):
 
                         y_true.append(1)
-                        y_scores.append(predictedEx.confidence)
+                        y_scores.append(1/predictedEx.confidence)
                         predictedEx.matched.append(output_fn)
                         found = True
                         correct += 1
@@ -105,7 +105,7 @@ class Benchmark:
                 y_true.append(0)
                 incorrect+=1
                 print("Incorrect: ",predictedEx.confidence, predictedEx.bow() )
-                y_scores.append(predictedEx.confidence)
+                y_scores.append(1/predictedEx.confidence)
 
         y_true = y_true
         y_scores = y_scores

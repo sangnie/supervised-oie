@@ -80,7 +80,7 @@ class Matcher:
         sRef = ref.bow().split(' ')
         sEx = ex.bow().split(' ')
         count = 0
-
+        print(sRef, sEx)
         for w1 in sRef:
         #    for w2 in sEx:
             if w1 in sEx:
