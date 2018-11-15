@@ -91,7 +91,7 @@ class Matcher:
         # Note: this is somewhat lenient as it doesn't penalize the extraction for
         #       being too long
         coverage = float(count) / len(sRef)
-
+        print(sRef, sEx, count, coverage)
 
         return coverage > Matcher.LEXICAL_THRESHOLD
 

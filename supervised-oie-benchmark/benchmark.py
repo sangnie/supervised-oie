@@ -93,7 +93,7 @@ class Benchmark:
                         predictedEx.matched.append(output_fn)
                         found = True
                         correct += 1
-                        print("Correct: ", predictedEx.bow())
+                        print("Correct: ", predictedEx.confidence, predictedEx.bow())
                         break
 
                 if not found:
@@ -104,7 +104,7 @@ class Benchmark:
                 # Add false positives
                 y_true.append(0)
                 incorrect+=1
-                print("Incorrect: ",predictedEx.bow() )
+                print("Incorrect: ",predictedEx.confidence, predictedEx.bow() )
                 y_scores.append(predictedEx.confidence)
 
         y_true = y_true
