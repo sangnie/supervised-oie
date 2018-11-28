@@ -1,0 +1,2185 @@
+CocaColaCoaimingtoboostsoftdrinkvolumeinSingaporesaiditisdiscussingajointventurewithFraserNeaveLtditsbottlingfranchiseeinthatcountry 
+
+('Correct: ', 'boost Coca - Cola Co. soft - drink volume in Singapore joint venture with Fraser')
+('Correct: ', 'aiming boost soft - drink volume Singapore joint venture with Fraser & Neave Ltd. franchisee country')
+('Correct: ', 'said Coca - Cola Co. to boost soft - drink volume in Singapore it is discussing a joint venture with Fraser & Neave Ltd. , its bottling franchisee in that country')
+('Correct: ', 'discussing Singapore a joint venture with Fraser & its bottling franchisee in')
+('Correct: ', 'bottling Coca - Cola Co. joint venture with Fraser & Neave Ltd. that country')
+('Incorrect: ', 'is discussing a joint venture with Fraser , its bottling in that country')
+PrimeMinisterLeeKuanYewSingaporesleaderandoneofAsiasleadingstatesmenfor30yearsrecentlyannouncedhisintentiontoretirenextyearthoughnotnecessarilytoendhisinfluence 
+
+('Correct: ', 'announced Prime Minister Lee Kuan Yew recently his intention to retire next year -- though not necessarily to end his influence')
+('Correct: ', 'end Prime Minister Lee Kuan Yew to retire his influence')
+('Incorrect: ', 'leading statesmen')
+('Incorrect: ', 'retire next year')
+Thereslightattheendofthetunnelformunicipalshesaidaddingthatheexpectspricestoinchupinthenearterm 
+
+('Correct: ', "adding the tunnel for municipals prices to `` inch up ''")
+('Incorrect: ', "'s There at the end of the tunnel for municipals")
+('Incorrect: ', "said There 's light at the end of the tunnel for municipals he adding that")
+('Incorrect: ', "expects the tunnel for municipals `` inch up '' the near term")
+('Incorrect: ', "inch There 's at the end of the tunnel for municipals prices '' in the near term")
+ObviouslytheepiloguewasnotanafterthoughtsuppliedtoolatefortheEnglisheditionforitisreferredtoinTheCastawayinthesequelofthenarrativeitwillthenbeseenwhatlikeabandonmentbefellmyself 
+
+('Correct: ', "is afterthought referred in `` The Castaway ''")
+('Correct: ', "seen epilogue an afterthought supplied The Castaway '' in the sequel of the narrative what like abandonment befell myself")
+('Incorrect: ', 'was the epilogue not it')
+('Incorrect: ', 'supplied sequel like abandonment befell myself')
+('Incorrect: ', 'referred the epilogue like abandonment befell myself')
+('Incorrect: ', 'be the epilogue an afterthought supplied like abandonment befell myself')
+('Incorrect: ', 'befell afterthought the narrative')
+Pennzoilspoisonpillcoversfiveyearsinordertogivecurrentmanagementenoughtimetoputtheseproceedstoworkinaprudentmanner 
+
+('Correct: ', 'give Pennzoil current management enough time to put these proceeds to prudent manner')
+('Incorrect: ', "covers Pennzoil 's poison pill five years in")
+('Incorrect: ', 'put these proceeds manner')
+('Incorrect: ', 'work these a prudent manner')
+ThirdTVdramaserieswasbroadcastin2008featuringMaoInoueasAnmitsu 
+
+('Correct: ', 'was Third TV drama series broadcast in 2008 - featuring Mao')
+('Incorrect: ', 'broadcast Third TV drama series 2008 -')
+('Incorrect: ', 'featuring TV drama')
+Forthepastfiveyearsunionshaventmanagedtowinwageincreasesaslargeasthosegrantedtononunionworkers 
+
+('Correct: ', 'win unions wage increases large as those granted to')
+('Correct: ', "have five unions n't as those granted nonunion workers")
+('Incorrect: ', 'managed past five years unions win wage increases')
+('Incorrect: ', 'granted those to')
+EachtimeCluemasterescapesorstartssomenewplanStephaniedonshercostumeagain 
+
+('Correct: ', 'starts some new plan')
+('Correct: ', 'dons Stephanie her costume')
+Atonepointalmostallofthesharesinthe20stockMajorMarketIndexwhichmimicstheindustrialaverageweresharplyhigher 
+
+('Incorrect: ', 'mimics At one point the industrial average')
+('Incorrect: ', 'were industrial average')
+ThelasttimeIBMtappedthecorporatedebtmarketwasinApril1988whenitoffered500millionofdebtsecurities 
+
+('Correct: ', 'tapped The last time IBM the corporate debt market in April 1988 of debt securities')
+('Correct: ', 'offered The last time IBM tapped the corporate debt market $ 500 million')
+('Incorrect: ', 'was The last time IBM tapped the corporate debt market in April 1988 of')
+YesterdayMrMatthewsnowaconsultantwiththeStamfordConnfirmMatthewsJohnstonquippedIthinkhellbeverygoodatthatnewjob 
+
+('Correct: ', "quipped Yesterday Mr. Matthews I think he 'll be very good at that { new job }")
+('Correct: ', "think he 'll be very good at that { new job }")
+('Incorrect: ', 'be Yesterday Mr. Matthews very good at that { new job }')
+Intheearly19thcenturytheWelshMethodistsbrokeawayfromtheAnglicanchurchandestablishedtheirowndenominationnowthePresbyterianChurchofWales 
+
+('Correct: ', 'broke In the early 19th century the Welsh Methodists the Anglican church and established their own denomination now the Presbyterian Church of Wales')
+('Correct: ', 'established In the early 19th century the Welsh Methodists Anglican church their own denomination now the Presbyterian Church of Wales')
+MrPhelanisanadroitdiplomatwhonormallyappearstobesolidlyincontroloftheBigBoardsfactions 
+
+('Correct: ', "is Mr. Phelan an adroit be solidly in control of the Big Board 's factions")
+('Correct: ', "appears Mr. Phelan an adroit diplomat to be solidly in control of the Big Board 's factions")
+('Incorrect: ', "be an adroit diplomat solidly in control of the Big Board 's factions")
+OnNovember22005Brownendedhiscontractearlyandleftthefederalgovernment 
+
+('Correct: ', 'ended On November 2 , 2005 Brown his contract early')
+('Correct: ', 'left On November 2 , 2005 Brown federal government')
+ThereusedtobeaYouthHostelbutitclosedinOctober2008andthebuildinghassincereopenedasKeldLodgeahotelwithbarandrestaurant 
+
+('Correct: ', 'used a Youth Hostel October 2008 and')
+('Correct: ', 'reopened Youth October 2008 and the building since as ,')
+('Incorrect: ', 'be a Youth Hostel in October 2008 and the building')
+('Incorrect: ', 'closed in October 2008 and the building')
+('Incorrect: ', 'has October 2008 the building')
+Thefieldtookoffin1985afterscientistsatBritainsSheffieldUniversitydevelopedahandycompactmagnetforbrainstimulation 
+
+('Incorrect: ', 'took The field scientists at Britain Sheffield')
+('Incorrect: ', 'developed at Sheffield University a handy')
+Hediscovereda75centdiscrepancyinthechargesmadetovariousdepartmentsforcomputertimeandtracedittoausernamedHunterwhohadnovalidbillingaddress 
+
+('Correct: ', 'made discrepancy the charges various departments for computer time and traced it')
+('Correct: ', 'named a user Hunter')
+('Correct: ', 'had various departments no valid billing address')
+('Incorrect: ', 'discovered a 75 - cent discrepancy charges it')
+('Incorrect: ', 'traced a 75 - cent discrepancy')
+Good1HNMRspectracanbeacquiredwith16repeatswhichtakesonlyminutes 
+
+('Correct: ', 'be Good 1H NMR spectra acquired')
+('Incorrect: ', 'acquired NMR spectra')
+('Incorrect: ', 'takes Good 1H NMR spectra can be acquired with 16 repeats')
+TeamRacingisaNASCARCraftsmanTruckSeriesteam 
+
+('Correct: ', 'is Team Racing a NASCAR Craftsman Truck Series team')
+EachoftheMatoranbroughttheirToastoneandmeteachotherattheGreatTemple 
+
+('Correct: ', 'brought the Matoran their Toa stone')
+('Correct: ', 'met other at the Great Temple')
+TheCharlesCityequipmentwastransferredtoMasonCitytoreplaceequipmentburnedintheNovember241967shopfire 
+
+('Correct: ', 'was The Charles City equipment Mason City to replace equipment burned in the November 24 , 1967 shop fire')
+('Correct: ', 'transferred The Charles City equipment Mason City to replace equipment burned in the November 24 , 1967 shop fire')
+('Correct: ', 'burned replace equipment in the November 24 1967 fire')
+('Incorrect: ', 'replace The Charles City equipment equipment burned November 24 , 1967 shop')
+AtGiantBicycleIncRanchoDominguezCalifsaleshavetripledsincethecompanyenteredtheUSmountainbikebusinessin1987 
+
+('Correct: ', 'have sales tripled since the company entered the U.S. mountain - bike business 1987')
+('Correct: ', 'tripled sales the company entered the U.S. mountain - bike business 1987')
+('Correct: ', 'entered At Giant Bicycle Rancho Dominguez , Calif. the company the U.S. mountain - bike business 1987')
+MostyieldsonshorttermjumboCDsthosewithdenominationsover90000alsomovedintheoppositedirectionofTreasurybillyields 
+
+('Incorrect: ', 'moved Most yields on short - term jumbo CDs those in the')
+ThislinewasextendedeastbythePrahranMalvernTramwaysTrustfromHawthornRoadtoDarlingRoadMalvernEaston13November1913 
+
+('Correct: ', 'extended This line east by the Prahran & Malvern Tramways Trust Hawthorn East on 13 November 1913')
+('Incorrect: ', 'was This line Malvern Hawthorn')
+InparticularCyprinidaeofsouthwesternNorthAmericahavebeenseverelyaffectedaconsiderablenumberwententirelyextinctaftersettlementbyEuropeans 
+
+('Correct: ', 'been Cyprinidae of southwestern North America severely settlement Europeans')
+('Correct: ', 'went a considerable number entirely extinct after')
+('Incorrect: ', 'have settlement Europeans')
+('Incorrect: ', 'affected Cyprinidae of southwestern North America severely')
+DaimlersaidithashadtalkswithJaguaraboutpossiblejointventures 
+
+('Correct: ', 'said Daimler it has had talks with Jaguar about possible joint ventures')
+('Correct: ', 'has Daimler had talks with Jaguar about possible joint')
+('Incorrect: ', 'had Jaguar about possible joint ventures')
+Thepricewasntdisclosedbutoneanalystestimatedthatitwas150million 
+
+('Correct: ', "was The price n't disclosed one")
+('Correct: ', 'disclosed The price one analyst estimated')
+('Incorrect: ', 'estimated one $ 150 million')
+('Incorrect: ', "was The price n't disclosed one")
+AcastingdirectoratthetimetoldScottthathehadwishedthathedmethimaweekbeforehewascastingfortheGIJoecartoon 
+
+('Correct: ', 'was A casting director at the told for')
+('Correct: ', "had Scott wished that he 'd met him a week before")
+('Correct: ', "wished Scott he 'd met him a week before")
+('Correct: ', "casting met the `` G.I. Joe '' cartoon")
+('Incorrect: ', 'told A casting Scott')
+('Incorrect: ', 'met Scott')
+('Incorrect: ', "casting met the `` G.I. Joe '' cartoon")
+TheexecutiveshadprofitedhandsomelybybuildingAmericanNationalCanCoTriangleschiefasset 
+
+('Correct: ', "had The executives profited handsomely building American National Can Co. , Triangle 's chief asset")
+('Correct: ', "profited The executives building American National Can Co. 's chief asset")
+('Incorrect: ', 'building The executives profited')
+NothingcanbebetterthanthissaysDonSiderowneroftheWestPalmBeachTropics 
+
+('Correct: ', "says `` Nothing can be better than this , '' Don Sider , owner of the West Palm Beach Tropics")
+('Correct: ', 'be Nothing Don Sider , owner of the West Palm Beach Tropics')
+Thedialectstheyspeakaresimilarbuthavedifferentintonations 
+
+('Correct: ', 'have speak different intonations')
+('Incorrect: ', 'speak The dialects')
+('Incorrect: ', 'are speak different intonations')
+ThefounderhadpledgedhimselftohonourtheBlessedVirgininaspecialmanner 
+
+('Correct: ', 'had The founder pledged himself honour the Blessed Virgin in a special manner')
+('Correct: ', 'pledged The founder to honour the Blessed Virgin in a special manner')
+('Incorrect: ', 'honour The founder the Blessed Virgin in a special manner')
+Atleast11villagersdisappearedand8peoplewerekilledintheensuingtsunamitwoofwhichareprisonersatoneofthePermisanprisons 
+
+('Correct: ', 'disappeared At least 11 villagers 8 people at one of the Permisan prisons')
+('Correct: ', 'were At least villagers disappeared 8 people ensuing tsunami prisoners at one of the Permisan prisons')
+('Correct: ', 'ensuing At least 11 villagers disappeared 8 people the tsunami two prisoners at one of the Permisan prisons')
+('Correct: ', 'killed At least 8 people in the ensuing tsunami')
+('Incorrect: ', 'are At least 11 villagers 8 people in the ensuing tsunami prisoners one of the Permisan prisons')
+Maleshadamedianincomeof36016versus32679forfemales 
+
+('Correct: ', 'had Males a median income of $ 36,016')
+Toavoidarunoffonecandidatewouldhavetowin50ofthevoteafeatthatmostanalystsconsiderimpossiblewithsomanycandidatesrunning 
+
+('Correct: ', 'have one candidate win 50 % of the vote candidates running')
+('Correct: ', 'win one candidate 50 % of the vote feat that')
+('Correct: ', 'avoid a runoff one many candidates running')
+('Incorrect: ', 'consider a feat most analysts')
+('Incorrect: ', 'running many candidates')
+HistoricallyAiseauwasavillagededicatedtoagricultureloggingbutalsototheindustry 
+
+('Incorrect: ', 'was Historically Aiseau a')
+FalunGongsteachingsarecompiledfromLislecturesandLiholdsdefinitionalpowerinthatbeliefsystem 
+
+('Correct: ', 'holds definitional power in that belief system')
+('Incorrect: ', 'are teachings')
+('Incorrect: ', 'compiled teachings')
+AndABShasformedapartnershipwithHabitatforHumanitytogiveafreeBibletoeachofitsnewhomeownersintheUnitedStates 
+
+('Incorrect: ', 'has ABS a partnership with Habitat for Humanity to give a free Bible to each of its new')
+('Incorrect: ', 'formed ABS a partnership with Habitat for Humanity')
+('Incorrect: ', 'give ABS')
+ModernityhasbeenblendedwithoutsacrificingonthetraditionalBuddhistethos 
+
+('Incorrect: ', 'been Modernity')
+('Incorrect: ', 'blended Modernity')
+('Incorrect: ', 'sacrificing Modernity has been blended without')
+Thecanalwasdammedofffromtheriverformostoftheconstructionperiod 
+
+('Correct: ', 'dammed The canal the river for most of the construction period')
+('Incorrect: ', 'was The canal dammed')
+Burnhamdiedofheartfailureattheageof86onSeptember11947athishomeinSantaBarbaraCalifornia 
+
+('Correct: ', 'died Burnham of heart at the age of 86 , on September 1 , 1947 at his home in')
+ThisistheUNgroupthatmanagedtotraduceitsowncharterofpromotingeducationscienceandculture 
+
+('Correct: ', 'managed the U.N. group traduce its own charter of promoting education , science and culture')
+('Correct: ', 'traduce the U.N. group its own charter of promoting education , science and culture')
+('Correct: ', 'promoting education')
+Itshouldbenotedthatthesenumbersareinclusiveofanyofthechildmindersownchildren 
+
+('Correct: ', 'be these numbers are inclusive of any of the childminders own children')
+('Incorrect: ', 'noted that these numbers are inclusive of any of the childminders own children')
+('Incorrect: ', 'are these numbers inclusive of any of the childminders own children')
+AlthoughHeathrowauthoritieshavebeenwatchingagroupofallegedlycrookedbaggagehandlersforsometimetheGauguinmaybelost 
+
+('Correct: ', 'watching authorities a group of allegedly crooked baggage handlers for some time')
+('Incorrect: ', 'have Heathrow be')
+('Incorrect: ', 'been authorities watching be `` lost')
+('Incorrect: ', 'be the Gauguin be')
+('Incorrect: ', 'lost lost')
+TheextensionoftheUniversityLibrarycanbefoundonthesecondfloorandparkingfor120carsonthethirdtosixthfloors 
+
+('Correct: ', 'be The extension of the University Library the second floor the third to sixth floors')
+('Correct: ', 'found The extension of the University Library the second floor the third to sixth floors')
+The41yearoldMrAzoffaformerrocknrollmanageriscreditedwithturningaroundMCAsoncemoribundmusicdivisioninhissixyearsatthecompany 
+
+('Correct: ', "is old a former rock 'n' roll manager credited with turning around MCA 's once - moribund music division in his six years at the company")
+('Correct: ', "credited The 41 - year - old Mr. Azoff a former rock 'n' roll manager turning MCA 's once - moribund music division in six years at the company")
+('Correct: ', "turning old Mr. a former rock 'n' roll manager credited MCA 's once - moribund music division at")
+ThepermanentmembersaretheprovosttheCarlHPforzheimerUniversityProfessorandthedeansordesigneesfromthefollowingSchoolstheFacultyofArtsandSciencesHarvardBusinessSchoolHarvardLawSchoolandHarvardMedicalSchool 
+
+('Correct: ', 'are members following Schools : the Faculty of Arts and Sciences , Harvard Business School , Harvard Law School and Harvard Medical')
+TheNadvornadynastyisnotableinasmuchasmanyofitsdescendantsbecomerebbes 
+
+('Correct: ', 'is The Nadvorna dynasty notable inasmuch as many of its descendants become rebbes')
+('Correct: ', 'become many descendants rebbes')
+DCComicsheldamemorialserviceinManhattansLowerEastSideaneighborhoodEisneroftenvisitedinhisworkattheAngelOrensanzFoundationonNorfolkStreet 
+
+('Correct: ', 'held a memorial service Manhattan a neighborhood Eisner the Angel Orensanz Foundation on Norfolk Street')
+('Correct: ', 'visited a neighborhood Eisner in his')
+Itrose48forthe12monthsendedinJuneand47inthe12monthsendedinSeptember1988 
+
+('Correct: ', 'rose 4.8 % for the 12 in the 12 months ended 1988')
+('Correct: ', 'ended June September 1988')
+('Correct: ', 'ended June September 1988')
+InfactCondonafterseeingHauptmanninalineupatNewYorkPoliceDepartmentGreenwichStreetStationtoldFBISpecialAgentTurrouthatHauptmannwasnotJohnthemantowhomCondonclaimedhepassedtheransommoneytoinStRaymondsCemetery 
+
+('Correct: ', 'seeing Condon at New York Police Department Greenwich Street Station told')
+('Correct: ', 'told Condon Department Greenwich Street Station `` John to Condon')
+('Incorrect: ', 'was Condon Greenwich FBI Special he')
+('Incorrect: ', 'claimed FBI Special Condon')
+StandardPoors500StockIndexclimbed529to34036theDowJonesEquityMarketIndexadded470to31879andtheNewYorkStockExchangeCompositeIndexclimbed265to 
+
+('Correct: ', 'climbed - Stock Index 5.29 4.70 the New York Stock Exchange Composite Index 2.65')
+('Incorrect: ', 'climbed - Stock Index 5.29 4.70 the New York Stock Exchange Composite Index 2.65')
+LanguageBthenbeginstosupplantlanguageAthespeakersofLanguageAabandontheirownlanguageinfavoroftheotherlanguagegenerallybecausetheybelievethatitwillhelpthemachievecertaingoalswithingovernmenttheworkplaceandinsocialsettings 
+
+('Correct: ', 'begins to supplant language A')
+('Correct: ', 'supplant language A the workplace , and in social settings')
+('Correct: ', 'believe in that it will help them achieve certain goals within government the workplace , and in social settings')
+('Correct: ', 'abandon language A the in favor of the other the workplace in social settings')
+('Incorrect: ', 'help the workplace settings')
+('Incorrect: ', 'achieve within government the workplace , and in social settings')
+BrucesJusticeLordcounterpartwashappilymarriedtoWonderWomanaswelluntilherJusticeLordcounterpartkilledhim 
+
+('Incorrect: ', "was Bruce 's")
+('Incorrect: ', 'killed counterpart')
+AndDewarsgavediscountsonScottishmerchandisetopeoplewhosentinbottlelabels 
+
+('Correct: ', 'sent in bottle labels')
+('Incorrect: ', "gave Dewar 's discounts Scottish merchandise")
+FansreactedtothenewsofthesuspensionbycancelingtheirXMRadiosubscriptionswithsomefansevengoingasfarassmashingtheirXMunits 
+
+('Correct: ', 'reacted Fans to the news of the suspension by canceling their XM Radio subscriptions fans even as far as smashing their XM units')
+('Correct: ', 'canceling their XM Radio subscriptions some fans')
+('Correct: ', 'smashing Fans their XM units')
+('Incorrect: ', 'going some fans')
+NewhansplittheseasonbetweenTripleARoundRockwherehehit308 
+
+('Correct: ', 'split Newhan the season between Triple-A Round Rock , where he hit')
+('Correct: ', 'hit Newhan the season between Triple-A Round')
+ThePACbulletinswerewidelydistributedatthesemeetings 
+
+('Correct: ', 'were The PAC bulletins meetings')
+('Incorrect: ', 'distributed The PAC bulletins widely these meetings')
+Asurprising78ofpeoplesaidtheyexerciseregularlyupfrom73in1981 
+
+('Correct: ', 'said A surprising 78 % of people they exercise regularly')
+('Correct: ', 'exercise A surprising 78 % people regularly up from 73 % in 1981')
+TheUSmarkettooisdominatedbyagiantInternationalBusinessMachinesCorp 
+
+('Correct: ', 'dominated U.S. market a giant')
+('Incorrect: ', 'is The U.S. market')
+HTBsaimisforanAlphacoursetobeaccessibletoanyonewhowouldliketoattendthecourseandinthiswayHTBseekstospreadtheteachingsofChristianity 
+
+('Correct: ', 'like course accessible attend the course')
+('Correct: ', 'attend an Alpha the course the teachings of Christianity')
+('Correct: ', 'seeks an Alpha course to be accessible who to attend the course in this way HTB to spread the teachings of Christianity')
+('Correct: ', 'spread seeks the teachings of Christianity')
+('Incorrect: ', "is HTB 's aim an Alpha course")
+('Incorrect: ', 'be an Alpha accessible of Christianity')
+AlthoughnospecificagreementsareexpectedMrShevardnadzesaidthatdoesntmeantheywillbewithoutanagenda 
+
+('Correct: ', 'are specific agreements agenda')
+('Correct: ', 'expected no specific agreements Mr. Shevardnadze agenda')
+('Incorrect: ', 'said Mr. Shevardnadze')
+('Incorrect: ', 'does Shevardnadze')
+('Incorrect: ', 'mean specific are expected Mr. Shevardnadze')
+('Incorrect: ', 'be agenda')
+HowevercomicreliefsidekickMikeMcGurkbearssomeresemblancetoTracyspartnerfromthestripPatPattonTracyssecretaryGwenAndrewsprovidesthesamekindoffeminineinterestasTessTrueheartandFBIDirectorCliveAndersonisthesamekindofavuncularsuperiorasChiefBrandon 
+
+('Correct: ', 'provides comic relief sidekick the same kind of feminine interest as Tess Trueheart')
+('Incorrect: ', 'bears comic relief sidekick Mike McGurk some')
+('Incorrect: ', 'is comic relief Mike FBI Director Clive Anderson the')
+IndustrialBankofJapanwhichclaimstobethebiggestJapanesebuyerofUSmortgagesecuritiessaysitwillmorethandoubleitspurchasesthisyeartoanamountoneofficialputsatseveralbilliondollars 
+
+('Correct: ', 'claims Industrial Bank of Japan to be the biggest Japanese buyer of U.S. mortgage securities will more than double its purchases this year , to an amount one official puts at several billion dollars')
+('Correct: ', 'says Bank of Japan , which claims to be the biggest Japanese buyer of U.S. mortgage securities it will more than double its purchases this year , to an amount one official puts at several billion dollars')
+('Correct: ', 'puts Industrial Bank of Japan will more than double its purchases this year an amount one official at several billion dollars')
+('Incorrect: ', 'be Industrial Bank of Japan double its purchases this year')
+('Incorrect: ', 'double Industrial Bank of Japan its purchases this year')
+Strongsalessofarthisyeararecertaintoturnthetidebuteventhe25marketsharethatNissanexpectsin1989willleaveitfarbelowitspositionatthebeginningofthedecade 
+
+('Correct: ', 'are Strong sales far to turn the tide Nissan')
+('Correct: ', 'turn Strong sales the tide Nissan 1989 leave it far its at the beginning of the decade')
+('Incorrect: ', 'expects Nissan')
+('Incorrect: ', 'leave Strong sales the tide Nissan expects 1989 at the beginning of the decade')
+BecauseYeslerWaymarkstheboundarybetweentwodifferentplatsthestreetgridnorthofYeslerdoesnotlineupwiththeneighborhoodsotherstreetssothenorthernborderofthedistrictzigzagsalongnumerousstreets 
+
+('Correct: ', 'marks the boundary between two different plats of')
+('Correct: ', "does the street grid north of Yesler not line up with the neighborhood 's other streets , so the northern `` border '' of the district zigzags along numerous")
+Lenssubluxationisalsoseenindogsandischaracterizedbyapartialdisplacementofthelens 
+
+('Correct: ', 'seen Lens subluxation in dogs and a partial displacement of the lens')
+('Correct: ', 'characterized Lens subluxation a partial displacement of the lens')
+('Incorrect: ', 'is Lens subluxation is characterized')
+('Incorrect: ', 'is Lens subluxation is characterized')
+Butfully90ofthosepolledfelttheydidntneedtobelongtoahealthclub 
+
+('Correct: ', 'polled fully 90 % those')
+('Correct: ', 'need 90 % of those polled to a health club')
+('Correct: ', 'did 90 % of those polled')
+('Incorrect: ', 'felt 90 % those polled')
+('Incorrect: ', 'belong those polled a health club')
+TomyknowledgenogovernmententitiesincludingtheEPAarepursuingUVBmeasurements 
+
+('Incorrect: ', 'including the EPA')
+('Incorrect: ', 'are no government entities including the EPA')
+('Incorrect: ', 'pursuing no entities including')
+AsaresultitbecomesclearthatthemicrobecannotsurviveoutsideanarrowpHrange 
+
+('Correct: ', 'becomes clear that the microbe can not survive outside a narrow pH range')
+('Incorrect: ', 'survive the microbe outside a')
+Inbothcasesthisspecializedfunctionreplacesthebasicriflemanpositioninthefireteam 
+
+('Incorrect: ', 'replaces In both')
+Betweenflashescertainareasinsubjectsbrainsarejoltedwithamagneticstimulator 
+
+('Incorrect: ', "are areas in subjects ' brains")
+('Incorrect: ', 'jolted a magnetic stimulator')
+HilfalFudulwasa7thcenturyalliancecreatedbyvariousMeccansincludingtheIslamicprophetMuhammadtoestablishfaircommercialdealing 
+
+('Correct: ', 'including Hilf al-Fudul the Islamic prophet Muhammad commercial dealing')
+('Correct: ', 'was Hilf al-Fudul a 7th-century alliance created establish commercial dealing')
+('Incorrect: ', 'created Hilf al-Fudul a 7th-century alliance commercial')
+('Incorrect: ', 'establish Hilf al-Fudul Islamic prophet fair commercial dealing')
+AveryIncsaiditcompletedthesaleofUniroyalChemicalHoldingCotoagroupledbymanagementofUniroyalChemicalCotheunitsmainbusiness 
+
+('Correct: ', "completed Avery Inc. the sale of Uniroyal Chemical Holding Co. to a group led by management of Uniroyal Chemical Co. , the unit 's main business")
+('Correct: ', 'led management of Uniroyal Chemical Co.')
+('Incorrect: ', 'said Avery Inc.')
+ThesurpriseannouncementcameaftertheIRSbrokeoffnegotiationswithMrHuntonasettlementoftheonetimetycoonspersonalbankruptcycase 
+
+('Correct: ', "came The surprise announcement after the IRS off negotiations with Mr. Hunt on a settlement of the one - time tycoon 's personal bankruptcy case")
+('Correct: ', "broke The surprise announcement IRS negotiations with Mr. Hunt on a settlement of the one - time tycoon 's personal bankruptcy case")
+Becausepatientsrequirelessattentionfromnursesandotherstaffroomchargesarelowerabout100lessperdaythanaregularroomattheVermonthospital 
+
+('Correct: ', 'require Because patients less attention from nurses and other staff per day than a room')
+('Correct: ', 'are patients require less attention from nurses and other staff lower')
+ThepillarsinalineonitsbothsidesareaccordingtoDoricorGreekstyleandtheirdecorationsareaccordingtotheMeenakshiTempleatMaduraiinTamilNadu 
+
+('Correct: ', 'according The pillars in a line on Doric or Greek style and their decorations are')
+('Incorrect: ', 'are Doric or Greek style and their decorations')
+('Incorrect: ', 'are Doric or Greek style and their decorations')
+('Incorrect: ', 'according The pillars in a line on Doric or Greek style and their decorations are')
+DuetothetransmitterlocationbeingbasedinTyroneandasmallersignalwattageitwasbarelyhearableinthenorthernportionsofAtlantabeyondthedowntownareaoreventhenorthernreachesofFultonorDeKalbCountiesasitwasarimshottothesouthwestofthecity 
+
+('Correct: ', 'based the transmitter location Tyrone')
+('Incorrect: ', 'being hearable a rimshot to the southwest of the city')
+('Incorrect: ', 'was transmitter location being based in Tyrone and a smaller signal wattage it barely hearable it a rimshot to the southwest of the city')
+('Incorrect: ', 'was transmitter location being based in Tyrone and a smaller signal wattage it barely hearable it a rimshot to the southwest of the city')
+IdontforeseeanyshortagesoverthenextfewmonthssaysKenAllenanofficialofOperatingEngineersLocal3inSanFrancisco 
+
+('Correct: ', "do n't foresee any shortages over the next few months of Operating Engineers Local 3 in San Francisco")
+('Correct: ', 'foresee any shortages over the next few months of Operating Engineers Local 3 in San Francisco')
+('Correct: ', "says `` I do n't foresee any shortages over the next few months , '' Ken Allen an official of Operating Engineers Local 3 in San Francisco")
+RyukichiImaiJapansambassadortoMexicoagreesthatMexicomaybetooeager 
+
+('Correct: ', "agrees Japan 's ambassador that Mexico may be too eager")
+('Incorrect: ', 'be Mexico too eager')
+DodowasoriginallyintendedtohaveacommonaccentandisportrayedthiswayattheendofTheMassacre 
+
+('Correct: ', "intended Dodo have a `` common '' accent of `` The Massacre ''")
+('Correct: ', "have Dodo a `` common accent of `` The Massacre ''")
+('Incorrect: ', 'was Dodo originally intended')
+('Incorrect: ', "is Dodo portrayed this way at the end of `` The Massacre ''")
+('Incorrect: ', "portrayed this way at the end of `` The Massacre ''")
+Itsurged234to6onvolumeofmorethan17millionsharesafterthecompanyagreedtobeacquiredbyJapansChugaiPharmaceuticalforabout110millionalmostdoublethemarketpriceofGenProbesstock 
+
+('Correct: ', "agreed the company acquired Japan 's Chugai Pharmaceutical for about $ 110 million Probe 's")
+('Incorrect: ', 'surged 2 3\\/4 6 more than 1.7 million shares the company Japan')
+('Incorrect: ', 'be million shares after the company')
+('Incorrect: ', 'acquired Japan')
+Itwasthemostactiveofthe100shareindexat83millionshares65millionofwhichweretradedbymidday 
+
+('Correct: ', 'was It the most active of the 100 - share index at 8.3 million shares million traded')
+('Correct: ', 'traded the most active of the 100 - share index 8.3 million shares midday')
+('Incorrect: ', 'were 8.3 million 6.5 million midday')
+KostabisotherreleasesincludeSongsForSumeraNewAllianceandTheSpectreOfModernism 
+
+('Correct: ', "include Kostabi 's other releases Of Modernism ''")
+AsaresulthesaidhewillexaminetheMarcosdocumentssoughtbytheprosecutorstodeterminewhetherturningoverthefilingsisselfincrimination 
+
+('Correct: ', 'said he the Marcos documents sought over the filings is self - incrimination')
+('Correct: ', 'examine the Marcos the prosecutors to turning over the filings is self - incrimination')
+('Incorrect: ', 'sought examine the Marcos documents the prosecutors to determine whether turning over the filings is self - incrimination')
+('Incorrect: ', 'determine the Marcos the prosecutors whether turning over the filings is self - incrimination')
+('Incorrect: ', 'turning the over the filings is self - incrimination')
+('Incorrect: ', 'is over the filings is self - incrimination')
+Oftherestofthepopulationtherewas1individualwhobelongedtotheChristianCatholicfaith 
+
+('Incorrect: ', 'was 1 individual')
+('Incorrect: ', 'belonged 1 individual')
+ThediscountrateonthreemonthTreasurybillsroseslightlyfromtheaveragerateatMondaysauctionto779forabondequivalentyieldof804 
+
+('Incorrect: ', "rose month Treasury bills slightly the average rate 's auction bond - equivalent yield")
+Accordingtothe2010censusthepopulationofthetownis2310 
+
+('Correct: ', 'According 2010 census the population of the town is 2,310')
+('Incorrect: ', 'is the the town')
+HeleftonlyasmallcontingenttoguardthedefileandtookhisentirearmytodestroytheplainthatlayaheadofAlexandersarmy 
+
+('Correct: ', 'left a small contingent to guard the defile , took his entire army to destroy the plain lay')
+('Correct: ', "lay a small contingent to guard the defile , and took his entire army to destroy the plain ahead of Alexander 's army")
+('Incorrect: ', 'guard his entire army')
+('Incorrect: ', 'took his entire army to destroy the plain')
+('Incorrect: ', 'destroy his entire army the plain')
+PriortothePlaymakertoolthePlayercouldonlycalloneoffouravailablehotroutes 
+
+('Correct: ', 'call the Player one of four available `` hot routes')
+InthecorporatemarketanexpecteddebtofferingtodaybyInternationalBusinessMachinesCorpgeneratedconsiderableattention 
+
+('Correct: ', 'generated Business Machines Corp. considerable attention')
+Theverylargepiersatthecrossingsignifythattherewasonceatower 
+
+('Incorrect: ', 'signify very large piers crossing that')
+('Incorrect: ', 'was there once a tower')
+NameslikeJohnBerksGaryEdwardsFrankSandersRobinAlexanderDarrylJoosteGeorgeWayneandDavidGreshamallstartedoutatLMRadiobeforemovingtootherstationssuchasSwaziMusicRadioRadio702SpringbokRadioandotherSABCstations2JJandCapital604 
+
+('Correct: ', 'started David Gresham at LM Radio before moving to other stations such as Swazi Music Radio , Radio')
+('Correct: ', 'moving LM Radio other stations such as Swazi Music Radio , Radio')
+In54BCMarcusPerpernaismentionedasoneoftheconsularswhoboretestimonyonbehalfofMarcusAemiliusScaurusathistrial 
+
+('Incorrect: ', 'is In 54 BC Marcus Perperna mentioned Aemilius')
+('Incorrect: ', 'mentioned Marcus Perperna one of the consulars Aemilius Scaurus')
+('Incorrect: ', 'bore 54 BC testimony on behalf of Marcus Aemilius Scaurus')
+EversincetheremainingmembershavebeendesperatefortheUnitedStatestorejointhisdreadfulgroup 
+
+('Correct: ', 'been Ever since the remaining members to rejoin this dreadful group')
+('Incorrect: ', 'remaining members')
+('Incorrect: ', 'have the remaining members')
+('Incorrect: ', 'rejoin United States this dreadful group')
+Thegaugesenderisusuallyamagneticallycoupledarrangementwithafloatarminsidethetankrotatingamagnetwhichrotatesanexternalgauge 
+
+('Correct: ', 'is The gauge sender usually a magnetically coupled a tank rotating a magnet')
+('Correct: ', 'coupled The gauge a magnetically external gauge')
+('Correct: ', 'rotating tank a magnet an external gauge')
+('Incorrect: ', 'rotates a magnet an external gauge')
+WhenciviliangovernmentwasintroducedinRomblonbytheAmericansin16March1901Bantonwasoneof11newmunicipalitiesreinstatedorcreated 
+
+('Correct: ', 'introduced When civilian government in Romblon by the Americans in 16 March 1901 new municipalities')
+('Incorrect: ', 'was When civilian government introduced 1901 Banton one of')
+('Incorrect: ', 'was When civilian government introduced 1901 Banton one of')
+('Incorrect: ', 'reinstated civilian government 1901 Banton new municipalities')
+('Incorrect: ', 'created Romblon the Americans in 16 March 1901 Banton new municipalities')
+Sometimesextrapaymentswerespecifiedbywhichafreedslavecouldliberatehimselffromtheseresidualduties 
+
+('Correct: ', 'were extra payments specified by')
+('Correct: ', 'specified Sometimes extra payments which a freed slave could liberate himself from these residual duties')
+('Correct: ', 'freed Sometimes extra payments were specified by a slave could liberate himself from these residual duties')
+('Incorrect: ', 'liberate a freed slave these residual duties')
+GreenfishwaslaunchedbytheElectricBoatCoGrotonConn21December1945sponsoredbyMrsThomasJDoyleandcommissioned7June1946ComdrRMMetcalfcommanding 
+
+('Correct: ', 'was `` Greenfish Mrs. Thomas J. Doyle ; and commissioned')
+('Correct: ', 'commissioned 7 June 1946 Comdr. R. M. Metcalf commanding')
+('Incorrect: ', "launched '' Conn.")
+('Incorrect: ', 'commanding June 1946')
+UnderamergeragreementreachedSept14theUALboardagreedtoreimbursecertainofthebuyoutgroupsexpensesoutofcompanyfundsevenifthetransactionwasntcompletedprovidedthegroupdidntbreachtheagreement 
+
+('Correct: ', 'reached a merger agreement Sept. 14 the UAL board the group')
+('Correct: ', "reimburse merger agreement reached the UAL board certain of the buy - out the group did n't breach the agreement")
+('Correct: ', 'agreed Under a merger agreement reached Sept. 14 the UAL board to reimburse certain of the buy - out provided the group')
+('Correct: ', 'completed Under a merger agreement Sept. 14 the UAL board the transaction provided the group breach the agreement')
+('Correct: ', "was Under a merger agreement reached Sept. 14 the UAL board to reimburse certain of the buy transaction n't completed")
+('Incorrect: ', "provided the group did n't the agreement")
+('Incorrect: ', 'did reached UAL board the transaction provided the group')
+('Incorrect: ', "breach the group n't the agreement")
+Repeatcustomersalsocanpurchaseluxuryitemsatreducedprices 
+
+('Correct: ', 'purchase luxury items at reduced prices')
+MostpeoplewhetherinToledoTucsonorTopekahaventgotacluewhowearesaysGuyLSmithPhilipMorrissvicepresidentofcorporateaffairs 
+
+('Correct: ', 'have Most got a clue who Smith')
+('Correct: ', 'got Most people a clue who we')
+('Incorrect: ', 'are Most people')
+('Incorrect: ', "says Guy L. Smith , Philip Morris 's vice president of corporate affairs")
+InJuneNassertookcontroloftheinteriorministrypostfromNaguibloyalistSulaymanHafezandpressuredNaguibtoconcludetheabolitionofthemonarchy 
+
+('Correct: ', 'conclude control of the interior ministry post Sulayman the abolition of the monarchy')
+('Incorrect: ', 'took In June Nasser Naguib loyalist Sulayman Hafez')
+('Incorrect: ', 'pressured Naguib loyalist Sulayman Naguib')
+StudentjobpostingsatBostonUniversityslip10thisyearfollowinga10dropin1988 
+
+('Correct: ', 'following Student job postings at this year a 10 % drop in 1988')
+ACENformsanimportantbutsmallpartofaLocalStrategicPartnership 
+
+('Correct: ', 'forms A CEN an important small part of a Local Strategic Partnership')
+MuhammadibnAbuBakrwasapiousMuslimwhosupportedtheImamofhistimeAliibnAbiTalibeventhoughhissisterAishaopposedAliinthebattleofJamalIbnAbuBakrwasfaithfultohisstepfather 
+
+('Correct: ', 'was Muhammad ibn Abu Bakr a pious Ali ibn sister Aisha opposed ` Ali in the of Ibn Abu Bakr faithful to his stepfather')
+('Correct: ', 'was Muhammad ibn Abu Bakr a pious Ali ibn sister Aisha opposed ` Ali in the of Ibn Abu Bakr faithful to his stepfather')
+('Incorrect: ', 'supported a pious Muslim his sister Aisha opposed Ibn to his stepfather')
+('Incorrect: ', 'opposed a pious Muslim his sister Aisha his stepfather')
+ASanFranciscolawyerMrPanellirowedreligiouslywhenhefirstgotthemachinebuthecomplainsitleftgreasemarksonhiscarpetanditwasboring 
+
+('Correct: ', 'rowed A San Francisco lawyer Mr. Panelli religiously')
+('Correct: ', 'got the machine')
+('Correct: ', 'complains A San Francisco lawyer Mr. Panelli')
+('Incorrect: ', 'left Mr. Panelli')
+('Incorrect: ', 'boring San Francisco')
+InTheAndromedaStrainMichaelCrichtonsfirstnovelpublishedunderhisrealnameonlytwopeopleexposedtoapathogenicextraterrestrialmicrobesurvive 
+
+('Correct: ', "published In `` The Andromeda Strain '' Michael Crichton 's first novel his real name")
+('Incorrect: ', 'exposed people a pathogenic extraterrestrial microbe survive')
+('Incorrect: ', 'survive a pathogenic extraterrestrial microbe')
+LeGriffonisreportedtobetheHolyGrailofGreatLakesshipwreckhunters 
+
+('Correct: ', "reported Griffon be the `` Holy Grail '' of Great Lakes shipwreck hunters")
+('Incorrect: ', 'is Le Griffon')
+('Incorrect: ', "be Le Griffon reported the `` Holy Grail '' of Great Lakes shipwreck hunters")
+WhilethecampaignwasMrGibbonssideahoweverhewontbepayingforitThedonationswillcomeoutofthechainsnationaladvertisingfundwhichisfinancedbythefranchisees 
+
+('Correct: ', "was the campaign Mr. Gibbons 's idea fund is financed")
+('Correct: ', "paying campaign Mr. Gibbons The come chain 's national advertising fund")
+('Correct: ', "come The donations the chain 's national advertising fund")
+('Incorrect: ', 'be Mr. Gibbons paying donations')
+('Incorrect: ', 'is the campaign Mr. The')
+('Incorrect: ', "financed the campaign Mr. Gibbons the chain 's national advertising fund")
+Theirmissionwasalwaysforaspecificmandateandlastedforalimitedperiod 
+
+('Correct: ', 'was Their mission for a specific mandate and lasted for a limited period')
+('Incorrect: ', 'lasted Their mission a limited period')
+Laborcostsareclimbingatafarmorerapidpaceinthehealthcareindustrythaninotherindustries 
+
+('Incorrect: ', 'are Labor costs climbing')
+('Incorrect: ', 'climbing Labor costs health care')
+MostoftheLBOguysdontknowhowtorunabusinessanyway 
+
+('Correct: ', 'do the LBO guys how to run a business anyway')
+('Correct: ', 'know Most of the LBO guys how to run a business anyway')
+('Incorrect: ', 'run a business anyway')
+TransferredtoKeyWestFloridaon1June1941R11continuedhertrainingshipdutiesthroughouttheremainderofhercareer 
+
+('Correct: ', 'Transferred Key West , Florida on 1 June `` throughout the remainder of her career')
+('Correct: ', "continued `` R-11 '' her training ship duties")
+TheAlarmareanalternativerocknewwavebandthatformedinRhylNorthWalesin1981 
+
+('Correct: ', 'formed The Alarm an alternative rock/new wave band in Rhyl , North Wales in')
+('Incorrect: ', 'are The Alarm an alternative rock/new wave band that formed ,')
+HoweveraCanadianEmbassyofficialinTelAvivsaidthatCanadawasunlikelytoselltheCanduheavywaterreactortoIsraelsinceIsraelhasntsignedtheNuclearNonProliferationTreaty 
+
+('Correct: ', "said a Canadian official in Tel Aviv that Canada was unlikely to sell the Candu heavy - water reactor to Israel since Israel has n't signed the Nuclear Non - Proliferation Treaty")
+('Correct: ', "was a in Tel that Canada unlikely to sell the Candu heavy - water reactor to Israel since Israel n't signed the Nuclear Non - Proliferation Treaty")
+('Correct: ', 'has Canada water reactor to Israel since Israel Nuclear Non - Proliferation Treaty')
+('Incorrect: ', 'sell Canada the Candu heavy - water reactor Nuclear')
+('Incorrect: ', 'signed Canada sell the Candu heavy - water reactor since Israel the Nuclear Non - Proliferation Treaty')
+TheAcrolepiidaefamilyofmothsarealsoknownasFalseDiamondbackmoths 
+
+('Correct: ', 'known The Acrolepiidae family of moths Diamondback moths')
+OnMay152007XMsuspendedOpieAnthonyfor30daysinresponsetoabroadcastfeaturingahomelessmanwhowanderedintothestudio 
+
+('Correct: ', 'wandered XM Opie & featuring a homeless man the studio')
+('Incorrect: ', 'suspended On May 15 , 2007 XM Opie & Anthony 30 days')
+('Incorrect: ', 'featuring a homeless man')
+US258intersectsNC222inFountainbeforeenteringEdgecombeCounty 
+
+('Incorrect: ', 'entering 222 Edgecombe')
+ItisessentiallythesameasthedialectspokeninXiamenandisunintelligiblewithStandardChinese 
+
+('Correct: ', 'spoken the dialect with Standard Chinese')
+TheSovietscomplicatedtheissuebyofferingtoincludelighttankswhichareaslightas10tons 
+
+('Correct: ', 'include The Soviets complicated the issue offering')
+('Correct: ', 'offering The Soviets tanks')
+('Incorrect: ', 'complicated The Soviets the issue')
+('Incorrect: ', 'are light tanks')
+Thethreeexistingplantsandtheirlandwillbesold 
+
+('Correct: ', 'existing The three')
+('Correct: ', 'be The three existing plants and their land')
+('Correct: ', 'sold The three existing plants and their land will')
+Tomakethemdirectlycomparableeachindexisbasedonthecloseof1969equaling100 
+
+('Correct: ', 'make directly comparable each index is based on the close of 1969 equaling 100')
+('Correct: ', 'based each index the close of 1969 equaling 100')
+('Incorrect: ', 'is To make them directly comparable')
+UndertheComancheprogrameachcompanybuiltdifferentpartsoftheaircraft 
+
+('Correct: ', 'built the Comanche program each company different parts of the aircraft')
+The2ndBattalionofthe13thLightInfantrywasraisedatWinchesterinJanuary1858 
+
+('Correct: ', 'was The 2nd Battalion the 13th Light Infantry raised at Winchester')
+('Incorrect: ', 'raised The 2nd Battalion of the 13th Light Infantry at Winchester in January 1858')
+BecauseofMuhammadsroleinitsformationtheallianceplaysasignificantroleinIslamicethics 
+
+('Correct: ', "plays Because of Muhammad 's role in its formation the alliance a significant role in Islamic ethics")
+ChevalierfulfilledhispromisethefollowingyearbyerectingashrinededicatedtothehonourofMaryunderthetitleofOurLadyoftheSacredHeart 
+
+('Correct: ', "fulfilled Chevalier his promise the following year by a to the honour of under the Lady of the Sacred Heart ''")
+('Correct: ', "erecting Chevalier fulfilled his promise a shrine dedicated to the honour of Mary under the title of `` Our Lady of the Sacred Heart ''")
+('Incorrect: ', 'dedicated fulfilled his a shrine')
+PiffarogenerallyperformsaconcertseriesoffourtofiveconcertsayearinPhiladelphiainadditiontotouringthroughouttheUnitedStatesCanadaEuropeandelsewhere 
+
+('Correct: ', 'performs Piffaro a concert series of four to five year in Philadelphia throughout the United States , Canada , Europe')
+('Correct: ', 'touring Piffaro a year in Philadelphia')
+Priortothe2012seasontheRoyalssignedYosttoacontractextensionthroughthe2013season 
+
+('Incorrect: ', 'signed the 2012 season the Royals Yost')
+ThesuitallegedthattheyconspiredtofixpricesforebooksandweakenAmazoncomspositioninthemarketinviolationofantitrustlaw 
+
+('Correct: ', "alleged The suit that they conspired to fix prices for e-books , and weaken Amazon.com 's position in the market")
+('Incorrect: ', 'conspired e-books Amazon.com')
+('Incorrect: ', 'fix conspired prices for e-books')
+('Incorrect: ', "weaken Amazon.com 's position in the market")
+ThefuselagehadanovalcrosssectionandhousedawatercooledinvertedVV12engine 
+
+('Correct: ', 'had The fuselage oval cross-section and housed a water-cooled inverted-V V-12 engine')
+('Correct: ', 'housed The fuselage an oval cross-section a water-cooled inverted-V V-12 engine')
+Onlywhenoneisascendingorinourcasedescendingatadtroprapidementdoesonefeelwellairborneinapicnicbasket 
+
+('Correct: ', 'ascending a tad rapidement')
+('Incorrect: ', 'is well , airborne in a picnic basket')
+('Incorrect: ', 'descending a tad trop rapidement')
+('Incorrect: ', 'does a tad trop rapidement one feel well , airborne in a picnic basket')
+Applyingthistechniquefacilitatestheconnectionofthecenterofthefootwiththelowerabdomen 
+
+('Correct: ', 'Applying this technique facilitates the connection of the center of the foot with the lower abdomen')
+('Correct: ', 'facilitates this the connection of the center of the foot with the lower abdomen')
+HerearepricetrendsontheworldsmajorstockmarketsascalculatedbyMorganStanleyCapitalInternationalPerspectiveGeneva 
+
+('Incorrect: ', 'are price trends major stock markets')
+('Incorrect: ', 'calculated Here price trends Morgan Stanley Capital International Perspective')
+NoteveryonecompletelytrustedVakamasvisionMatauwasparticularlyfrustratedatfollowingwhatheconsideredthedelusionsofafirespitterbutwithnothingelsetogoontheydecidedtotracktheMatorandown 
+
+('Correct: ', "trusted Vakama 's vision - Matau frustrated following what he considered the delusions of the Matoran down")
+('Correct: ', "was trusted Vakama 's vision - Matau particularly frustrated at following what he considered the delusions of")
+('Correct: ', "following everyone completely Vakama 's vision - Matau what he considered the delusions of")
+('Correct: ', "frustrated trusted Vakama 's vision - Matau particularly")
+('Incorrect: ', "considered trusted Vakama 's vision - Matau the delusions of")
+('Incorrect: ', 'go fire-spitter they decided track the Matoran')
+('Incorrect: ', 'decided track the Matoran down')
+('Incorrect: ', "track Not everyone completely trusted Vakama 's vision - Matau was particularly frustrated at following what he considered the delusions of the Matoran down")
+Overallnetsalesofallmutualfundsexcludingmoneymarketfundsfellto19billioninSeptemberfrom42billioninAugustthetradegroupsaid 
+
+('Incorrect: ', 'excluding money market funds')
+('Incorrect: ', 'fell money market funds $ 1.9 billion in')
+('Incorrect: ', 'said the trade group')
+PakistanChromeMinesLtdisaminingcompanyincorporatedintheIslamicRepublicofPakistan 
+
+('Correct: ', 'incorporated a mining company in the Islamic Republic of Pakistan')
+('Incorrect: ', 'is Pakistan')
+AfterthebattleBattrarestedintheArcticOceanwhereasMothraretiredtoInfantIslandaccompaniedbythetwoCosmos 
+
+('Correct: ', 'rested After the battle Battra in the Arctic Ocean')
+('Correct: ', 'retired After the battle Battra Mothra to Infant Island accompanied the two Cosmos')
+('Incorrect: ', 'accompanied After Battra by the two Cosmos')
+ApartmentbuildingsshopsmedicalclinicscinemasetcwerebuiltincloseproximitytotheMAZplantprovidingplantworkerswithlocalnecessities 
+
+('Correct: ', 'built Apartment buildings cinemas in close proximity the MAZ plant providing plant workers with local necessities')
+('Correct: ', 'providing Apartment buildings , shops plant workers with local necessities')
+('Incorrect: ', 'were in close the')
+ThetwosidesarealsodiscussingcertainbusinessventuresinvolvingcablerightstoColumbiasmovies 
+
+('Correct: ', "discussing The two certain business ventures involving cable rights to Columbia 's movies")
+('Correct: ', "are discussing certain business ventures involving cable rights to Columbia 's movies")
+('Incorrect: ', "involving business cable rights to Columbia 's movies")
+TwicedivorcedandcurrentlymarriedLaddisthemotherofactressLauraDernbyherexhusbandactorBruceDern 
+
+('Correct: ', 'divorced Twice currently Ladd actor')
+('Correct: ', 'is Twice divorced and currently married , Ladd is the mother of actress Laura Dern , by her ex-husband , actor Bruce')
+('Correct: ', 'married Twice currently actor')
+ThishadconsiderableimplicationsfortheWelshlanguageasitwasthemainlanguageofthenonconformistchurchesinWales 
+
+('Incorrect: ', 'had This implications')
+('Incorrect: ', 'was This the')
+Theseobjectsarethrownawayiftheirscreenprojectionistoosmall 
+
+('Correct: ', 'are These objects thrown away if their screen projection is too small')
+('Incorrect: ', 'thrown away if their screen projection is too small')
+('Incorrect: ', 'is These objects are thrown away if their screen projection is too small')
+InVanHowesstudyallcasesofmeatalstenosiswereamongcircumcisedboys 
+
+('Correct: ', 'were meatal circumcised boys')
+('Incorrect: ', 'circumcised Howe meatal stenosis boys')
+Thecampaignapatrioticcelebrationofthe200thanniversaryoftheBillofRightsdoesntmentioncigarettesorsmokingcigaretteadshavebeenprohibitedontelevisionsince1971 
+
+('Correct: ', "does The campaign , a patriotic celebration of the 200th anniversary of the Bill of Rights n't mention cigarettes smoking been prohibited on television since 1971")
+('Correct: ', 'have The campaign mention cigarettes cigarette ads prohibited on television since 1971')
+('Incorrect: ', 'mention The a patriotic celebration of the cigarettes')
+('Incorrect: ', 'been cigarette ads prohibited on television since 1971')
+('Incorrect: ', 'prohibited mention cigarettes cigarette ads on television since 1971')
+In1975BarriewasdirectedbyLeeGrantinthetelevisionmovieForTheUseOfTheHallasCharlotte 
+
+('Incorrect: ', 'was In 1975 Barrie')
+('Incorrect: ', 'directed 1975 Barrie Lee')
+NixononthefourthdayofaprivatevisittoChinasaidthatdamagetoSinoUSrelationswasverygreatcallingthesituationthemostserioussince1972 
+
+('Incorrect: ', 'said Nixon')
+('Incorrect: ', 'was to China that damage to Sino - U.S. relations very great 1972')
+('Incorrect: ', 'calling the situation the most serious')
+JohnStewartandGuyGardnerbroughtdownNewWarworldandtheYellowCentralPowerBatterywhichweredetonatednexttotheAntiMonitorandcontainedbyashieldcreatedbyhundredsofGreenLanternstocontaintheexplosioneventhiswasnotenoughtokillhim 
+
+('Correct: ', 'brought John Stewart Guy Gardner New Warworld Power')
+('Correct: ', 'contained a shield created by hundreds of Green Lanterns')
+('Correct: ', 'contain and New Warworld and the Yellow Anti-Monitor a shield created by hundreds of Green Lanterns the')
+('Incorrect: ', 'were John Stewart Guy Gardner Power Battery detonated next')
+('Incorrect: ', 'detonated Power Battery next Green')
+('Incorrect: ', 'created Stewart and Guy a shield')
+('Incorrect: ', 'was hundreds Green even this not enough to kill')
+('Incorrect: ', 'kill John')
+Theissueisbackedbya12letterofcreditfromCreditSuisse 
+
+('Correct: ', 'is The issue backed by a 12 % letter of credit from Credit Suisse')
+('Incorrect: ', 'backed The issue')
+Asistrueforallsensorsabsoluteaccuracyofameasurementrequiresafunctionalityforcalibration 
+
+('Correct: ', 'requires all sensors absolute accuracy of a measurement a functionality')
+Healsocontendedthattheplaintiffsfailedtociteanylegalauthoritythatwouldjustifysuchaninjunction 
+
+('Correct: ', 'contended the plaintiffs failed to cite any legal authority that would justify such an injunction')
+('Correct: ', 'failed the plaintiffs cite any legal authority that would justify such an injunction')
+('Correct: ', 'justify cite authority an injunction')
+('Incorrect: ', 'cite the plaintiffs')
+WhentheexplosiontorethroughthehutStauffenbergwasconvincedthatnooneintheroomcouldhavesurvived 
+
+('Correct: ', 'tore When the explosion the hut')
+('Correct: ', 'was tore through the Stauffenberg the room could have survived')
+('Correct: ', 'convinced When the explosion tore through the hut Stauffenberg that')
+('Incorrect: ', 'have Stauffenberg survived')
+('Incorrect: ', 'survived have')
+Ananimalthatcaresforitsyoungbutshowsnoothersocialitytraitsissaidtobesubsocial 
+
+('Correct: ', "said sociality traits be `` subsocial ''")
+('Incorrect: ', 'cares its young')
+('Incorrect: ', 'shows no other sociality traits')
+('Incorrect: ', 'is other be `` subsocial')
+('Incorrect: ', "be sociality traits subsocial ''")
+Thethirdknownversionispartnumber218901400212withatleastonemodelbeingproducedinFebruary1993 
+
+('Correct: ', 'is The third known part number')
+('Correct: ', 'produced The third known part number 2189014-00-212 , with at one model in February 1993')
+('Incorrect: ', 'known version')
+('Incorrect: ', 'being at least one model')
+KeiblerthenaskedfortimeofftoappearonDancingwiththeStars 
+
+('Correct: ', "asked Keibler time off to appear on `` Dancing with the Stars ''")
+('Correct: ', "appear on `` Dancing with the Stars ''")
+('Correct: ', 'Dancing the Stars')
+ToallowthismassivelevelofunfetteredfederalborrowingwithoutpriorcongressionalapprovalwouldbeirresponsiblesaidRepFortneyStarkDCalifwhohasintroducedabilltolimittheRTCsauthoritytoissuedebt 
+
+('Correct: ', 'allow this massive level of unfettered federal borrowing without prior congressional approval irresponsible to issue debt')
+('Correct: ', "introduced congressional Rep. a bill to limit the RTC 's authority to issue debt")
+('Correct: ', "limit this massive level of unfettered federal borrowing congressional approval a bill the RTC 's authority to issue debt")
+('Incorrect: ', 'be congressional approval irresponsible to issue debt')
+('Incorrect: ', 'said Rep. Fortney to issue debt')
+('Incorrect: ', 'has introduced to issue debt')
+('Incorrect: ', 'issue massive level debt')
+RatherominouslyrabbitstudiesrevealthatRU486cancausebirthdefectsLancettheBritishmedicaljournalreportedin1987 
+
+('Correct: ', 'reveal studies that RU-486 can cause birth defects , Lancet reported 1987')
+('Correct: ', 'cause RU-486 birth defects reported 1987')
+('Correct: ', 'reported the British medical journal in 1987')
+InJapanthosefunctionsaccountforonlyaboutathirdofthesoftwaremarket 
+
+('Correct: ', 'account In Japan those functions only about a third of the software market')
+Acafeteriaisalsolocatedonthesixthfloorachapelonthe14thfloorandastudyhallonthe15thfloor 
+
+('Correct: ', 'is A cafeteria hall on the 15th')
+('Incorrect: ', 'located A cafeteria hall')
+AhalfdozenSovietspaceofficialsinTokyoinJulyforanexhibitstoppedbytoseetheircounterpartsattheNationalSpaceDevelopmentAgencyofJapan 
+
+('Correct: ', 'stopped A half - dozen Soviet space officials Tokyo for an exhibit to see their counterparts at the National Space Development Agency of Japan')
+('Incorrect: ', 'see A half - dozen Soviet space their counterparts at the National Space Development Agency of Japan')
+OneexamplecouldbeTimethefifthsongfromPinkFloyds1973albumTheDarkSideOfTheMoonwhichcontainsarepriseofBreathethefirstsongofthesamealbum 
+
+('Correct: ', "contains the fifth song Side Of The Moon '' a reprise of `` Breathe '' , the first song of the album")
+('Incorrect: ', 'be One example Time the fifth Side Of The Moon a reprise of')
+USGCorpagreedtosellitsheadquartersbuildingheretoManufacturersLifeInsuranceCoofTorontoandwillleasethe19storyfacilityuntilitmovestoanewquartersin1992 
+
+('Correct: ', 'agreed USG Corp. to sell its headquarters building here to Manufacturers Life Insurance Co. of Toronto , and will lease the 19 - story facility until it moves to a new quarters in 1992')
+('Correct: ', 'sell USG Corp. Life Insurance Co. of Toronto the 19 - story facility in 1992')
+('Correct: ', 'moves Manufacturers lease the 19 - story facility a new quarters in 1992')
+('Incorrect: ', 'lease USG the 19 - story')
+YearsagohecollaboratedwiththenewmusicgurusPeterSerkinandFredSherryintheverycounterculturalchambergroupTashiwhichwonaudiencesovertodreadedcontemporaryscoreslikeMessiaensQuartetfortheEndofTime 
+
+('Correct: ', "collaborated Years ago the new music gurus Peter Serkin and Fred Sherry in the very countercultural chamber group Tashi won audiences over to dreaded contemporary scores like Messiaen 's `` Quartet for the End of")
+('Correct: ', "won Years ago the very countercultural chamber group audiences over to dreaded contemporary scores like Messiaen 's `` Quartet for the End of")
+Trumbullwasoftenincorrectlycreditedinprintasbeingthesolespecialeffectscreatorfor2001 
+
+('Incorrect: ', 'was Trumbull credited')
+('Incorrect: ', 'credited Trumbull incorrectly')
+IntheUSmorethanhalfthePCsoftwaresoldiseitherforspreadsheetsorfordatabaseanalysisaccordingtoLotus 
+
+('Correct: ', 'sold In more than half the PC software spreadsheets database analysis')
+('Correct: ', 'according In the U.S. more than half the PC sold is Lotus')
+('Incorrect: ', 'is half the PC software')
+EachcompanysshareofliabilitywouldbebasedontheirshareofthenationalDESmarket 
+
+('Correct: ', 'based share of liability their share of the national DES market')
+('Incorrect: ', 'be of liability')
+ByincreasingthenumberofPCsitusesfrom66to1000OmronTateishiElectronicsCoofKyotohopesnotonlytomakecertaintaskseasierbutalsototransformthewaythecompanyisrun 
+
+('Correct: ', 'hopes increasing the number of PCs it uses from 66 to 1,000 , Omron Tateishi Electronics Co. of Kyoto not only to make')
+('Correct: ', 'make increasing the number of PCs it uses from 66 to 1,000 Omron Tateishi Electronics Co. hopes certain tasks easier')
+('Correct: ', 'is By increasing the number of PCs it uses from 66 to 1,000 , Omron Tateishi Electronics Co. , of Kyoto')
+('Incorrect: ', 'increasing the number PCs')
+('Incorrect: ', 'uses increasing the PCs tasks easier')
+('Incorrect: ', 'transform tasks the way the company is run')
+('Incorrect: ', 'run Omron Tateishi Electronics Co. the way the company')
+ThesewereoftenrelatedtoEuropeanconflictastheStuartPretenderswereaidedandencouragedbyBritainscontinentalenemiesfortheirownends 
+
+('Correct: ', 'aided the Stuart Pretenders enemies for their own ends')
+('Correct: ', "encouraged the Stuart Pretenders aided Britain 's continental enemies for their own ends")
+('Incorrect: ', 'were Stuart Pretenders')
+('Incorrect: ', 'related These often')
+('Incorrect: ', 'were Stuart Pretenders')
+ButitdoesthatatthecostofdeepeningthetaxpayersexposureiftheFHAisforcedtopayformoreloansgoingsour 
+
+('Correct: ', "does that at the cost of deepening the taxpayer 's exposure the FHA for more loans going sour")
+('Correct: ', 'is the FHA for more loans going sour')
+('Correct: ', 'pay the FHA for more loans going sour')
+('Incorrect: ', 'deepening the taxpayer')
+('Incorrect: ', 'forced the FHA')
+('Incorrect: ', 'going the FHA sour')
+Sincejoiningthecompetitionin1908Richmondhaswontenpremiershipsthemostrecentvictorybeingin1980 
+
+('Correct: ', 'joining the competition in 1908 , Richmond won ten premierships')
+('Correct: ', 'has Since joining the competition in 1908 Richmond won ten premierships')
+('Incorrect: ', 'won in Richmond ten premierships most recent in 1980')
+('Incorrect: ', 'being joining competition in 1908 , Richmond won ten premierships recent victory in 1980')
+OftheselfstartingvacuumcleanerhesaysCouldbeCuddlesMrsStinnettsdog 
+
+('Correct: ', 'starting Of the self - vacuum cleaner dog }')
+('Incorrect: ', "says Of the self - starting vacuum cleaner Could be Cuddles { Mrs. Stinnett 's dog }")
+('Incorrect: ', "be the self - starting vacuum Cuddles 's dog }")
+AspectrumfromasingleFIDhasalowsignaltonoiseratiobutfortunatelyitimprovesreadilywithaveragingofrepeatedacquisitions 
+
+('Correct: ', 'has a single FID a low signal-to-noise ratio repeated')
+('Correct: ', 'improves fortunately readily averaging of repeated acquisitions')
+('Correct: ', 'repeated single FID acquisitions')
+Indeedtheinsuranceadjustershadalreadyboltedoutofthecourtroom 
+
+('Correct: ', 'had the insurance adjusters already bolted out of the courtroom')
+('Incorrect: ', 'bolted the insurance adjusters out the courtroom')
+TheChemicalspokeswomansaidthebankhasexamineditsmethodologiesandinternalcontrols 
+
+('Correct: ', 'examined the bank its methodologies and internal controls')
+('Incorrect: ', 'said The Chemical spokeswoman')
+('Incorrect: ', 'has the bank')
+TyabbalsohasTyabbAirportaprivateairfieldwhichhasbeenoperatingformorethanthirtyyears 
+
+('Correct: ', 'has Tyabb Airport a')
+('Correct: ', 'has Tyabb Airport a')
+('Correct: ', 'been Tyabb Airport a private operating for more than thirty years')
+('Incorrect: ', 'operating airfield more than thirty years')
+TheSecondSectionindexwhichfell3687pointsFridaywasdown2144pointsor059tocloseat363606 
+
+('Correct: ', 'fell The Second Section index 36.87 points Friday to close at 3636.06')
+('Incorrect: ', 'was Friday')
+('Incorrect: ', 'close 3636.06')
+AtapresentationintheTorontoPearsonInternationalAirporthangarCelineDionhelpedthenewlysolventairlinedebutitsnewimage 
+
+('Incorrect: ', 'helped Dion the newly solvent airline debut its new image')
+Butthispracticesimplyreducesgovernmentinterestcostsratherthantrulycancelinggovernmentdebtandcanresultinhyperinflationifusedunsparingly 
+
+('Correct: ', 'reduces practice government interest costs than truly canceling government debt result in hyperinflation if used unsparingly')
+('Correct: ', 'canceling government interest costs government debt if used unsparingly')
+('Correct: ', 'used unsparingly')
+('Incorrect: ', 'result government interest costs rather than truly canceling government debt')
+Theforestproductsconcerncurrentlyhasabout38millionsharesoutstanding 
+
+('Correct: ', 'has The forest - products concern about 38 million shares outstanding')
+OnabroaderscaletherulingcouldencourageotherstatescourtstoadoptthelogicoftheNewYorkcourtnotonlyinDEScasesbutinotherproductrelatedlawsuitsaswell 
+
+('Correct: ', 'related other product lawsuits')
+('Incorrect: ', "encourage a broader scale the ruling other states ' courts to adopt the logic of the New court other - related")
+('Incorrect: ', 'adopt the logic of the New York court')
+HesoldthemwellbelowmarketvaluetoraisecashtopayoffmountingcreditcarddebtsincurredtobuypresentsforhisgirlfriendhisattorneyPhilipRusselltoldIFAR 
+
+('Correct: ', 'sold below market value to raise cash `` to pay off mounting credit - card debts ,')
+('Correct: ', 'raise market value cash `` to pay off mounting credit - card debts his girlfriend')
+('Correct: ', 'pay sold market value cash to off mounting credit - card debts presents his girlfriend his attorney Russell')
+('Correct: ', 'incurred credit - card debts buy presents girlfriend ,')
+('Correct: ', "told He sold them well below market value to raise cash `` to pay off mounting credit - card debts , '' incurred to buy presents for his girlfriend , his attorney , Philip Russell IFAR")
+('Incorrect: ', 'mounting market value credit - card debts')
+('Incorrect: ', 'buy off mounting credit - card debts his girlfriend , his attorney Philip Russell')
+AyearearlierUniFirstearned24millionor24centsashareadjustedforthesplit 
+
+('Correct: ', 'earned A year earlier UniFirst $ 2.4 million')
+('Incorrect: ', 'adjusted the split')
+ThecenterpieceofthatcomplextheLandmarkTowerwillbeJapanstallestbuildingwhenitiscompletedin1993 
+
+('Correct: ', "be The centerpiece Japan 's tallest building when it is completed")
+('Incorrect: ', "completed Japan 's tallest building")
+Duetotheopposingnatureofthetwosongstheycanbeviewedasadebateontheopposingattitudesonlovefoundthroughouttheplay 
+
+('Correct: ', 'viewed opposing nature of the two songs a debate on the opposing attitudes on love found throughout the play')
+('Correct: ', 'be opposing they debate on attitudes on love found throughout the play')
+('Correct: ', 'found Due to the opposing nature of the two songs attitudes on love the play')
+('Incorrect: ', 'opposing nature the two songs')
+TheclosestWatsonevergotwaswhenRepublicanshad12seatsintheStateHousein2003 
+
+('Correct: ', 'got The closest Watson ever when Republicans had 12 seats in the State House in 2003')
+('Correct: ', 'had Republicans 12 seats in the State House in 2003')
+('Incorrect: ', 'was The closest Watson ever got when Republicans had 12 in 2003')
+WhytheEpilogueismissingisunknown 
+
+('Correct: ', 'is Why the `` Epilogue is')
+('Incorrect: ', 'missing unknown')
+('Incorrect: ', 'is Why the `` Epilogue is')
+Herrecentreportclassifiesthestockasahold 
+
+('Correct: ', 'classifies the stock as a `` hold')
+Thefitnesscrazeitselfhasgonesoftthesurveyfound 
+
+('Correct: ', 'has The fitness craze itself gone soft')
+('Correct: ', 'gone The fitness craze itself soft')
+('Incorrect: ', 'found The fitness craze itself has gone soft survey')
+LikeotherBBCcontentofthemid1990sitoftenlampoonedthelowbudgetqualityofsatellitetelevisionavailableintheUKatthetime 
+
+('Correct: ', 'lampooned the low-budget quality of satellite television available in the UK at the time')
+TheensemblealsohasextensiverecordingswithDeutscheGrammophonDorianRecordingsNewportClassicNavonaRecordsandundertheirownlabel 
+
+('Correct: ', 'has The ensemble extensive recordings Grammophon')
+Acommonnamelogoandprogrammingschedulefollowedin1982withtheestablishmentoftheTV8networkbetweenthethreestationschangedtotheSouthernCrossNetworksevenyearslater 
+
+('Correct: ', 'followed common programming in 1982 the establishment of the `` TV8')
+('Correct: ', "changed with the the `` Southern Cross Network '' seven years later")
+Onehadbestnotdanceontopofacoffinuntilthelidissealedtightlyshut 
+
+('Correct: ', 'had One best not dance on top of a until the lid is sealed tightly')
+('Correct: ', 'dance One of a coffin until the lid')
+('Correct: ', 'is One had best not dance on top of a coffin until the lid is sealed tightly shut')
+('Correct: ', 'sealed tightly shut')
+('Incorrect: ', 'shut not the lid is sealed')
+SecondthedollarisshowingpersistentstrengthdespiteaslowdownintheUSeconomyshownbyeconomicindicators 
+
+('Correct: ', 'is the dollar showing persistent strength a slowdown in the U.S. economy shown by economic indicators')
+('Incorrect: ', 'showing the dollar persistent strength slowdown')
+('Incorrect: ', 'shown slowdown in the U.S. economy')
+Wideacceptanceofzeroenergybuildingtechnologymayrequiremoregovernmentincentivesorbuildingcoderegulationsthedevelopmentofrecognizedstandardsorsignificantincreasesinthecostofconventionalenergy 
+
+('Correct: ', 'require acceptance of zero-energy building technology more government incentives or building code')
+('Correct: ', 'recognized the development of standards , or')
+('Incorrect: ', 'building technology standards')
+Thisattirehasalsobecomepopularwithwomenofothercommunities 
+
+('Correct: ', 'has This attire popular with women of other communities')
+('Incorrect: ', 'become popular with women of other communities')
+Employerscouldalsopayasubminimumtrainingwagefor90daystonewworkerswhoareupto19yearsoldandthenforanother90daysifthecompanyinstitutesaspecifictrainingprogramforthenewcomers 
+
+('Correct: ', "pay Employers a subminimum training wage '' for 90 days to new workers old for another 90 days if the company institutes a specific training program for the newcomers")
+('Correct: ', 'are a new workers the company institutes a specific training program newcomers')
+('Correct: ', 'institutes workers the company a specific training program for the newcomers')
+Theredesigned2006RamSRT10cameinMineralGrayMetallicInfernoRedandBrilliantBlackCrystalClearCoat 
+
+('Correct: ', 'came The redesigned 2006 Ram SRT-10 Gray Metallic')
+('Incorrect: ', 'Brilliant SRT-10')
+Withversionsin148172196and1144scaleBigGunModelWarshipcombatclubshaverulesthatmakeprovisionsforcannoncaliberandarmorthicknesstobescaledaccordingtothatwhichexistedontheprototypevessel 
+
+('Correct: ', 'have Big Gun Model Warship combat clubs')
+('Correct: ', 'make Model Warship combat clubs rules provisions for caliber')
+('Correct: ', 'scaled With versions in 1/48 1/72 Big Gun Model Warship combat clubs armor thickness according that which existed on the prototype vessel')
+('Correct: ', 'according With versions in 1/48 , 1/72 , 1/96 , and 1/144 scale , Big Gun Model Warship combat clubs have rules that make provisions for cannon caliber and armor thickness to be scaled that which existed on the prototype vessel')
+('Correct: ', 'existed With versions in 1/48 , 1/72 , 1/96 , and 1/144 scale Big Gun Model Warship combat clubs for cannon caliber and scaled on the')
+('Incorrect: ', 'be Big Gun Model Warship combat clubs scaled')
+SpennymoorTownFCarethemainlocalfootballteamandwontheFACarlsbergVaseafterwinning21inthefinalatWembleyStadiumagainstTunbridgeWellsinMay2013 
+
+('Correct: ', 'are Spennymoor Town F.C. the main local football team Vase')
+('Incorrect: ', 'won the FA Carlsberg Vase after')
+('Incorrect: ', 'winning the FA Carlsberg Vase')
+Inthewinterof1976KnievelwasscheduledforamajorjumpinChicagoIllinois 
+
+('Correct: ', 'was In the winter of 1976 Knievel scheduled for a major jump in Chicago , Illinois')
+('Incorrect: ', 'scheduled Knievel a major jump in Chicago , Illinois')
+IcantbelievetheyGMwillletFordhaveafreerunsaidStephenReitmanaEuropeanautoindustryanalystatUBSPhillipsDrew 
+
+('Correct: ', 'let GM Ford have a free run Stephen')
+('Correct: ', 'have Ford a free run Reitman')
+('Correct: ', 'said I ca GM ) will let Ford have a free run Stephen')
+('Incorrect: ', 'believe I ca they GM Reitman')
+Nobodytoldusnobodycalledussaysanofficialclosetothecasewhoaskednottobenamed 
+
+('Correct: ', 'says Nobody nobody an official close to the case who asked not to be named')
+('Correct: ', 'told Nobody close to case asked not to be named')
+('Correct: ', 'asked an official the case not')
+('Incorrect: ', 'called Nobody')
+('Incorrect: ', 'be named')
+In1964BarrieappearedintwoepisodesofAlfredHitchcockPresents 
+
+('Correct: ', "appeared In 1964 Barrie in two episodes of `` Alfred Hitchcock Presents ''")
+NowMrBrobergalawyerclaimshedplayforfree 
+
+('Correct: ', "claims Mr. Broberg he 'd play for free")
+('Correct: ', 'play Mr. Broberg for free')
+UnlikeUncleSamlaterheisnotafigureofauthoritybutratherayeomanwhoprefershissmallbeeranddomesticpeacepossessedofneitherpatriarchalpowernorheroicdefiance 
+
+('Correct: ', 'is Unlike Uncle Sam later a figure of authority yeoman prefers his small beer and domestic peace , possessed of neither patriarchal power nor heroic defiance')
+('Correct: ', 'prefers a yeoman his small beer and domestic peace , possessed of neither patriarchal power nor heroic defiance')
+('Correct: ', 'possessed a yeoman of')
+ThesecondwasnamedafterformerUSPresidentGeorgeHWBushstayedaboardinNovember1995 
+
+('Correct: ', 'was The second named after former US President George H. W. Bush stayed aboard in November 1995')
+('Correct: ', 'named The second former US President George H. W. Bush')
+('Incorrect: ', 'stayed H. Bush aboard in November 1995')
+Bythenshewasraisingnotonlyherownchildrenbutalsohernephewswhohadbeenorphanedbytheplague 
+
+('Correct: ', 'was she only her also her nephews by the plague')
+('Incorrect: ', 'raising she only her own children plague')
+('Incorrect: ', 'had her nephews orphaned by the plague')
+('Incorrect: ', 'been she not only her own children also her nephews orphaned the plague')
+RollsRoyceMotorCarsIncsaiditexpectsitsUSsalestoremainsteadyatabout1200carsin1990 
+
+('Correct: ', 'said Rolls - Royce Motor Cars Inc. it expects its U.S. sales to remain steady at about 1,200 cars in')
+('Correct: ', 'expects Rolls - Royce Motor Cars Inc. its U.S. sales to remain steady at about 1,200 cars in')
+('Correct: ', 'remain its U.S. sales steady at about 1,200 cars in')
+ThestaffprovidesafamilystylehomecookeddinnereverynightwhichisattendednotonlybyDartmouthstudentsbutbycommunitymembersAppalachianTrailthruhikerstouristsandevenDartmouthprofessors 
+
+('Correct: ', 'provides The staff a family-style , home-cooked not only by Dartmouth students ,')
+('Correct: ', 'attended staff provides a family-style dinner every night only Dartmouth students ,')
+('Incorrect: ', 'is The staff')
+LangfordkeptWalcottatadistancewithhislongerreachandusedhisfootworktoevadeallofWalcottsattacks 
+
+('Correct: ', 'kept Langford Walcott a distance attacks')
+('Correct: ', "used Langford his footwork to evade all of Walcott 's")
+('Incorrect: ', 'reach Langford')
+('Incorrect: ', "evade Langford Walcott 's")
+Failuretoperformthedutycouldleadtoprosecutionatlawandreenslavement 
+
+('Correct: ', 'perform the duty could lead to prosecution at law and re-enslavement')
+('Correct: ', 'lead Failure to perform the duty prosecution at law and re-enslavement')
+Thebandalsoconfirmedthatthealbumwouldbeselfreleased 
+
+('Incorrect: ', 'confirmed The band')
+('Incorrect: ', 'be the album self-released')
+ConsideredasawholeMrLanesaidthefilingsrequiredundertheproposedruleswillbeatleastaseffectiveifnotmoresoforinvestorsfollowingtransactions 
+
+('Correct: ', 'required the filings the')
+('Correct: ', 'proposed filings rules least as effective')
+('Correct: ', 'following the filings required least as effective transactions')
+('Incorrect: ', 'Considered a whole least as effective if not more so')
+('Incorrect: ', 'said Mr. Lane')
+('Incorrect: ', 'be the proposed least as effective more so')
+Maleshadamedianincomeof28750versus16250forfemales 
+
+('Correct: ', 'had Males a median income of $ 28,750')
+ThefundraiserwassuccessfulandthetripoccurredfromJunethroughSeptemberof2014 
+
+('Correct: ', 'occurred the trip June through September of 2014')
+('Incorrect: ', 'was The fundraiser')
+HealsounfortunatelyillustratedthisintricatejazzytapestrywithMrPearsonsimagesthistimeofgeometricorrepeatingobjectsinakitschymirroringofthemusicalstructurethatwasthoroughlydistractingfromMrReichspieceandMrStoltzmanselegantexecutionofit 
+
+('Correct: ', "illustrated this intricate , jazzy tapestry with Mr. Pearson 's images objects")
+('Correct: ', "distracting a kitschy mirroring of Mr. Reich 's piece and Mr. Stoltzman 's elegant")
+('Incorrect: ', 'was thoroughly and')
+AmotorcyclespeedwaylongtrackmeetingoneofthefewheldintheUKwasstagedatAmmanford 
+
+('Correct: ', 'held A motorcycle speedway long-track meeting one of the few in the UK')
+('Correct: ', 'was A motorcycle speedway long-track meeting one of the few held')
+('Correct: ', 'staged A motorcycle UK at Ammanford')
+Theconvictionstemmedfromfederalchargesofconsumerfraudforsaleofphonyinfantapplejuicebetween1978and1983 
+
+('Correct: ', 'stemmed The conviction federal charges of consumer infant apple juice between 1978 and 1983')
+Thetaxhasraisedlessthanonebillionmarks5453millionannuallyinrecentyearsbutthegovernmenthasbeenreluctanttoabolishthelevyforbudgetaryconcerns 
+
+('Correct: ', 'been The tax raised less than one billion marks ( $ 545.3 million annually in recent years the government reluctant abolish the levy for budgetary concerns')
+('Correct: ', 'abolish government the levy for budgetary concerns')
+('Incorrect: ', 'has The tax the government')
+('Incorrect: ', 'raised The tax one')
+('Incorrect: ', 'has The tax the government')
+EdisonBrothersStoresIncsaiditagreedtobuy229FoxmoorwomensapparelstoresfromFoxmoorSpecialtyStoresCorpaunitofDylexLtdofToronto 
+
+('Correct: ', "said Edison Brothers Stores Inc. it agreed to buy 229 Foxmoor women 's apparel stores from Foxmoor Specialty Stores Corp.")
+('Correct: ', "agreed Edison Brothers Stores Inc. buy 229 Foxmoor women 's apparel stores from Foxmoor Specialty Stores Corp.")
+('Correct: ', "buy Edison Brothers 229 Foxmoor women 's apparel stores Foxmoor Specialty Stores Corp.")
+WithnoassignedtasktheCosmosexpressedconcernforwhatBattramightdo 
+
+('Correct: ', 'assigned task')
+('Correct: ', 'expressed no Cosmos concern for what Battra might do')
+('Correct: ', 'do Battra might')
+Therehavebeentwocrashesinvolvingfatalitiesattheairfieldsinceitwasestablished 
+
+('Correct: ', 'have two crashes involving fatalities at the airfield')
+('Correct: ', 'been There two crashes involving fatalities at the airfield since')
+('Incorrect: ', 'involving two crashes fatalities at the airfield')
+('Incorrect: ', 'was There')
+('Incorrect: ', 'established two crashes involving fatalities at the airfield')
+AlthoughunderconstantattackfromkamikazesaswellasfightersanddivebombersHazelwoodcamethroughtheinvasionuntouchedandonthenightof25Februarysanktwosmallenemyfreighterswithherguns 
+
+('Correct: ', "came `` Hazelwood '' the invasion")
+('Correct: ', "sank '' the night of 25 small enemy freighters with her guns")
+MoorebrieflydroppedMarcianointhesecondroundbutMarcianorecoveredandknockedMooredownfivetimesknockinghimoutintheninthtoretainthebelt 
+
+('Correct: ', 'dropped Moore Marciano in the second round Marciano in the ninth to retain the belt')
+('Correct: ', 'recovered Moore Marciano the Marciano knocked Moore')
+('Correct: ', 'knocked Moore Marciano Moore')
+('Correct: ', 'knocking Moore Marciano Moore down five times in the ninth to')
+('Correct: ', 'retain Moore Marciano Marciano in the belt')
+LukeRobertRavenstahlisanAmericanpoliticianwhoservedasthe59thMayorofPittsburghfrom2006until2014 
+
+('Correct: ', 'is Luke Robert the 59th Mayor of Pittsburgh')
+('Correct: ', 'served American politician the 59th Mayor of Pittsburgh from 2006 until 2014')
+TheRevWilliamAlfredQuaylewashonoredbyhisalmamaterBakerUniversitywiththedegreesLittD 
+
+('Incorrect: ', 'was The Rev. William Alfred Quayle honored')
+('Incorrect: ', 'honored The Rev. William Alfred Quayle')
+TechnologystocksborethebruntoftheOTCmarketsrecentselloffandtraderssayitsnaturalthattheyreboundsharplynowthatthemarkethasturnedaround 
+
+('Correct: ', 'bore the brunt of the OTC market the market')
+('Correct: ', 'rebound traders sharply now the market turned around')
+('Correct: ', "'s OTC market recent sell - off")
+('Incorrect: ', "say traders it 's")
+('Incorrect: ', 'has the market turned')
+('Incorrect: ', 'turned the market')
+InitiallyflyingtheA4BSkyhawkthesquadronlatertransitionedtotheA4LSkyhawk 
+
+('Correct: ', 'flying the A-4B Skyhawk')
+('Correct: ', 'transitioned the squadron the A-4L Skyhawk')
+MrsMarcosstrialisexpectedtobegininMarch 
+
+('Correct: ', "expected Mrs. Marcos 's trial begin in March")
+('Correct: ', "begin Mrs. Marcos 's trial in March")
+('Incorrect: ', "is Mrs. Marcos 's trial")
+ShawIndustrieswhichagreedtoacquireArmstrongWorldIndustriescarpetoperationsforanundisclosedpricerose214to2618 
+
+('Incorrect: ', "agreed Shaw Industries acquire Armstrong World Industries '")
+('Incorrect: ', "acquire Shaw Industries Armstrong World Industries '")
+('Incorrect: ', 'rose price 2')
+OriginallyHankMcCoyretainsthebasicfeaturesofanormalhumanalongsideagenerallysimianphysiologyequivalenttothatofaGreatApe 
+
+('Incorrect: ', 'retains Hank McCoy the basic features')
+IfgiventhisdatatheGermanswouldbeabletoadjusttheiraimandcorrectanyshortfall 
+
+('Correct: ', 'given this data')
+('Correct: ', 'adjust the Germans their aim correct any shortfall')
+('Correct: ', 'correct given this data Germans any shortfall')
+('Incorrect: ', 'be the Germans')
+AccordingtoSamaritantraditionhowevertheSamaritanethnonymisnotderivedfromtheregionofSamariabutfromthefactthattheyweretheGuardiansofthetrueIsraelitereligion 
+
+('Correct: ', "According Samaritan tradition the Samaritan ethnonym is not derived from the region of Samaria , from the fact that they were the `` Guardians '' of the true Israelite religion")
+('Incorrect: ', 'is the Samaritan ethnonym not from the region of Samaria')
+('Incorrect: ', 'derived the Samaritan ethnonym the region of Samaria')
+('Incorrect: ', 'were Guardians')
+In2004theBrumbiesfinishedatthetopoftheSuper12tablesixpointsclearofthenextbestteam 
+
+('Correct: ', 'finished In 2004 the Brumbies at the top of the Super 12 table')
+JamesArthurHogueisaUSimpostorwhomostfamouslyenteredPrincetonUniversitybyposingasaselftaughtorphan 
+
+('Correct: ', 'entered James Arthur Hogue Princeton University posing as a self-taught orphan')
+('Correct: ', 'posing James a self-taught orphan')
+('Incorrect: ', 'is James Arthur a')
+ThesiteconsistsofthreesubterraneanGrottofolliesconstructedinthe18thcenturysplitbetweentwoareasoneonthewesternsideofthelakeatandoneontheeasternsideat 
+
+('Correct: ', 'consists The site three subterranean Grotto follies , in the 18th century split between two areas')
+('Correct: ', 'constructed The site consists of three subterranean Grotto follies in the 18th century , split between two areas')
+Swinburnemovesinhiswritingprogramfromthephilosophicaltothetheologicalbuildinghiscaserigorously 
+
+('Correct: ', 'building Swinburne his case rigorously')
+AsagrouptheteamwasenshrinedintotheBasketballHallofFamein1959 
+
+('Correct: ', 'enshrined the team the Basketball Hall of Fame in 1959')
+('Incorrect: ', 'was As a group the team')
+AccordingtotheSouthKoreansmanyKoreansbecamevictimsofJapanesebrutalitiesduringthecolonialperiod 
+
+('Correct: ', 'According the South Koreans , many Koreans became victims of Japanese brutalities during the colonial period')
+('Correct: ', 'became According to many Koreans victims of Japanese brutalities during the colonial period')
+DespitethebelowfreezingtemperaturesBeuerleinwasredhotoutduelingBrettFavreandconnectingon29of42attemptswith3TDsandnoINTsandpassingforathenfranchiserecord373yards 
+
+('Correct: ', 'connecting Despite the below-freezing temperatures 29 of 42 attempts')
+('Correct: ', 'out-dueling Despite the below-freezing temperatures Beuerlein Brett with 3 TDs and no INTs , passing for a then franchise-record 373 yards')
+('Incorrect: ', 'was Despite the below-freezing temperatures Beuerlein')
+('Incorrect: ', 'passing with 3 TDs and no INTs')
+TheRiverStourTrustformedin1968hasitsheadquartersinSudburyandapurposebuiltVisitorCentrelocatedatCornardLock 
+
+('Correct: ', 'formed The River Stour Trust in 1968 Centre located at Cornard Lock')
+('Correct: ', 'has The River Stour Trust its headquarters in Sudbury Centre located at Cornard Lock')
+('Correct: ', 'built River Stour Trust in 1968 purpose Visitor Centre located at Cornard Lock')
+('Incorrect: ', 'located The River Stour Trust Visitor Centre located at')
+Theexternalgaugeisusuallyreadabledirectlyandmostalsoincorporateanelectronicsendertooperateafuelgaugeonthedashboard 
+
+('Correct: ', 'operate an electronic sender a fuel gauge')
+('Incorrect: ', 'is The external gauge usually')
+('Incorrect: ', 'incorporate an electronic sender on the dashboard')
+In2012BloombergBusinessweekvotedSanFranciscoasAmericasBestCity 
+
+('Correct: ', 'voted In 2012 Bloomberg Businessweek San Francisco')
+ThecitywasfoundedbytheWesternTownLotCompanyin1880andoriginallynamedNordlandwiththeplattedstreetsgivenNorwegiannames 
+
+('Correct: ', 'founded The city the Western Town in 1880 platted names')
+('Correct: ', 'named The city')
+('Incorrect: ', 'was The city 1880 platted')
+('Incorrect: ', 'given Norwegian names')
+SenateAppropriationsCommitteeChairmanRobertByrdDWVastronglyresisteddeepercutssoughtbytheHouse 
+
+('Correct: ', 'resisted Senate Appropriations Committee Chairman Robert Byrd ( D. W.Va deeper cuts sought the House')
+('Correct: ', 'sought the House')
+Thispolicywashoweveropposedbytheminerswhodemandedthattheinspectionsbecarriedoutbyexperiencedcolliers 
+
+('Correct: ', 'demanded the miners the inspections be carried out')
+('Correct: ', 'carried the inspections experienced')
+('Incorrect: ', 'was This policy')
+('Incorrect: ', 'opposed miners the inspections')
+('Incorrect: ', 'be the inspections')
+RedHatengineersidentifiedproblemswithProPolicethoughandin2005reimplementedstacksmashingprotectionforinclusioninGCC41 
+
+('Correct: ', 'identified RedHat engineers ProPolice though')
+('Incorrect: ', 're-implemented RedHat engineers 2005 stack-smashing protection')
+('Incorrect: ', 'stack-smashing RedHat engineers identified problems 2005 protection')
+ADemocrathebecametheyoungestmayorinPittsburghshistoryinSeptember2006attheageof26 
+
+('Correct: ', "became A Democrat the youngest mayor in Pittsburgh 's history in September 2006 of 26")
+ThisismostcommoninWesterncountriesinthosewithBarrettsesophagusandoccursinthecuboidalcells 
+
+('Correct: ', "occurs common in Western countries Barrett 's esophagus the cuboidal cells")
+('Incorrect: ', 'is This most common in Western countries those')
+Thisenginewasequippedwithanelectronicallycontrolledcarburetor 
+
+('Correct: ', 'equipped engine electronically carburetor')
+('Correct: ', 'controlled electronically carburetor')
+('Incorrect: ', 'was This engine')
+Therewere143householdsoutofwhich301hadchildrenundertheageof18livingwiththem497weremarriedcoupleslivingtogether119hadafemalehouseholderwithnohusbandpresentand364werenonfamilies 
+
+('Correct: ', 'married 49.7 % couples')
+('Incorrect: ', 'had 143')
+('Incorrect: ', 'living couples together')
+('Incorrect: ', 'living couples together')
+('Incorrect: ', 'had 143')
+NoannouncementfromUTVwasmadeaboutthedecisiontoclosethestationearlierthanplanned 
+
+('Correct: ', 'was No announcement UTV about the decision to close the station earlier than planned')
+('Correct: ', 'made No announcement UTV about the decision to close the station earlier than planned')
+('Correct: ', 'close the decision the station earlier than planned')
+('Incorrect: ', 'planned station')
+ForalistofallmedalistspleaseseetheListofGreatAmericanBeerFestivalmedalists 
+
+('Correct: ', 'see a list of the List of Great American Beer Festival medalists')
+ThoughMrPackerhassincesoldhisstakeCourtauldsismovingtokeepitsinstitutionalshareholdershappy 
+
+('Correct: ', 'sold Mr. Packer his stake')
+('Correct: ', 'moving Mr. Packer keep its institutional shareholders happy')
+('Correct: ', 'keep Mr. Packer its institutional shareholders happy')
+('Incorrect: ', 'has Mr. Packer')
+('Incorrect: ', 'is Mr. Packer')
+Theeffectisthatlawsuitsthatmighthavebeenbarredbecausetheywerefiledtoolatecouldproceedbecauseoftheoneyearextension 
+
+('Correct: ', 'filed The effect too late proceed because of year')
+('Correct: ', 'is The effect the one - year extension')
+('Incorrect: ', 'have barred the one - year extension')
+('Incorrect: ', 'been lawsuits might barred the one - year extension')
+('Incorrect: ', 'barred because because the one - year extension')
+('Incorrect: ', 'were lawsuits filed too late')
+('Incorrect: ', 'proceed late because of one - year extension')
+In1977sheappearedintwotelevisionfilmsasthemotherofLesleyAnnWarrenscharacterin79ParkAvenueandasEmilyMcPhailinTellMeMyName 
+
+('Incorrect: ', 'appeared In 1977 in two television films Emily')
+('Incorrect: ', "Tell Emily McPhail My Name ''")
+MeanwhiletheMasonCityDivisioncontinuedtooperateasusual 
+
+('Correct: ', 'continued the Mason City Division operate as usual')
+('Correct: ', 'operate the Mason City Division as usual')
+HoweverduringhisrehearsalKnievellostcontrolofthemotorcycleandcrashedintoacameraman 
+
+('Correct: ', 'lost during his rehearsal Knievel')
+('Correct: ', 'crashed Knievel lost control the motorcycle a cameraman')
+TheopeningcreditssequenceforthecollectionwasdirectedbyHanadaDaizaburo 
+
+('Correct: ', 'directed The opening credits the collection Hanada Daizaburo')
+JALintroducedjetserviceontheFukuokaTokyoroutein1961 
+
+('Correct: ', 'introduced JAL jet service on the Fukuoka-Tokyo route in 1961')
+MrRifenburghsaidtheboardstillhasntactedonmostoftheinternalreportsrecommendationspendingrestatementofthebalancesheet 
+
+('Correct: ', "said Mr. Rifenburgh the board still has n't acted on most of the internal report 's recommendations pending restatement of the balance sheet")
+('Correct: ', "acted Mr. Rifenburgh the board most of the internal report 's recommendations of the balance sheet")
+('Incorrect: ', 'has the board of the balance sheet')
+HedefinesWildCardsasLowProbabilityHighImpacteventsthatweretheytooccurwouldseverelyimpactthehumancondition 
+
+('Correct: ', 'defines Wild Cards High Impact events that , were they to occur')
+('Incorrect: ', 'were occur')
+('Incorrect: ', 'occur defines Wild Cards Impact events the human condition')
+('Incorrect: ', "impact events that the human condition '")
+AnnualizedinterestratesoncertaininvestmentsasreportedbytheFederalReserveBoardonaweeklyaveragebasis 
+
+('Correct: ', 'Annualized interest rates on certain investments')
+('Incorrect: ', 'reported Annualized interest rates on certain investments')
+GeorgeBluthSrpatriarchoftheBluthfamilyisthefounderandformerCEOoftheBluthCompanywhichmarketsandbuildsminimansionsamongmanyotheractivities 
+
+('Correct: ', 'is George Bluth Sr. , patriarch of the Bluth family the founder and which markets and builds mini-mansions among many other activities')
+('Incorrect: ', 'builds George Bluth Sr. of Bluth family founder CEO of the Bluth Company which markets mini-mansions among many other activities')
+RichardNewsomaCaliforniastateofficialwholastyearexaminedLincolnsparentAmericanContinentalCorpsaidhealsosawevidencethatcrimeshadbeencommitted 
+
+('Correct: ', 'saw evidence that crimes had been committed')
+('Correct: ', 'had saw evidence that crimes committed')
+('Correct: ', "examined Lincoln 's parent")
+('Correct: ', "been Lincoln 's American saw evidence that crimes committed")
+('Incorrect: ', 'said Richard Newsom a California state American')
+('Incorrect: ', 'committed a California state official he saw evidence that crimes')
+IwaspleasedtonotethatyourOct23CentennialJournalitemrecognizedthemoneyfundconceptasoneofthesignificanteventsofthepastcentury 
+
+('Correct: ', 'note that Oct. 23 Centennial Journal item recognized the money - fund concept as one of the significant events of the past century')
+('Incorrect: ', 'was I')
+('Incorrect: ', 'recognized Oct. 23 Centennial Journal item the money - fund concept as one of the significant events of the past century')
+TakeoverstocktradersnotedthatwiththejunkbondmarketindisarrayGeorgiaPacificsbidisanindicationofwherethetakeovergameisheadednamelyindustrialcompaniescancontinuebiddingforoneanotherbutfinancialbuyerssuchasleveragedbuyoutfirmswillbeatadisadvantageinobtainingfinancing 
+
+('Correct: ', "noted Takeover stock traders that with the junk - bond market in disarray , Georgia - Pacific 's bid is an indication of where the takeover game is headed : namely , industrial companies can continue bidding for one another financial buyers such as leveraged buy - out firms will be at a disadvantage in obtaining financing")
+('Correct: ', 'continue Georgia industrial companies bidding for one another')
+('Correct: ', "bidding Georgia - Pacific 's the takeover game industrial companies one another")
+('Correct: ', 'is Takeover stock traders industrial companies can continue bidding')
+('Incorrect: ', 'is Takeover stock traders industrial companies can continue bidding')
+('Incorrect: ', 'headed the takeover game industrial companies continue bidding')
+('Incorrect: ', 'be stock traders industrial companies continue bidding financial buyers leveraged buy - firms')
+('Incorrect: ', "obtaining Georgia - Pacific 's bid industrial companies firms financing")
+AshortdistancetotheeastNC111divergesonGreenwoodBoulevard 
+
+('Correct: ', 'diverges NC 111 Greenwood Boulevard')
+Iftheressomethingweirdanditdontlookgood 
+
+('Incorrect: ', "do n't look good")
+('Incorrect: ', 'look good')
+ItscultivationevendeclinedinfavouroftheAsianspecieswhichwasintroducedtoEastAfricaearlyinthecommoneraandspreadwestward 
+
+('Correct: ', 'declined Its cultivation in favour of the Asian species , which was introduced to East Africa early in the common era and spread westward')
+('Correct: ', 'introduced Its cultivation East Africa early in the common era and spread westward')
+('Incorrect: ', 'was Its introduced to common era and spread westward')
+('Incorrect: ', 'spread common era westward')
+WhilepursuinghisMFAatColumbiainNewYorkScieszkapaintedapartments 
+
+('Correct: ', 'painted While pursuing his MFA at Columbia in New York Scieszka apartments')
+('Incorrect: ', 'pursuing his MFA York')
+IntheCrimeanWarthe5thDragoonGuardsformedpartoftheHeavyCavalryBrigadeandwassenttotheBlackSeain1854 
+
+('Correct: ', 'formed In the Crimean War the 5th Dragoon Guards part the Heavy Cavalry Brigade')
+('Correct: ', 'sent In the Crimean War the 5th Dragoon Guards formed part of the Heavy Cavalry Brigade')
+('Incorrect: ', 'was In the Crimean War the 5th Dragoon Brigade')
+Thatcompareswith35butterfatforwholemilk 
+
+('Correct: ', 'compares That 3.5 % butterfat for whole milk')
+Thelatest10yearnotesendedatabout1001632toyield790comparedwith1001132toyield793onFriday 
+
+('Correct: ', 'ended The latest 10 - year notes about 100 16\\/32 to yield 7.90 % , compared with 100 11\\/32 yield')
+('Correct: ', 'yield The latest 10 - year notes about 100 16\\/32 7.90 % 7.93 Friday')
+('Correct: ', 'compared about 100 16\\/32 to yield 7.90 % 100 11\\/32')
+('Correct: ', 'yield The latest 10 - year notes about 100 16\\/32 7.90 % 7.93 Friday')
+ScarpettareturnstoVirginiainTraceconvincingherselfthatshewasfiredfromherpositionattherequestofherreplacementDrJoelMarcus 
+
+('Correct: ', 'convincing Scarpetta herself that she was fired from her position request of her')
+('Incorrect: ', 'returns Scarpetta that she was fired from her the request of')
+('Incorrect: ', 'was Scarpetta the request')
+('Incorrect: ', 'fired Scarpetta convincing herself her position')
+Noatakhasagravelpublicairstripandisprimarilyreachedbyair 
+
+('Correct: ', 'has Noatak a gravel public airstrip and')
+('Correct: ', 'reached Noatak air')
+('Incorrect: ', 'is Noatak a gravel public airstrip primarily')
+Despitethemodestgainstraderssaidthemarketremainsdullwithinvestorsremainingcautiouslyonthesidelines 
+
+('Correct: ', 'said traders the market remains dull , with investors remaining cautiously on the sidelines')
+('Correct: ', 'remaining investors cautiously the sidelines')
+('Incorrect: ', 'remains the market dull')
+Thesearevisuallyverysimilartopartnumber218901400211withthesameATstyleplugandchassissilverlabelonthereversebearingtheAnyKeymonikerscrewsholdingthekeyboardtogethermacroprogrammingrequiringthecontrolkeyandlackingtheAnyKeyinscriptionontheirface 
+
+('Correct: ', 'are These visually number reverse bearing the AnyKey moniker')
+('Correct: ', 'holding screws the keyboard together')
+('Correct: ', 'lacking similar to style plug macro the AnyKey inscription on their face')
+('Incorrect: ', 'bearing label on the reverse the AnyKey moniker')
+('Incorrect: ', 'requiring the control')
+TheonlypeoplewhoareflyingarethosewhohavetosaidFrankMoorechairmanoftheAustralianTouristIndustryAssociation 
+
+('Correct: ', 'said The only people who are flying are those who have to Frank Moore chairman of Australian Tourist Industry')
+('Incorrect: ', 'are those Tourist')
+('Incorrect: ', 'flying The only people those Moore')
+('Incorrect: ', 'are those Tourist')
+('Incorrect: ', 'have those Frank')
+ThecommunityisservedbytheUnitedStatesPostalServiceHinsdalePostOffice 
+
+('Correct: ', 'served The community the United States Postal Service Hinsdale Post Office')
+('Incorrect: ', 'is The community')
+Withintwohoursviewerspledgedover400000accordingtoaRedCrossexecutive 
+
+('Correct: ', 'pledged Within two hours viewers over $ 400,000')
+('Correct: ', 'according Within two hours , viewers pledged over $ 400,000 a Red Cross executive')
+WatsonhasservedasMinorityLeadersinceelectedbyhiscaucusinNovember1998 
+
+('Correct: ', 'served Watson as Minority Leader since elected by his caucus in November 1998')
+('Correct: ', 'elected his caucus November 1998')
+('Incorrect: ', 'has Watson served as Minority Leader')
+ThisweekNewYorkCityannounceda10pointpolicypatternedonthefederalbillofrightsfortaxpayers 
+
+('Correct: ', 'announced This week New York City a 10 - point policy patterned')
+('Correct: ', 'patterned a 10 - point policy the federal bill of rights')
+MrWathenwhosaysPinkertonshadalossofnearly8millionin1987underAmericanBrandsboaststhathesmadePinkertonsprofitableagain 
+
+('Correct: ', "says Mr. Wathen Pinkerton 's had a loss of nearly $ 8 million in 1987 under American Brands")
+('Correct: ', 'had Pinkerton a loss of nearly $ 8 million in 1987 under American Brands')
+('Correct: ', "made Pinkerton American boasts that he 's Pinkerton 's profitable")
+('Incorrect: ', "boasts Pinkerton 's a loss of nearly $ 8 million")
+('Incorrect: ', "'s Pinkerton Brands made")
+AsofSept30AmericanBrandshad952millionsharesoutstanding 
+
+('Correct: ', 'had As of Sept. 30 American Brands 95.2 million shares outstanding')
+Underthedebtequityprogrampotentialinvestorswillsubmitsealedbidsonthepercentageofdiscounttheyarewillingtopurchasethedebtatandthebidswillbeallocatedbasedonthesediscountoffers 
+
+('Correct: ', 'submit potential investors sealed bids the percentage of discount they are the bids')
+('Correct: ', 'allocated the percentage of discount the bids based discount')
+('Correct: ', 'based allocated these discount offers')
+('Incorrect: ', 'are discount')
+('Incorrect: ', 'purchase the debt at')
+('Incorrect: ', 'be potential investors the bids')
+ButalthoughthegoldensharehasbeenwaivedahostilebidderforJaguarwouldstillhavetoaltertheBritishconcernsarticlesofassociationwhichbanshareholdingsofmorethan15 
+
+('Correct: ', "been the golden share waived Jaguar alter the British concern 's articles of association")
+('Incorrect: ', 'waived the golden share')
+('Incorrect: ', 'have Jaguar to alter the')
+('Incorrect: ', 'alter the')
+Theseriesofthreeconstitutionalamendmentsin1933severelycurtailedtheroleoftheGovernorGeneraloftheIrishFreeState 
+
+('Correct: ', 'curtailed The series of three constitutional amendments in 1933 role of the Governor-General of the Irish Free State')
+TheirnumberscontinuedtoincreaseeachyearasrumoursaboutimmigrationrestrictionsappearedinmuchoftheCypriotmedia 
+
+('Correct: ', 'increase Their numbers each year as rumours about immigration restrictions appeared in much of the Cypriot media')
+('Correct: ', 'appeared immigration restrictions in much of the Cypriot media')
+('Incorrect: ', 'continued Their numbers increase each year')
+('Incorrect: ', 'rumours Their numbers immigration restrictions')
+FirstBostonincurredmillionsofdollarsoflossesonCampeausecuritiesitownedaswellasonspecialsecuritiesitcouldntsell 
+
+('Correct: ', 'incurred millions of dollars of losses on Campeau securities')
+('Correct: ', 'owned Campeau securities well as on special securities it')
+('Incorrect: ', 'sell securities')
+Theestablishmentofamuseumhadfirstbeenplannedin1821bythePhilosophicalSocietyofAustralasiaandalthoughspecimenswerecollectedtheSocietyfoldedin1822 
+
+('Correct: ', 'had The establishment of a museum first by the Philosophical Society of Australasia specimens')
+('Correct: ', 'collected The establishment of a museum first been planned in 1821 by the Philosophical Society of Australasia specimens')
+('Correct: ', 'been The establishment of a museum first in 1821 the Philosophical Society of Australasia specimens')
+('Incorrect: ', 'planned The establishment of a in 1821 by the Philosophical Society of Australasia')
+('Incorrect: ', 'were The establishment of a first specimens')
+('Incorrect: ', 'folded The establishment of a museum the Society in 1822')
+Andhegotridoflowmarginbusinessesthatjustwerentmakingmoneyforthecompany 
+
+('Correct: ', 'rid low - margin businesses making')
+('Incorrect: ', 'got rid low')
+('Incorrect: ', "were margin businesses n't making money for the company")
+('Incorrect: ', 'making money for the company')
+AssistingintherecordingprocesswereFernandoCabelloandtwofriendsofthegroupEvaDaldaandLydiaIovanne 
+
+('Correct: ', 'Assisting the recording process Fernando Cabello and two friends of the group , Eva Dalda and Lydia Iovanne')
+HoweverStatesWestisntabandoningitspursuitofthemuchlargerMesa 
+
+('Correct: ', "is StatesWest is n't abandoning its pursuit of the much - larger Mesa")
+('Incorrect: ', 'abandoning StatesWest its pursuit of the much - larger Mesa')
+AlthoughKnievelbrokehisarmshewasmoredistraughtoverapermanentinjuryhisaccidentcausedtothecameraman 
+
+('Correct: ', 'broke Knievel his arms he was more distraught over a permanent injury his accident')
+('Incorrect: ', 'was Although Knievel more distraught')
+('Incorrect: ', 'caused Knievel broke , he was more distraught accident the cameraman')
+InthisexplanationthepurposeofCreationisthatGoddesiredadwellingplaceinthelowerrealmsitismanwhotransformsthemundanelowestWorldintoanabodeforGodsessence 
+
+('Correct: ', "is In this explanation the purpose of Creation is that `` God desired a dwelling place in the lower realms ''")
+('Correct: ', "desired God a dwelling place in the lower realms '' an abode for God 's essence")
+('Incorrect: ', "is In this explanation the purpose of Creation is that `` God desired a dwelling place in the lower realms ''")
+('Incorrect: ', "transforms man the mundane , lowest World into an abode for God 's essence")
+ForexampleapassengercanflyfromChardonNebtoDenverforaslittleas89to109accordingtopricesquotedbythecompany 
+
+('Correct: ', 'according a passenger can fly from Chardon , Neb. , to Denver for as little as $ 89 to $ 109 prices quoted the company')
+('Correct: ', 'quoted a passenger prices the company')
+('Incorrect: ', 'fly a passenger from Chardon ,')
+ThePersiancontingentthatwassupposedtoguardthedefilesoonabandoneditandAlexanderpassedthroughwithoutanyproblems 
+
+('Correct: ', 'was The Persian contingent that supposed to guard the defile soon abandoned it , and Alexander passed through without any')
+('Correct: ', 'supposed The Persian contingent guard the defile soon abandoned it , Alexander passed through without any problems')
+('Correct: ', 'guard The Persian contingent the defile problems')
+('Correct: ', 'abandoned the defile soon Alexander passed problems')
+('Incorrect: ', 'passed Persian Alexander any')
+KeepingtheJapanesehappywillbeoneofthemostimportanttasksfacingconservativeleaderErnestoRuffowhenhetakesofficeNov1asthefirstoppositiongovernorinMexicosmodernhistory 
+
+('Correct: ', 'Keeping the Japanese facing conservative leader Ernesto Ruffo 1')
+('Correct: ', 'be the Japanese tasks facing conservative leader Ernesto Ruffo')
+('Correct: ', "takes important tasks facing conservative leader Ernesto Ruffo the first opposition governor in Mexico 's modern history")
+('Incorrect: ', 'facing conservative Ernesto Ruffo')
+SheawasbornonSeptember51900inSanFranciscoCalifornia 
+
+('Correct: ', 'born Shea on September 5 , 1900 in San Francisco , California')
+('Incorrect: ', 'was Shea')
+InatypicalcaseofsubstrateinterferenceaLanguageAoccupiesagiventerritoryandanotherLanguageBarrivesinthesameterritory 
+
+('Correct: ', 'occupies a Language A a given territory and another Language B arrives in the same territory')
+Parentalinvestmentisanyexpenditureofresourcestobenefitoneoffspring 
+
+('Correct: ', 'is Parental investment is any expenditure of resources to benefit one offspring')
+('Incorrect: ', 'benefit Parental investment is any expenditure of resources one offspring')
+RosenarguesthatoneofthemostimportantprovisionsoftheConstitutioninExileislimitationsontheinterstatecommerceclausewhichwereunderminedbytheSupremeCourtsexpansiveinterpretationofCongressspowertoregulateinterstatecommerceextendedtoincludeanyactivitiesthatmightaffectcommerceindirectlyduringtheNewDeal 
+
+('Correct: ', "argues Rosen that one of the most important provisions of the Constitution in Exile is limitations on the interstate commerce , which were of Congress 's power to regulate interstate commerce extended to include any activities that might affect commerce during the New Deal")
+('Correct: ', 'regulate interstate commerce during the New Deal')
+('Correct: ', "extended interstate commerce interpretation Congress 's power to regulate interstate commerce any activities that might affect commerce indirectly during the New Deal")
+('Correct: ', "include Rosen argues that one of the most important provisions of the Constitution in Exile is limitations the extended any activities that might affect commerce indirectly '' during the New Deal")
+('Correct: ', 'affect activities commerce indirectly during the New Deal')
+('Incorrect: ', 'is one of the most important provisions of the Constitution in Exile is limitations on the interstate commerce commerce')
+('Incorrect: ', 'were clause undermined')
+('Incorrect: ', "undermined Exile commerce the Supreme Court 's")
+ItsasuperexcitingsetofdiscoveriessaysBertVogelsteinaJohnsHopkinsUniversityresearcherwhohasjustfoundagenepivotaltothetriggeringofcoloncancer 
+
+('Correct: ', "'s a super - exciting set of discoveries researcher")
+('Correct: ', "says `` It 's a super - exciting set of discoveries , '' Bert Vogelstein a Johns Hopkins University researcher")
+('Correct: ', "found It 's a super - exciting set of discoveries researcher gene pivotal to the triggering of colon cancer")
+('Incorrect: ', 'has It researcher')
+Accordinglythe1962RomanMissaltheeditionwhosecontinueduseasanextraordinaryformoftheRomanRiteisauthorizedbythemotuproprioSummorumPontificumalsohasnomentionofher 
+
+('Correct: ', 'continued the edition use an extraordinary form of the Roman Rite')
+('Correct: ', "is extraordinary form of the Roman Rite motu proprio `` Summorum Pontificum ''")
+('Correct: ', 'has the edition an extraordinary form of the Roman Rite the motu no mention of her')
+('Incorrect: ', "authorized Roman the motu proprio `` Summorum Pontificum ''")
+HungarysParliamentvotedtoholdanationalreferendumonanelectiontofillthenewpostofpresident 
+
+('Correct: ', 'fill election the new post of president')
+('Incorrect: ', 'voted Parliament voted a national referendum election')
+('Incorrect: ', 'hold a national referendum')
+Hesaidheexpectsthecompanytohave500millioninsalesforthisyear 
+
+('Correct: ', 'said expects the company to have $ 500 million in sales for this year')
+('Incorrect: ', 'expects the company to have $ 500 million in sales for this year')
+('Incorrect: ', 'have the company $ 500 million in sales for this year')
+MrsMarcoshasntadmittedthatshefiledanydocumentssuchasthosesoughtbythegovernment 
+
+('Correct: ', 'filed Mrs. Marcos any documents such as those sought by the government')
+('Correct: ', 'sought Mrs. Marcos those the government')
+('Incorrect: ', 'has Mrs. Marcos')
+('Incorrect: ', 'admitted Mrs. Marcos')
+ApplicationscanusethisservicetorecordactivityforaproductionsystemwhileimplementationsofotherOSIDscanusetheservicetorecorddetaileddataduringdevelopmentdebuggingoranalyzingperformance 
+
+('Correct: ', 'use Applications this service to record activity a production system while implementations of other OSIDs the service development , debugging , or analyzing performance')
+('Correct: ', 'use Applications this service to record activity a production system while implementations of other OSIDs the service development , debugging , or analyzing performance')
+('Correct: ', 'analyzing Applications other OSIDs data development debugging performance')
+('Incorrect: ', 'record this service activity production system service detailed data during development debugging')
+AccordingtotheindictmentGonzalezisaccusedofdefraudingtheWestBronxNeighborhoodAssociationIncanotforprofitcorporationbyusingfundsdonatedtotheorganizationinordertopayforover37000inpersonalexpenses 
+
+('Correct: ', 'According the indictment Gonzalez is accused of defrauding the West Bronx Neighborhood Association Inc. , a not-for-profit corporation using funds donated to the organization in order to pay for over $ 37,000 in personal expenses')
+('Correct: ', 'accused Gonzalez is of defrauding the West Bronx Neighborhood Association Inc. a not-for-profit corporation in over $ 37,000 personal expenses')
+('Correct: ', 'using Gonzalez is accused of defrauding the West Bronx Neighborhood Association Inc. , funds donated to the organization in order to pay for over $ 37,000 in personal expenses')
+('Correct: ', 'donated According to the indictment , Gonzalez is accused of defrauding the West Bronx Neighborhood Association Inc. , a not-for-profit corporation using funds to the organization in order to pay for over $ 37,000 in personal expenses')
+('Correct: ', 'pay funds donated the organization over $ 37,000 in personal expenses')
+('Correct: ', 'is Gonzalez accused of defrauding the West Bronx Neighborhood Association Inc. , a not-for-profit corporation funds')
+('Incorrect: ', 'defrauding Gonzalez')
+InanewspostHolkinsstatedthathereservedtherighttobringCarlbackanytimeKrahulikgoestoFrance 
+
+('Correct: ', 'stated Holkins that he reserved the right to bring Carl back any time Krahulik goes to France')
+('Correct: ', 'reserved Holkins the right to bring Carl back any time Krahulik goes')
+('Correct: ', 'bring Holkins Carl Krahulik goes to France')
+('Correct: ', 'goes Holkins the right Krahulik to France')
+Therewere6524householdsoutofwhich353hadchildrenundertheageof18livingwiththem317weremarriedcoupleslivingtogether315hadafemalehouseholderwithnohusbandpresentand306werenonfamilies 
+
+('Correct: ', 'married 31.7 % couples')
+('Incorrect: ', 'living couples together')
+('Incorrect: ', 'living couples together')
+AndreaBiancosatlasof1436comprisestenleavesofvellummeasuringinan18thcenturybinding 
+
+('Incorrect: ', 'binding an 18th-century')
+SidleywillmaintainitsassociationwiththeHashidateLawOfficeinTokyo 
+
+('Correct: ', 'maintain Sidley its association with the Hashidate Law Office in Tokyo')
+FewpeopleintheadvertisingbusinesshaveraisedasmanyhacklesasAlvinAAchenbaum 
+
+('Correct: ', 'have Few people the advertising business raised as many hackles as Alvin A. Achenbaum')
+('Incorrect: ', 'raised Few people the advertising business many hackles as Alvin A. Achenbaum')
+In1005forexamplethegovernoroftheimportantAdriaticportofDyrrhachiumhadsurrenderedthetowntoBasilII 
+
+('Correct: ', 'had Adriatic port of Dyrrhachium surrendered the town to Basil II')
+('Correct: ', 'surrendered the governor of important Adriatic port of the town to Basil')
+TheSteinbrennerfamilyaddedamonumenttoMonumentParkonSeptember202010tohonorSteinbrenner 
+
+('Correct: ', 'added The Steinbrenner family a monument to Monument Park on September 20')
+('Correct: ', 'honor The Monument Park on September 20 Steinbrenner')
+ThesebeamsstemfromacosmicenergysourcecalledtheOmegaEffect 
+
+('Correct: ', "stem These beams from a cosmic energy source called the `` Omega Effect ''")
+('Correct: ', "called cosmic energy source the `` Omega Effect ''")
+Merrillsaiditcontinuestobelievethatthecausesofexcessmarketvolatilityarefarmorecomplexthananyparticularcomputertradingstrategy 
+
+('Correct: ', 'said Merrill it continues to believe that `` the causes of excess market volatility are far more complex than any particular computer trading strategy')
+('Correct: ', 'believe Merrill that the causes of excess market volatility are far more complex than any particular computer trading strategy')
+('Incorrect: ', 'continues Merrill believe particular computer trading strategy')
+BlackWaterbecameoneofthefewrecordsbyanyactreleasedasaBsidetoanotherHot100hitbeforetoppingtheHot100itself 
+
+('Correct: ', 'topping 100 hit the Hot 100 itself')
+('Incorrect: ', "became Black Water '' one of the few records to another")
+('Incorrect: ', 'released any act')
+('Incorrect: ', 'hit another Hot 100')
+OnecandidateisawreckatthewesternendofManitoulinIslandinLakeHuronwithanotherwrecknearEscanabaMichiganalsoproposed 
+
+('Correct: ', 'is One candidate a Lake Huron , with another wreck near Escanaba , Michigan , also')
+('Incorrect: ', 'proposed , Michigan')
+AmidMarch2002courtordertostopprintingforthreemonthswasevadedbyprintingunderothertitlessuchasNotThatRespublika 
+
+('Correct: ', "stop A mid-March 2002 court printing for three months evaded by printing under other titles , such as `` Not That Respublika ''")
+('Correct: ', 'printing mid-March 2002 three months other titles')
+('Correct: ', 'was A 2002 court to stop printing for three months evaded by printing under other titles')
+('Correct: ', "evaded A mid-March 2002 court order to stop printing for three months printing under other titles Not That Respublika ''")
+('Incorrect: ', 'printing mid-March 2002 three months other titles')
+RogerMMarinopresidentwasnamedtothenewpostofvicechairman 
+
+('Correct: ', 'named Roger the new post of vice chairman')
+('Incorrect: ', 'was Roger M. Marino , president named')
+ModificationoftheriverbeganinearnestwiththearrivaloftheFloridaEastCoastRailwayinMiamiin1896 
+
+('Correct: ', 'began Modification of the river in earnest with the arrival of the Florida East Coast Railway in Miami in 1896')
+ItsaidCSFirstBostonhasconsistentlybeenoneofthemostaggressivefirmsinmerchantbankingandthataverysignificantportionofthefirmsprofitinrecentyearshascomefrommerchantbankingrelatedbusiness 
+
+('Correct: ', "said First Boston `` has been one of the most aggressive firms in merchant banking '' a very significant portion '' of 's profit in recent years has come from merchant banking - related business")
+('Correct: ', 'has CS First Boston consistently a come - related business')
+('Incorrect: ', 'been First Boston consistently most aggressive merchant banking recent years merchant banking - related business')
+('Incorrect: ', 'has CS First Boston consistently a come - related business')
+('Incorrect: ', 'come merchant banking - related business')
+('Incorrect: ', 'related business')
+MrRidleysdecisionfiresthestartingpistolforperhapsacostlycontestbetweentheworldsautogiantsforBritainsleadingluxurycarmaker 
+
+('Incorrect: ', "fires Mr. Ridley 's decision")
+('Incorrect: ', 'leading luxury - car maker')
+ManyoverseasChinesewhoseancestorscamefromtheQuanzhouareaespeciallythoseinSoutheastAsiaoftenspeakmainlyHokkienathome 
+
+('Incorrect: ', 'came Many overseas Chinese ancestors the Quanzhou area')
+('Incorrect: ', 'speak Many overseas Chinese ancestors Quanzhou area')
+Proliferativenodulesareusuallybiopsiedandareregularlybutnotsystematicallyfoundtobebenign 
+
+('Correct: ', 'are Proliferative nodules')
+('Correct: ', 'found Proliferative nodules be benign')
+('Incorrect: ', 'biopsied Proliferative nodules regularly')
+('Incorrect: ', 'are Proliferative nodules')
+('Incorrect: ', 'be Proliferative nodules biopsied systematically benign')
+ThefieldattheLakeElsinoreDiamondisnamedthePeteLehrField 
+
+('Correct: ', 'is The field at the Lake Elsinore Diamond named the Pete Lehr Field')
+('Incorrect: ', 'named the Lake Elsinore Diamond the Pete Lehr Field')
+TotalFreshFoodStoryconstructedattheendoftheNorthMall 
+
+('Correct: ', "constructed Fresh Food Story ' at the end of the North Mall")
+CertainfractionalquantumHallphasesappeartohavetherightpropertiesforbuildingatopologicalquantumcomputer 
+
+('Correct: ', 'appear fractional quantum Hall to have the right properties for building a topological quantum computer')
+('Correct: ', 'building fractional quantum Hall phases a topological quantum computer')
+('Incorrect: ', 'have fractional quantum the right')
+NextmorningtheraceleftthecityonthewaytothePyreneesandstoppedinthesuburbofGradignanintheuniversityareaofLaHouse 
+
+('Correct: ', 'left the city the way to the Pyrenees and in the suburb of')
+('Correct: ', 'stopped the city the Pyrenees in the suburb of')
+Butwiretransfersfromastandingaccountincludingthosebiggerthan10000arentreported 
+
+('Correct: ', 'standing account -- including those bigger than $ 10,000')
+('Correct: ', 'are wire transfers from a standing account those bigger than $ 10,000')
+('Incorrect: ', 'including standing account those bigger than $ 10,000')
+('Incorrect: ', 'reported standing account -- including those bigger than $ 10,000')
+Sometimesifyouhaveaheadacheyoucangooutandwalkitrightoff 
+
+('Correct: ', 'have Sometimes a headache')
+('Incorrect: ', 'go walk it right off')
+('Incorrect: ', 'walk right')
+ItsreallybizarresaysAlbertLermancreativedirectorattheWellsRichGreeneadagency 
+
+('Correct: ', "says `` It 's really bizarre , '' Albert director at the Wells Rich Greene ad agency")
+('Incorrect: ', "'s really bizarre")
+InJewishbeliefitsfulfilmentwillberevealedinthecumulationofCreationintheeraofresurrectioninthephysicalWorld 
+
+('Correct: ', 'be Jewish belief its fulfilment revealed in the cumulation of Creation , in the era of resurrection , in the physical World')
+('Correct: ', 'revealed Jewish belief its fulfilment in the cumulation of Creation , in the era of resurrection , in the physical World')
+Asaresultthelowerriverhadtobedredgedthreetimesintwoyears 
+
+('Correct: ', 'had the lower river dredged three times in two years')
+('Correct: ', 'dredged the lower river three times in two years')
+('Incorrect: ', 'be the lower river in two years')
+TomPanellihadaperfectlygoodreasonfornotusingthe300rowingmachineheboughtthreeyearsago 
+
+('Correct: ', 'using Tom Panelli the $ 300 rowing machine he bought three years ago')
+('Correct: ', 'bought Tom Panelli $ 300 rowing three years ago')
+('Incorrect: ', 'had Tom Panelli a perfectly good three years ago')
+Themarketstempowashelpedbythedollarsresiliencyhesaid 
+
+('Correct: ', "was The market 's tempo the dollar 's resiliency")
+('Incorrect: ', "helped The market 's tempo the dollar 's resiliency")
+('Incorrect: ', "said The market 's tempo was helped by the dollar 's resiliency , he")
+BritishgovernmentbondsendedmoderatelyhigherencouragedbyasteadierpoundandariseinBritishstocks 
+
+('Correct: ', 'ended British government bonds moderately higher')
+('Correct: ', 'encouraged British government bonds ended moderately higher a steadier pound and a rise in British stocks')
+VernonEJordanwaselectedtotheboardofthistransportationservicesconcern 
+
+('Correct: ', 'was Vernon E. Jordan board of this transportation')
+('Incorrect: ', 'elected the board of this transportation services concern')
+ThebasketproductwhileithasgotofftoaslowstartisbeingsupportedbysomebigbrokeragefirmsanothermemberofMrPhelanssplinteredconstituency 
+
+('Correct: ', 'got off to a slow start')
+('Incorrect: ', 'has firms')
+('Incorrect: ', 'is being by some big')
+('Incorrect: ', 'being supported some big')
+('Incorrect: ', 'supported some big')
+Anoriginallimitedartisteditionof250waspublishedin1989andwasanoversizedfinepressslipcasedbookwithstainlesssteelfacedboardsanddigitalclockinsetintothefrontcover 
+
+('Correct: ', 'published An original limited artist edition of 250 1989 slip-cased')
+('Correct: ', 'slip-cased book stainless steel faced boards')
+('Incorrect: ', 'was 250 published in 1989')
+('Incorrect: ', 'was 250 published in 1989')
+('Incorrect: ', 'faced stainless steel boards and clock inset into the')
+JohnsalsoappearedasanImperialOfficerinthe1980StarWarssequelTheEmpireStrikesBack 
+
+('Correct: ', "appeared Johns an Imperial Officer in the 1980 `` Star Wars sequel '' Back ''")
+('Incorrect: ', "Strikes an Imperial Officer Back ''")
+SixyearsagoJudgeOKickiwasvotedpresidentofthePennsylvaniaConferenceofStateTrialJudgesbythestates400judges 
+
+('Correct: ', "was Six years ago Judge O'Kicki voted president of the Pennsylvania Conference of State Trial Judges")
+('Incorrect: ', "voted Six years ago Judge O'Kicki president of the Pennsylvania Conference")
+Thesharepricewaslanguishingatabout400pencebeforeFordsSept19announcementofitsinterestinaminoritystake 
+
+('Correct: ', "was The share price languishing at about 400 pence before Ford 's Sept. 19 announcement of its interest in a minority stake")
+('Incorrect: ', 'languishing The share price 400 minority stake')
+Combinedwithappropriatematchpelletstheseriflesproduceaconsistent10ringperformancesoanonmaximalresultduringtheinitialphasecanbeattributedtotheparticipant 
+
+('Incorrect: ', 'Combined with appropriate match pellets these rifles')
+('Incorrect: ', 'produce appropriate these rifles a consistent 10 ring performance')
+('Incorrect: ', 'be initial phase attributed the participant')
+('Incorrect: ', 'attributed initial phase the participant')
+AspartofseveraleffortstohavetheGypsyHorserecognizedasabreedoutsidetheRomanichalcommunityamoredescriptivenamewassoughtforitstartinginthe1990s 
+
+('Correct: ', 'was outside the Romanichal community a descriptive name sought for it , starting in the 1990s')
+('Incorrect: ', 'have the Gypsy Horse recognized the Romanichal')
+('Incorrect: ', 'recognized Horse a breed outside Romanichal community more descriptive')
+('Incorrect: ', 'sought a more descriptive name for it starting in the 1990s')
+('Incorrect: ', 'starting name in the 1990s')
+Inthefirstninemonthsprofitrose10to3132millionor389asharefrom2839millionor353ashare 
+
+('Incorrect: ', 'rose profit 10 % share')
+InJewishHebrewtheSamaritansarecalledShomronimwhileinSamaritanHebrewtheycallthemselvesShamerim 
+
+('Correct: ', "called Jewish Hebrew the Samaritans Shomronim ''")
+('Correct: ', "are the Samaritans Shamerim ''")
+('Incorrect: ', 'call Samaritan Shamerim')
+EarlierthisyearBlackstoneGroupaNewYorkinvestmentbankhadnotroublesellingoutaspecial570millionmortgagesecuritiestrustitcreatedforJapaneseinvestors 
+
+('Incorrect: ', 'had Earlier this year a New York investment bank')
+('Incorrect: ', 'selling a New a special $ 570 million mortgage - securities')
+('Incorrect: ', 'created New York investment bank special mortgage Japanese investors')
+327ofallhouseholdsweremadeupofindividualsand157hadsomeonelivingalonewhowas65yearsofageorolder 
+
+('Correct: ', 'made 32.7 % of all households individuals')
+('Correct: ', 'had someone living alone who was 65 years of age or older')
+('Incorrect: ', 'were households someone who age or older')
+('Incorrect: ', 'living alone')
+('Incorrect: ', 'was years of age or older')
+ButyesterdayMrCarpentersaidbiginstitutionalinvestorswhichhewouldntidentifytoldustheywouldntdobusinesswithfirmsthatcontinuedtodoindexarbitragefortheirownaccounts 
+
+('Correct: ', "said yesterday Mr. Carpenter big institutional investors would n't do business with firms '' that continued to do index arbitrage for their own accounts")
+('Correct: ', 'do investors business with firms continued index arbitrage for their own accounts')
+('Correct: ', 'identify big institutional firms index arbitrage their own accounts')
+('Correct: ', 'continued firms do index arbitrage for their own accounts')
+('Incorrect: ', 'told yesterday Mr. Carpenter')
+('Incorrect: ', 'do investors business with firms continued index arbitrage for their own accounts')
+Inmorerecentyearsthispolicyhasapparentlyrelaxedsomewhat 
+
+('Correct: ', 'has In more recent years this policy')
+('Incorrect: ', 'relaxed In more policy somewhat')
+HerimageheldaloftsignifiestheEarthwhichhangsintheair 
+
+('Correct: ', "held Her image aloft signifies the Earth , which `` hangs in the air ''")
+('Correct: ', "signifies Her image held aloft the Earth `` hangs in the air ''")
+('Incorrect: ', 'hangs Her image aloft signifies the Earth ``')
+Withmorethan15millionexercisebikessoldinthepastfiveyearsheaddsalotofgaragesbasementsandatticsmustbepopulatedwiththem 
+
+('Correct: ', 'sold than 15 million exercise bikes in the past five years of garages , basements and attics')
+('Incorrect: ', 'adds million exercise bikes years')
+('Incorrect: ', 'be 15 million exercise bikes in the past five years of garages , basements and attics populated')
+('Incorrect: ', 'populated a of garages , basements and attics')
+WrightwasthesubjectofThisIsYourLifeontwooccasionsinMay1961whenhewassurprisedbyEamonnAndrewsandinJanuary1990whenMichaelAspelsurprisedhimatThamesTelevisionsTeddingtonStudios 
+
+('Correct: ', 'surprised Eamonn Andrews Michael Aspel')
+('Incorrect: ', "was Wright the subject of `` This Is Your Life '' on two occasions : in May 1961 when he Michael Aspel")
+('Incorrect: ', "Is subject `` This Is Your Life '' on two")
+('Incorrect: ', "was Wright the subject of `` This Is Your Life '' on two occasions : in May 1961 when he Michael Aspel")
+('Incorrect: ', 'surprised Eamonn Andrews Michael Aspel')
+Inthe1901electionafterwhichtheOppositionistsunderGeorgeLeakewereabletoformaminoritygovernmentFrankWilsonformerlythememberforCanningwontheseat 
+
+('Correct: ', 'form In the 1901 election the Oppositionists George Leake a minority government member')
+('Correct: ', 'won In the 1901 election the seat')
+('Incorrect: ', 'were George Leake a minority government Wilson')
+Muchofthestationremainsinthedisusedsubwaybutthereisnopublicaccess 
+
+('Correct: ', 'remains Much of the station the disused subway')
+('Incorrect: ', 'is Much of the station remains in the disused subway there no public access')
+HerepresentedtheridingofNickelBeltintheSudburyOntarioarea 
+
+('Correct: ', 'represented the riding of Nickel Belt in the Sudbury , Ontario area')
+Acoolingcenterisatemporaryairconditionedpublicspacesetupbylocalauthoritiestodealwiththehealtheffectsofaheatwave 
+
+('Correct: ', 'cooling health effects of a heat wave')
+('Incorrect: ', 'is A cooling center of a heat wave')
+('Incorrect: ', 'set public local authorities to deal with health effects of a heat wave')
+('Incorrect: ', 'deal local authorities the health effects')
+Theofferingwaspricedwithan895couponrateat991875toyield919 
+
+('Incorrect: ', 'was The offering priced')
+('Incorrect: ', 'priced The offering')
+('Incorrect: ', 'yield The offering 99.1875')
+TherapidsattheheadoftheSouthForkwereremovedin1908 
+
+('Correct: ', 'removed The rapids at the head of the South Fork in 1908')
+('Incorrect: ', 'were the South Fork')
+ThelodgeisopenfrommidMaytomidOctoberwithtwoweeksstartingintheendofAugustreservedfortheDartmouthFirstYearTrips 
+
+('Correct: ', 'starting to mid-October two weeks in the end of August reserved the Dartmouth First-Year Trips')
+('Incorrect: ', 'is The lodge open from mid-May to the Dartmouth First-Year Trips')
+('Incorrect: ', 'reserved The lodge mid-May the Dartmouth First-Year Trips')
+AstatejudgepostponedadecisiononamovebyholdersofTelerateInctoblockthetenderofferofDowJonesCoforthe33ofTelerateitdoesntalreadyown 
+
+('Correct: ', 'postponed A state judge a decision on a move by holders of Telerate Inc.')
+('Correct: ', "does the tender 33 % of Telerate n't already own")
+('Incorrect: ', 'block Inc. the tender offer of')
+SeparatelytheSenatelastweekpassedabillpermittingexecutionofterroristswhokillAmericansabroad 
+
+('Correct: ', 'permitting week a bill execution of terrorists who kill Americans abroad')
+('Correct: ', 'kill terrorists Americans abroad')
+('Incorrect: ', 'passed last week a bill permitting')
+LiHongzhibeganhispublicteachingsofFalunGongon13May1992inChangchunandsubsequentlygavelecturesandtaughtFalunGongexercisesacrossChina 
+
+('Correct: ', 'taught Li Hongzhi his public teachings of Falun Gong on 13 May 1992 in Changchun Falun Gong exercises across China')
+('Correct: ', 'exercises Li of Falun on 13 May Falun Gong across China')
+('Incorrect: ', 'began Li Hongzhi his public teachings of Falun on 13 Changchun')
+('Incorrect: ', 'gave Li Hongzhi lectures')
+IfworkingcapitalfinancingisnotprovidedhesaidtheRTCmayhavetoslowSLsalesordumpacquiredassetsthroughfiresales 
+
+('Correct: ', 'provided working capital financing the RTC { S&L sales')
+('Correct: ', 'is { S&L sales } or dump acquired assets through fire sales')
+('Correct: ', 'said If working capital financing is not provided the RTC may have to slow { S&L sales } or dump acquired assets through fire sales')
+('Correct: ', 'have the RTC slow { S&L sales } or dump acquired assets through fire sales')
+('Correct: ', 'dump working capital financing the RTC { S&L sales acquired assets through fire sales')
+('Incorrect: ', 'slow the RTC { S&L sales }')
+('Incorrect: ', 'acquired or dump assets fire sales')
+ThefirstcomesfromwhenSwedensRoyalCouplelivedthereduringthe1992BarcelonaSummerOlympics 
+
+('Correct: ', "comes The first Sweden 's Royal Couple lived there during the 1992 Barcelona Summer Olympics")
+('Correct: ', 'lived Royal there during the 1992 Barcelona Summer Olympics')
+SukhumfunctionedasthecapitaloftheUniontreatyAbkhazSovietSocialistRepublicassociatedwiththeGeorgianSSRfrom1921until1931whenitbecamethecapitaloftheAbkhazianAutonomousSovietSocialistRepublicwithintheGeorgianSSR 
+
+('Correct: ', "functioned Sukhum the capital of the `` Union treaty '' Abkhaz Soviet Socialist Republic associated with the Georgian SSR capital of the Abkhazian Autonomous Soviet Socialist Republic within the Georgian SSR")
+('Correct: ', 'associated Abkhaz Soviet Socialist the Georgian SSR Soviet Republic within the Georgian SSR')
+('Correct: ', 'became Sukhum the capital the capital of the Abkhazian Autonomous Soviet Socialist Republic within the Georgian SSR')
+300millionofbondsdueNov161993withequitypurchasewarrantsindicatinga334couponatparviaNomuraInternationalLtd 
+
+('Incorrect: ', 'indicating $ 300 million of bonds a 3')
+MrZayadiwaspreviouslypresidentandchiefoperatingofficerofZellersIncaretailchainthatisownedbyTorontobasedHudsonsBayCoCanadaslargestdepartmentstoreoperator 
+
+('Correct: ', 'owned a retail Toronto - based Bay Co. largest department')
+('Incorrect: ', "was Mr. Zayadi previously president and chief operating officer of Zellers Inc. Canada 's largest")
+('Incorrect: ', 'is Mr. Zayadi a retail chain')
+('Incorrect: ', 'based a retail chain Hudson')
+FinallyMitsubishiEstatehasnoplanstointerferewithRockefellersmanagementbeyondtakingaplaceontheboard 
+
+('Correct: ', "interfere Mitsubishi Estate Rockefeller 's management beyond taking a place on the board")
+('Correct: ', 'taking Mitsubishi Estate a place on the board')
+('Incorrect: ', 'has Mitsubishi Estate no plans')
+GodzillaandBattrabattledontheoceanflooruntiltheycausedarifttoopenbetweentectonicplates 
+
+('Correct: ', 'caused Godzilla and Battra battled a rift to open between tectonic plates')
+('Incorrect: ', 'battled Godzilla Battra the ocean floor')
+('Incorrect: ', 'open tectonic plates')
+Initiallyhischancesofsurvivingwerethoughttobenobetterthan5050 
+
+('Correct: ', 'thought his chances of surviving to be no better than 50-50')
+('Incorrect: ', 'surviving chances thought')
+('Incorrect: ', 'were his chances of surviving')
+('Incorrect: ', 'be his chances of surviving')
+HewasamemberoftheEuropeanConventionwhichdraftedthetextoftheEuropeanConstitutionthatneverenteredintoforce 
+
+('Correct: ', 'drafted member of the European Convention the text of the European Constitution that never entered')
+('Correct: ', 'was He a member of the European Convention into force')
+('Incorrect: ', 'entered the text of the European Constitution into force')
+AmonthagowhenBeatricefirstfiledtoselldebtthecompanyhadplannedtooffer200millionofitsseniorsubordinatedresetnotesatayieldof1234 
+
+('Correct: ', 'offer A month ago first filed the company $ 200 million of its senior subordinated reset')
+('Correct: ', 'had the company planned million of its senior subordinated reset notes at')
+('Incorrect: ', 'filed Beatrice first debt')
+('Incorrect: ', 'sell Beatrice first filed debt %')
+('Incorrect: ', 'planned the company offer $ 200')
+AmongotherthingstheysaidMrAzoffwoulddevelopmusicalactsforanewrecordlabel 
+
+('Correct: ', 'develop Mr. Azoff musical acts for a new record label')
+('Incorrect: ', 'said Among other things they')
+Butitappearstobethesortofholdonemakeswhileheadingforthedoor 
+
+('Correct: ', 'appears to be the sort of hold one makes while heading for the door')
+('Correct: ', 'makes the sort of hold one while heading for the')
+('Incorrect: ', 'be the sort of hold one makes')
+('Incorrect: ', 'heading the sort the door')
+Apartiallistofturbomachinerythatmayuseoneormorecentrifugalcompressorswithinthemachinearelistedhere 
+
+('Correct: ', 'use A partial list of turbomachinery one or more centrifugal compressors the machine')
+('Incorrect: ', 'listed machine here')
+MrStollsuspectedtheintruderwasoneofthoseprecociousstudentswhohasfunbreakingintocomputers 
+
+('Correct: ', 'suspected Mr. Stoll the intruder was one of those precocious students who has fun breaking into computers')
+('Correct: ', 'was Mr. Stoll suspected the intruder one of those precocious students who has fun breaking into computers')
+('Incorrect: ', 'has Mr. Stoll suspected the intruder of those precocious fun breaking into')
+('Incorrect: ', 'breaking Mr. Stoll computers')
+BusinessacrossthecountryisspendingmoretimeaddressingthisissuesaysSenEdwardKennedyDMass 
+
+('Correct: ', 'is `` Business across the country is spending more time addressing this issue')
+('Correct: ', 'spending `` Business across the country more time addressing this issue , Edward Kennedy')
+('Correct: ', 'addressing `` Business across the country spending more this issue')
+('Correct: ', "says `` Business across the country is spending more time addressing this issue , '' Sen. Edward Kennedy")
+HeappearedinthatgamealongsidehisArsenalmidfieldcolleagueBrianMarwoodwhohadjoinedthemfromSheffieldWednesdayeightmonthsearlier 
+
+('Correct: ', 'appeared that game alongside his Arsenal midfield colleague Brian Marwood eight months earlier')
+('Correct: ', 'had Brian Marwood joined Sheffield Wednesday eight months earlier')
+('Incorrect: ', 'joined his Arsenal midfield colleague Brian Marwood Sheffield Wednesday')
+ReturninghomeBallarddeliversherreportwhichhersuperiorsrefusetobelieve 
+
+('Correct: ', 'Returning home Ballard delivers her report')
+('Correct: ', 'delivers Returning home Ballard her report')
+('Correct: ', 'refuse superiors to believe')
+('Incorrect: ', 'believe superiors')
+Howevertheproblemisthatoncemostpoisonpillsareadoptedtheysurviveforever 
+
+('Correct: ', 'are most poison pills')
+('Correct: ', 'survive most poison pills')
+('Incorrect: ', 'is the problem are adopted , they survive')
+('Incorrect: ', 'adopted the problem poison')
+Ithaslonghindlegsandalongslenderscalytailthatitusestocommunicatebymakingdrummingnoises 
+
+('Correct: ', 'making has long hind legs and a long , slender scaly noises')
+('Incorrect: ', 'has long hind legs and a long slender')
+('Incorrect: ', 'uses slender tail making drumming')
+('Incorrect: ', 'communicate making drumming noises')
+('Incorrect: ', 'drumming noises')
+TheSummerProgramsOfficerunstheseprogramsandmanyWardlawHartridgeStudentsattendcamporclassesoverthesummer 
+
+('Correct: ', 'runs The Summer Programs Office these programs')
+('Correct: ', 'attend Wardlaw-Hartridge Students camp or classes over the summer')
+Gameplayisverybasictheplayermustshootconstantlyatacontinualstreamofenemiesinordertoreachtheendofeachlevel 
+
+('Correct: ', 'is Gameplay is very basic ; the player must shoot constantly at a continual stream of enemies in order to reach the end of each level')
+('Correct: ', 'shoot the player a continual stream of enemies in order to reach the end of each level')
+('Incorrect: ', 'reach the player')
+TheWilburCrossHighwayformerlyendedinSturbridgelocalssometimescallHaynesStreetandportionsofMashapaugRoadOldRoute15 
+
+('Correct: ', 'ended The Wilbur Cross Highway formerly')
+('Incorrect: ', 'call The Wilbur Haynes')
+TheraceisinmixedeightsandusuallyheldinlateFebruaryearlyMarch 
+
+('Correct: ', 'held usually in late February / early March')
+('Incorrect: ', 'is The race is in mixed eights ,')
+TheBourbonsbuiltadditionalreceptionroomsandreconstructedtheSaladErcolenamedforitsfrescosdepictedthemythologicalheroHercules 
+
+('Correct: ', 'built The Bourbons additional reception rooms')
+('Correct: ', "reconstructed The Bourbons built additional reception rooms the Sala d'Ercole depicted the mythological hero")
+('Correct: ', "named Sala d'Ercole for its frescos depicted the mythological hero , Hercules")
+('Incorrect: ', 'depicted frescos the mythological hero')
+CarlusestheoldmagictotametheDeepCrowclaimingitisnothisfirsttimetotherodeo 
+
+('Correct: ', 'tame Carl uses the old magic the Deep Crow time to the rodeo .')
+('Incorrect: ', 'uses Carl the time to the rodeo .')
+('Incorrect: ', 'claiming Carl')
+('Incorrect: ', 'is Carl')
+FordMotorCosaiditisrecallingabout3600ofits1990modelEscortsbecausethewindshieldadhesivewasimproperlyappliedtosomecars 
+
+('Correct: ', 'said Ford Motor Co. it is recalling about 3,600 of its 1990 - model Escorts because the windshield adhesive was improperly applied to some cars')
+('Correct: ', 'is Ford Motor Co. recalling about 3,600 of its 1990 - model Escorts the windshield')
+('Correct: ', 'was Ford Motor Co. is recalling about 3,600 of its 1990 - model Escorts the windshield adhesive improperly to some cars')
+('Incorrect: ', 'recalling Ford Motor Co. about 3,600 of its 1990 - model Escorts')
+('Incorrect: ', 'applied the windshield adhesive improperly some cars')
+In1954aKOMOnewsphotographerdiscoveredawaytodevelopcolorfilminanewprocessthattookjustafewhoursinsteadofdays 
+
+('Correct: ', 'discovered In 1954 a KOMO news photographer a way to develop color film in a new process that took just a few hours instead of days')
+('Incorrect: ', 'develop a KOMO news photographer color film in a new')
+('Incorrect: ', 'took a KOMO news photographer')
+Unrulypassengersareoftenputoffheretobetakenintocustody 
+
+('Correct: ', 'put Unruly passengers here to be taken into custody')
+('Incorrect: ', 'are Unruly passengers')
+('Incorrect: ', 'be Unruly passengers taken')
+('Incorrect: ', 'taken Unruly passengers custody')
+Cisregulatoryelementsaresequencesthatcontrolthetranscriptionofanearbygene 
+
+('Correct: ', 'control Cis-regulatory elements the transcription gene')
+('Incorrect: ', 'are Cis-regulatory')
+Theseniorsubordinateddebenturesmaturingin2004aretargetedtobeofferedatayieldofbetween1258to1234 
+
+('Correct: ', 'targeted The senior subordinated debentures maturing in 2004 be offered at a yield of between 12 5\\/8 % to 12 3\\/4 %')
+('Correct: ', 'are The senior subordinated debentures maturing in 2004')
+('Correct: ', 'be The senior subordinated debentures maturing in 2004')
+('Correct: ', 'offered The senior subordinated debentures maturing 2004 a yield of 5\\/8 %')
+('Incorrect: ', 'subordinated debentures 2004')
+('Incorrect: ', 'maturing debentures 2004')
+Butwhentheyarrivedatthedoorallwereafraidtogoinfearingthattheywouldbeoutofplace 
+
+('Correct: ', 'arrived at the door out of place')
+('Correct: ', 'fearing they would be out of place')
+('Incorrect: ', 'were all out of place')
+('Incorrect: ', 'go all out of place')
+('Incorrect: ', 'be all out of place')
+NowthattheNewYorkdecisionhasbeenleftintactotherstatesmayfollowsuit 
+
+('Correct: ', 'has the New York decision')
+('Correct: ', 'follow that the New York decision has been left intact other states suit')
+('Incorrect: ', 'been the New York decision intact')
+('Incorrect: ', 'left the New York decision intact suit')
+Thevideowasthefirstevertofeaturetheuseofdialogue 
+
+('Correct: ', 'was The video the first ever to feature the use of dialogue')
+('Incorrect: ', 'feature the use of dialogue')
+TheTripleABaseballNationalChampionshipGamewasestablishedin2006 
+
+('Correct: ', 'was The Triple-A Baseball National Championship Game was established in 2006')
+('Incorrect: ', 'established The Triple-A Baseball National Championship Game in 2006')
+Amanifoldisprimeifitcannotbepresentedasaconnectedsumofmorethanonemanifoldnoneofwhichisthesphereofthesamedimension 
+
+('Correct: ', 'is A manifold `` manifold , none of which is the sphere of the same dimension')
+('Incorrect: ', 'be prime')
+('Incorrect: ', 'presented a connected sum of more than one')
+('Incorrect: ', 'is A manifold `` manifold , none of which is the sphere of the same dimension')
+PanhandleEasternCorpsaiditappliedonbehalfoftwoofitssubsidiariestotheFederalEnergyRegulatoryCommissionforpermissiontobuilda352mile273millionpipelinesystemfromPittsburgCountyOklatoIndependenceMiss 
+
+('Correct: ', 'said Panhandle Eastern Corp. it applied , on behalf of two of its subsidiaries , to the Federal Energy Regulatory Commission for permission to build a 352 - mile , $ 273 million pipeline system from Pittsburg County , Okla.')
+('Correct: ', 'build Commission a 352 - mile , $ 273 million pipeline from Pittsburg County , Okla.')
+('Incorrect: ', 'applied Panhandle Eastern Corp. behalf of two of its subsidiaries to the Federal Energy Regulatory')
+InathleticsBostonCollegelefttheBigEastConferenceandjoinedtheAtlanticCoastConferenceonJuly12005 
+
+('Correct: ', 'left In athletics Boston College the Big East Conference joined the Atlantic Coast Conference on July 1 2005')
+('Correct: ', 'joined In athletics Boston College Big the Atlantic Coast Conference on July 1 2005')
+OnMay132010YostwasnamedmanageroftheKansasCityRoyalsreplacingTreyHillman 
+
+('Correct: ', 'named On May 13 , 2010 Yost manager of the Kansas City Royals')
+('Correct: ', 'was On May 13 , 2010 Yost')
+('Incorrect: ', 'replacing On May 13 Yost Trey Hillman')
+AlthoughMrAzoffwontproducefilmsatfirstitispossiblethathecoulddosolaterthesourcessaid 
+
+('Correct: ', 'produce Mr. Azoff films at first')
+('Correct: ', 'do Mr. Azoff')
+('Incorrect: ', 'said Mr. Azoff the sources')
+SenMitchellisconfidenthehassufficientvotestoblocksuchameasurewithproceduralactions 
+
+('Incorrect: ', 'is Sen. Mitchell')
+('Incorrect: ', 'has Sen. Mitchell sufficient votes to')
+('Incorrect: ', 'block sufficient votes a measure')
+In2007SunannouncedProjectIndianawithseveralgoalsincludingprovidinganopensourcebinarydistributionoftheOpenSolarisprojectreplacingSXDE 
+
+('Correct: ', "announced In 2007 Sun `` Project Indiana '' with several goals")
+('Correct: ', 'including 2007 several goals an open source binary distribution the OpenSolaris project')
+('Correct: ', 'providing an open source binary distribution of the OpenSolaris project')
+('Correct: ', 'replacing In 2007 Sun Indiana OpenSolaris project SXDE')
+MrGuberandMrPetersalsoalmostcertainlywouldntbeabletoparticipateinfuturesequelstoBatmantheblockbusterhittheyproducedforWarner 
+
+('Correct: ', 'participate in future sequels to `` Batman')
+('Correct: ', 'hit the blockbuster they Warner')
+('Incorrect: ', 'be certainly participate in future sequels `` Batman blockbuster')
+('Incorrect: ', 'produced blockbuster Warner')
+AccordingtotheUnitedStatesCensusBureauthetownhasatotalareaofallofitland 
+
+('Correct: ', 'According the United States Census Bureau the has a total area of , all of it land')
+('Correct: ', 'has the town a total area of')
+From1909to1912theMiamiCanalwasdugbypassingtherapidsattheheadoftheNorthFork 
+
+('Correct: ', 'dug From the Miami Canal')
+('Correct: ', 'was 1909 the Miami Canal bypassing the at the head of the North')
+('Incorrect: ', 'bypassing the')
+TheCuretoppedtheonlinemusicsalescharts 
+
+('Correct: ', 'topped The Cure the online music sales charts')
+MeanwhileathomeMitsubishihascontrolofsomemajorprojects 
+
+('Correct: ', 'has Meanwhile at Mitsubishi control of some major projects')
+InitsfirstsixmonthsRCPOconcluded858casesconvictionsin88ofcases 
+
+('Correct: ', 'concluded In its first six months RCPO 858 cases convictions of cases')
+WiththisactRussiawasofficiallytransformedfromanabsolutemonarchyintoaconstitutionalonethoughtheexactextentofjusthowconstitutionalquicklybecamethesubjectofdebatebasedupontheemperorssubsequentactions 
+
+('Correct: ', 'was With this act , Russia officially transformed from an absolute monarchy into a constitutional one quickly the subject of debate , based upon emperor subsequent actions')
+('Incorrect: ', "transformed act Russia an absolute monarchy into a constitutional one how '' constitutional quickly subject of debate")
+('Incorrect: ', "became act how '' constitutional quickly the subject of debate")
+('Incorrect: ', "based the subject upon the emperor 's subsequent")
+Plantshavebeenplantedmarkingpartsofthefoundationsofthecastlesothepositionsofsomeofthebuildingscanstillbeinferred 
+
+('Correct: ', 'planted Plants marking the foundations of the castle buildings can still be inferred')
+('Correct: ', 'marking Plants parts of the foundations of the castle buildings can still be inferred')
+('Incorrect: ', 'have Plants planted marking parts buildings')
+('Incorrect: ', 'been Plants planted marking parts foundations of the castle buildings still be')
+('Incorrect: ', 'be Plants buildings inferred')
+('Incorrect: ', 'inferred Plants buildings')
+InordertosupportplannedTRAXexpansionUTAordered77SiemensS70lightrailvehiclesfromSiemensAG 
+
+('Correct: ', 'support planned TRAX expansion , UTA ordered 77 Siemens S70')
+('Correct: ', 'ordered In order to support planned TRAX expansion UTA 77 Siemens S70 light rail vehicles from Siemens AG')
+AndhewasinAlisarmyintheBattleofJamalandlateritwasMuhammadibnAbuBakrwhoescortedAishabacktoMadina 
+
+('Incorrect: ', 'was in and later it was Muhammad ibn Abu Bakr')
+('Incorrect: ', 'was in and later it was Muhammad ibn Abu Bakr')
+('Incorrect: ', 'escorted Aisha Madina')
+Itisnotreallypassableandmustbedoneonfootifattempted 
+
+('Correct: ', 'is It is not really passable , and must be done on foot if attempted')
+('Correct: ', 'done on foot if attempted')
+('Incorrect: ', 'be passable')
+('Incorrect: ', 'attempted foot')
+TheinsurersponsoredthegolftournamentknownastheNewOrleansOpenbeginningin1981 
+
+('Correct: ', 'sponsored The insurer the golf tournament')
+('Correct: ', 'known The insurer sponsored the golf tournament the New Orleans Open beginning in 1981')
+('Incorrect: ', 'beginning the New Orleans Open in 1981')
+HavingbeendirectedtofoundamonasteryofhisorderintheUnitedStatesin1873Fr 
+
+('Correct: ', 'found a monastery of his order in the United States in 1873 , Fr')
+('Incorrect: ', 'been directed a monastery the United in 1873 , Fr')
+('Incorrect: ', 'directed found a monastery in')
+Thecompanysaidthefastenerbusinesshasbeenunderseverecostpressuresforsometime 
+
+('Incorrect: ', 'said The company')
+('Incorrect: ', 'has the fastener business been')
+('Incorrect: ', 'been The the fastener business')
+Thedollardrewstrengthfromthestockmarketsclimb 
+
+('Correct: ', "drew The dollar strength from the stock market 's climb")
+ThesecondwastitledConsiderHerWaysandalsostarredBarrieastheleadnamedJaneWaterleigh 
+
+('Correct: ', 'titled The second `` Consider Her Ways')
+('Correct: ', 'Consider second was titled Her Ways starred Barrie as the lead named Jane Waterleigh')
+('Correct: ', 'starred The Barrie the lead named Jane Waterleigh')
+('Incorrect: ', 'was The second titled')
+('Incorrect: ', 'named The second')
+In1972researchersfoundmetallicconductivityinthechargetransfercomplexTTFTCNQ 
+
+('Correct: ', 'found 1972 researchers metallic conductivity in the charge-transfer complex TTF-TCNQ')
+AsAttorneyGeneralheclashedwithDanielOConnellwhenheinsistedagainstOConnellswishesontheappointmentofAbrahamBrewsterasLawAdvisertotheLordLieutenantofIreland 
+
+('Correct: ', "insisted Daniel O'Connell O'Connell 's wishes the appointment of Abraham Brewster as Law Adviser to the Lord Lieutenant of Ireland")
+('Incorrect: ', "clashed Daniel O'Connell insisted appointment")
+Sincetherealestateunitalsoincludesdebttheimputedvalueoftherealestateitselfiscloseto3billion 
+
+('Correct: ', 'includes the real estate debt $ 3 billion')
+('Incorrect: ', 'is $ 3 billion')
+The150millioninseniorsubordinatedfloatingratenotesweretargetedtobeofferedatapricetofloatfourpercentagepointsabovethethreemonthLIBOR 
+
+('Correct: ', 'targeted rate notes to be offered at a price to float four percentage points')
+('Correct: ', 'offered $ 150 million in senior a price to float four percentage points above the three')
+('Correct: ', 'float The million in senior subordinated four percentage the three -')
+('Incorrect: ', 'floating senior subordinated four percentage')
+('Incorrect: ', 'were - rate notes float four')
+('Incorrect: ', 'be notes float four percentage points')
+RISCtechnologyspeedsupacomputerbysimplifyingtheinternalsoftware 
+
+('Correct: ', 'speeds RISC technology a computer by simplifying the internal software')
+('Correct: ', 'simplifying RISC technology speeds up a computer the internal software')
+(728, 598, 431)

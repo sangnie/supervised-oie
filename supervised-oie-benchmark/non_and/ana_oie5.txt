@@ -1,0 +1,2319 @@
+('32.7 % of all households', 'were made of', ['individuals and 15.7 %'])
+('had someone living alone', 'was', ['65 years of age or older'])
+('32.7 % of all households', 'were made up', ['of individuals and 15.7 %'])
+('A CEN', 'forms', ['an small part of a Local Strategic Partnership'])
+('A CEN', 'forms', ['an important part of a Local Strategic Partnership'])
+('he', 'became', ["the youngest mayor in Pittsburgh 's history", 'in September 2006', 'at the age of 26'])
+('A cafeteria', 'is located', ['on a study hall on the 15th floor'])
+('A cafeteria', 'is located', ['on a chapel on the 14th floor'])
+('A cafeteria', 'is located', ['on the sixth floor'])
+('A casting director at the time told he had wished he was casting he', "'d met", ['him', 'a week before'])
+('A casting director at the time told he was casting he', 'had wished', ["that he 'd met him a week before"])
+('he was casting A casting director at the time', 'told', ['Scott', "that he had wished that he 'd met him a week before"])
+('he', 'was casting', ["for the `` G.I. Joe '' cartoon"])
+('programming schedule', 'followed', ['in 1982'])
+('logo', 'followed', ['in 1982'])
+('A common name', 'followed', ['in 1982'])
+('a temporary air-conditioned public space', 'set up', ['by local authorities'])
+('A cooling center', 'is', ['a temporary air-conditioned public space set up by local authorities'])
+('none of which', 'is', ['the sphere of the same dimension'])
+('it', 'can not be presented', ['as a connected sum of more than one manifold'])
+('A mid-March 2002 court order to stop printing for three months', 'by printing', ['under other titles , such as `` Not That Respublika'])
+('A mid-March 2002 court order', 'printing', ['for three months'])
+('A motorcycle speedway long-track meeting', 'was staged', ['at Ammanford'])
+('the few', 'held', ['in the UK'])
+('A partial list of turbomachinery', 'are listed', ['here'])
+('turbomachinery', 'may use', ['one or more centrifugal compressors', 'within the machine'])
+('A spectrum from a single FID', 'has', ['a low signal - to - noise ratio'])
+('they', 'were', ["the `` Guardians '' of the true Israelite religion"])
+('the Samaritan ethnonym', 'is not derived', ['from the region of Samaria'])
+('the population of the town', 'is', ['2310'])
+('the town', 'has the population of', ['2310'])
+('the population of the town', 'is', ['2,310'])
+('many Koreans', 'became', ['victims of Japanese brutalities', 'during the colonial period'])
+('the town', 'has', ['a total area of , all of it land'])
+('funds', 'donated', ['to the organization', 'in order'])
+('Gonzalez', 'by using', ['funds donated to the organization in order'])
+('Gonzalez', 'of defrauding', ['the West Bronx Neighborhood Association Inc'])
+('Gonzalez', 'is accused', ['of defrauding the West Bronx Neighborhood Association Inc'])
+('1962 roman missal', 'has', ['no mention of her'])
+('the 1962 Roman Missal', 'has', ['no mention of her'])
+('the edition', 'is authorized', ['by the motu proprio'])
+('Infant Island', 'accompanied', ['by the two Cosmos'])
+('Mothra', 'retired', ['to Infant Island'])
+('Battra', 'rested', ['in the Arctic Ocean', 'whereas Mothra retired to Infant Island', 'After the battle'])
+('a permanent injury', 'caused', ['to the cameraman'])
+('he', 'was', ['more distraught over a permanent injury'])
+('Knievel', 'broke', ['his arms'])
+('Hazelwood', 'came', ['under constant attack from dive - bombers'])
+('Hazelwood', 'came', ['under constant attack from fighters'])
+('Hazelwood', 'came', ['under constant attack from kamikazes'])
+('An animal that shows no other sociality traits', 'to be', ['subsocial'])
+('An animal', 'shows', ['no other sociality traits'])
+('An animal that cares for its young', 'to be', ['subsocial'])
+('An animal', 'cares', ['for its young'])
+('An original limited artist', 'was', ['an oversized fine press slip - cased book with stainless steel faced digital clock inset into the front cover'])
+('An original limited artist', 'was', ['an oversized fine press slip - cased book with stainless steel faced boards into the front cover'])
+('An original limited artist edition of 250', 'was published', ['in 1989', 'faced digital clock inset into the front cover'])
+('An original limited artist edition of 250', 'was published', ['in 1989 faced boards', 'into the front cover'])
+('ABS', 'has formed', ['a partnership with Habitat for Humanity'])
+('Muhammad ibn Abu Bakr', 'escorted', ['Aisha', 'back to Madina'])
+('it', 'was', ['Muhammad ibn Abu Bakr', 'later'])
+('he', 'was', ["in Ali 's army in the Battle of Jamal"])
+('Apartment buildings , shops , medical clinics , cinemas etc.', 'were built', ['in close proximity to the MAZ plant'])
+('implementations of other OSIDs', 'can use the service to record', ['detailed data', 'during development , debugging , or analyzing performance'])
+('implementations of other OSIDs', 'can use', ['the service', 'to record detailed data during development , debugging , or analyzing performance'])
+('Applications', 'can use this service to record', ['activity', 'for a production system'])
+('Applications', 'can use', ['this service', 'to record activity for a production system while implementations of other OSIDs can use the service to record detailed data during development , debugging , or analyzing performance'])
+('Applying this technique', 'facilitates', ['the connection of the center of the foot with the lower abdomen'])
+('he', 'clashed', ["with Daniel O'Connell", "when he insisted , against O'Connell 's wishes , on the appointment of Abraham Brewster as Law Adviser to the Lord Lieutenant of Ireland"])
+('the team', 'was enshrined', ['into the Basketball Hall of Fame', 'in 1959'])
+('the lower river', 'to be dredged', ['three times', 'in two years'])
+('As is true for all sensors', 'requires', ['a functionality for calibration'])
+('a more descriptive name', 'was sought', ['for it', 'starting in the 1990s'])
+('Assisting in the recording process', 'were', ['two friends of the group'])
+('Assisting in the recording process', 'were', ['Fernando Cabello'])
+('Celine Dion helped the newly solvent airline', 'debut', ['its new image'])
+('Celine Dion', 'helped', ['the newly solvent airline debut its new image', 'At a presentation in the Toronto Pearson International Airport hangar'])
+('8 people', 'were killed in', ['the ensuing tsunami two of which are prisoners at one of the Permisan prisons'])
+('the ensuing tsunami', 'are', ['prisoners'])
+('8 people', 'were killed', ['in the ensuing tsunami'])
+('the street grid north of Yesler', 'does not line up', ["with the neighborhood 's other streets"])
+('Yesler Way', 'marks', ['the boundary between two different plats'])
+('the alliance', 'plays', ['a significant role', 'in Islamic ethics'])
+('Lord counterpart', '[is] Justice [of]', ['Bruce'])
+('Lord counterpart', '[is] Justice [of]', ['hers'])
+('Burnham', 'died', ['of heart failure', 'at the age of 86', 'on September 1'])
+('this', 'can result', ['in hyperinflation', 'if used unsparingly'])
+('this practice', 'reduces', ['government interest costs rather than truly canceling government debt'])
+('her nephews', 'had been orphaned', ['by the plague'])
+('she', 'was raising', ['her nephews , who had been orphaned by the plague', 'By then'])
+('not only her own children', 'had been orphaned', ['by the plague'])
+('she', 'was raising', ['not only her own children , who had been orphaned by the plague', 'By then'])
+('Carl uses claiming it', 'is not', ['his `` first time to the rodeo'])
+('Carl', 'uses the `` old magic claiming', ['it is not his `` first time to the rodeo'])
+('Carl', 'uses the `` old magic to tame', ['the Deep Crow'])
+('Carl', 'uses', ['the `` old magic', 'to tame the Deep Crow'])
+('Certain fractional quantum Hall phases', 'to have', ['the right properties for building a topological quantum computer'])
+('Chevalier', 'fulfilled his promise by erecting', ["a shrine dedicated to the honour of Mary under the title of `` Our Lady of the Sacred Heart ''"])
+('Chevalier', 'fulfilled', ['his promise', 'the following year'])
+('a shrine', 'dedicated', ['to the honour of Mary', 'under the title of `` Our Lady of the Sacred Heart'])
+('sequences', 'control', ['the transcription of a nearby gene'])
+('Cis-regulatory elements', 'are', ['sequences that control the transcription of a nearby gene'])
+('these rifles', 'produce', ['10 ring performance'])
+('these rifles', 'produce', ['a consistent 10 ring performance'])
+('DC Comics', 'held', ["a memorial service in Manhattan 's Lower East Side", 'at the Angel Orensanz Foundation on Norfolk Street'])
+('Beuerlein', 'passing', ['for a then franchise - record 373 yards'])
+('Beuerlein', 'was', ['red - hot', 'passing for a then franchise - record 373 yards'])
+('Beuerlein', 'was', ['red - hot', '- dueling Brett Favre'])
+('Beuerlein', 'was', ['red - hot', 'out'])
+('Dodo', 'is portrayed', ['at the end of `` The Massacre'])
+('Dodo', 'to have', ["a `` common '' accent"])
+('Dodo', 'was intended', ["to have a `` common '' accent", 'originally'])
+('the opposing attitudes on love', 'found', ['throughout the play'])
+('they', 'can be viewed', ['as a debate on the opposing attitudes on love'])
+('it', 'was', ['a rimshot to the southwest of the city'])
+('it', 'was', ['barely hearable in the northern portions of Atlanta beyond the downtown area'])
+('the transmitter location', 'being based', ['in Tyrone and a smaller signal wattage'])
+('Each of the Matoran', 'met', ['each other', 'at the Great Temple'])
+('Each of the Matoran', 'brought', ['their Toa stone'])
+('Stephanie', 'dons', ['her costume', 'again', 'Each time Cluemaster escapes or starts some new plan'])
+('Cluemaster', 'starts', ['some new plan', 'Each time'])
+('Cluemaster', 'escapes', ['Each time'])
+('Failure to perform the duty', 'could lead', ['to prosecution at re-enslavement'])
+('Failure to perform the duty', 'could lead', ['to prosecution at law'])
+('Li', 'holds', ['definitional power', 'in that belief system'])
+('Fans', 'reacted to the news of the suspension by canceling', ['their XM Radio subscriptions'])
+('Fans', 'reacted', ['to the news of the suspension'])
+('some fans', 'even going', ['as far as smashing their XM units'])
+('the Miami Canal', 'bypassing', ['the rapids at the head of the North Fork'])
+('the Miami Canal', 'was dug', ['bypassing the rapids at the head of the North Fork', 'From 1909 to 1912'])
+('the player must shoot constantly Gameplay', 'is', ['very basic'])
+('the player', 'must shoot constantly', ['at a continual stream of enemies', 'in order'])
+('the Bluth Company', 'builds', ['mini-mansions', 'among many other activities'])
+('George Bluth Sr', 'is', ['the founder and former CEO of the Bluth Company'])
+('they caused a rift', 'to open', ['between tectonic plates'])
+('Battra', 'battled', ['on the ocean floor', 'until they caused a rift to open between tectonic plates'])
+('they caused a rift', 'to open', ['between tectonic plates'])
+('they', 'caused', ['a rift to open between tectonic plates'])
+('Godzilla', 'battled', ['on the ocean floor', 'until they caused a rift to open between tectonic plates'])
+('Good 1 H NMR spectra', 'can be acquired with', ['16 repeats'])
+('16 repeats', 'takes', ['only minutes'])
+('HTB', 'seeks to spread', ['the teachings of Christianity'])
+('HTB', 'seeks', ['to spread the teachings of Christianity'])
+('anyone', 'would like to attend', ['the course'])
+('anyone', 'would like', ['to attend the course'])
+('an Alpha course', 'to be', ['accessible to anyone'])
+("HTB 's aim", 'is', ['for an Alpha course to be accessible to anyone'])
+('He', 'appeared', ['in that game', 'alongside his Arsenal midfield colleague'])
+('High Impact events', 'were', ['they to occur'])
+('He', 'took his entire army to destroy', ["the plain that lay ahead of Alexander 's army"])
+('He', 'took', ['his entire army', 'to destroy the plain'])
+('the plain', 'lay', ["ahead of Alexander 's army"])
+('He', 'left only a small contingent to guard', ['the defile'])
+('He', 'left', ['only a small contingent', 'to guard the defile'])
+('He', 'represented', ['the riding of Nickel Belt in the Sudbury , Ontario area'])
+('He', 'was a member of', ['the European Convention'])
+('the text of the European Constitution', 'never entered', ['into force'])
+('the European Convention', 'drafted', ['the text of the European Constitution'])
+('He', 'was', ['a member of the European Convention'])
+('the Earth', 'hangs', ['in the air'])
+('a 7th-century alliance', 'created', ['by various Meccans'])
+('Hilf al-Fudul', 'was', ['a 7th-century alliance created by various Meccans , including the Islamic prophet'])
+('a village', 'dedicated', ['to agriculture , logging'])
+('Aiseau', 'was', ['a village dedicated to agriculture , logging', 'Historically'])
+('Gwen Andrews', '[is] secretary [of]', ['Tracy'])
+("comic relief sidekick Tracy 's secretary provides Mike McGurk", 'bears', ["some resemblance to Tracy 's partner from the strip"])
+("Tracy 's secretary provides comic relief", 'sidekick', ["Mike McGurk '' bears some resemblance to Tracy 's partner from the strip"])
+("Tracy 's secretary", 'provides', ['the same kind of feminine interest'])
+('FBI Director Clive Anderson', 'is', ['the same kind of avuncular superior as Chief Brandon'])
+('Knievel', 'crashed', ['into a cameraman', 'during his rehearsal'])
+('Knievel', 'lost', ['control of the motorcycle', 'during his rehearsal'])
+('the Germans', 'to correct', ['any shortfall'])
+('the Germans', 'would be', ['able to correct any shortfall'])
+('the Germans', 'to adjust', ['their aim'])
+('the Germans', 'would be', ['able to adjust their aim'])
+('the governor of the important Adriatic port of Dyrrhachium', 'had surrendered', ['the town', 'to Basil II', 'In 1005 for example'])
+('a new process', 'took', ['just a few days'])
+('a new process', 'took', ['just a few hours'])
+('a KOMO news photographer', 'discovered', ['a way to develop color film in a new process', 'In 1954'])
+('Barrie', 'appeared', ['in two episodes of `` Alfred Hitchcock Presents', 'In 1964'])
+('researchers', 'found', ['In 1972'])
+('1975 barrie', 'was directed in', ['the television movie'])
+('Barrie', 'was directed', ['by Lee Grant', 'In 1975'])
+('she', 'appeared', ['in two television films', "as the mother of Lesley Ann Warren 's character as Emily McPhail in `` Tell Me My Name", 'In 1977'])
+('she', 'appeared', ['in two television films', "as the mother of Lesley Ann Warren 's character in `` 79 Park Avenue '' `` Tell Me My Name", 'In 1977'])
+('the Brumbies', 'finished', ['at the top of the Super 12 table , six points clear of the next best team', 'In 2004'])
+('Sun', 'announced', ['Project Indiana', 'In 2007'])
+('Bloomberg Businessweek', 'voted', ['San Francisco', "as America 's Best City", 'In 2012'])
+('Marcus Perperna', 'is mentioned In', ['54 bc'])
+('the consulars', 'bore', ['testimony on behalf of Marcus Aemilius Scaurus', 'at his trial'])
+('Marcus Perperna', 'is mentioned', ['as one of the consulars', 'In 54 BC'])
+('they', 'call', ['themselves', 'Shamerim', 'in Samaritan Hebrew'])
+('the Samaritans', 'are called', ['Shomronim', 'while in Samaritan Hebrew they call themselves `` Shamerim', 'In Jewish Hebrew'])
+('its fulfilment', 'will be revealed', ['in the cumulation of Creation', 'In Jewish belief'])
+('Naguib', 'to conclude', ['the abolition of the monarchy'])
+('Nasser', 'pressured', ['Naguib', 'to conclude the abolition of the monarchy', 'In June'])
+('Sulayman Hafez', '[is] loyalist [of]', ['Naguib'])
+('Nasser', 'took', ['control of the interior ministry post from Naguib loyalist Sulayman Hafez', 'In June'])
+('all cases of meatal stenosis', 'were', ['among circumcised boys', "In Van Howe 's study"])
+('only two people', 'exposed', ['to a pathogenic extraterrestrial microbe survive'])
+("Michael Crichton 's first novel", 'published', ['In `` The Andromeda Strain'])
+('Holkins stated he', 'reserved', ['the right to bring Carl back any time'])
+('Holkins', 'stated', ['that he reserved the right', 'In a news post'])
+('Krahulik', 'goes', ['to France', 'any time'])
+('another Language B', 'arrives', ['in the same territory'])
+('a Language A', 'occupies', ['a given territory', 'In a typical case of substrate interference'])
+('Boston', 'joined', ['the Atlantic Coast Conference', 'on July 1 , 2005', 'In athletics'])
+('Boston College', 'left', ['the Big East Conference', 'In athletics'])
+('this specialized function', 'replaces', ['the basic rifleman position in the fireteam', 'In both cases'])
+('Condon told Hauptmann', 'was not', ['John'])
+('Condon', 'told FBI Special Agent Turrou after seeing', ['Hauptmann', 'in a lineup at New York Police Department Greenwich Street Station'])
+('Condon', 'told', ['FBI Special Agent Turrou', 'that Hauptmann was not `` John', 'after seeing Hauptmann in a lineup at New York Police Department Greenwich Street Station'])
+('Condon claimed he', 'passed', ['the ransom money', "to in St. Raymond 's Cemetery"])
+('Condon', 'claimed', ["he passed the ransom money to in St. Raymond 's Cemetery"])
+('RCPO', 'concluded', ['858 cases convictions'])
+('RCPO', 'concluded', ['858 cases convictions in 88 % of cases', 'In its first six months'])
+('UTA', 'ordered', ['77 siemens s70 light rail vehicles'])
+('UTA', 'ordered', ['77 Siemens S70 light rail vehicles', 'from Siemens AG'])
+('a considerable number', 'went', ['entirely extinct after settlement by Europeans'])
+('Frank Wilson won the Oppositionists under George Leake', 'were', ['able to form a minority government', 'In the 1901 election'])
+('Frank Wilson', 'won', ['the seat'])
+('the Oppositionists under George Leake', 'to form', ['a minority government'])
+('the 5th Dragoon Guards', 'formed', ['part of the Heavy Cavalry', 'In the Crimean War'])
+('the 5th Dragoon Guards', 'formed', ['part of the Heavy Cavalry Brigade', 'In the Crimean War'])
+('the Welsh Methodists', 'established', ['their own denomination', 'In the early 19th century'])
+('the Welsh Methodists', 'broke away', ['In the early 19th century'])
+('Knievel', 'was scheduled', ['for a major jump in Chicago', 'In the winter of 1976'])
+('the purpose of Creation is it is God', 'desired', ['a dwelling place', 'in the lower realms'])
+('the purpose of Creation is it', 'is', ["man who transforms the mundane , lowest World into an abode for God 's essence"])
+('the purpose of Creation', 'is', ["that `` God desired a dwelling place in the lower realms '' - it is man", 'In this explanation'])
+('man', 'transforms', ['the mundane , lowest World', "into an abode for God 's essence"])
+('the squadron', 'transitioned', ['to the A-4L Skyhawk', 'Initially flying the A-4B Skyhawk', 'later'])
+('his chances of surviving', 'to be', ['no better than 50-50'])
+('his chances of surviving', 'were thought', ['Initially'])
+('a long , slender , scaly tail', 'to communicate', ['by making drumming noises'])
+('It', 'has hind', ['a long , slender , scaly tail that it uses to communicate by making drumming noises', 'long'])
+('It', 'has hind', ['legs', 'long'])
+('It', 'is', ['unintelligible with Standard Chinese'])
+('the dialect', 'spoken', ['in Xiamen'])
+('It', 'is', ['essentially', 'the same as the dialect'])
+('It', 'must be done', ['if attempted'])
+('It', 'is not', ['really passable'])
+('the Asian species', 'was spread', ['westward'])
+('the Asian species', 'was introduced', ['to East Africa', 'early in the common era'])
+('Its cultivation', 'declined', ['in favour of the Asian species'])
+('JAL', 'introduced', ['jet service on the Fukuoka-Tokyo route in 1961'])
+('a US impostor', 'most famously entered', ['Princeton University'])
+('James Arthur Hogue', 'is', ['a US impostor'])
+('this was not Guy Gardner', 'brought down', ['the Yellow Central Power Battery'])
+('this was not Guy Gardner', 'brought down', ['New Warworld'])
+('this was not John Stewart', 'brought down', ['the Yellow Central Power Battery'])
+('the Yellow Central Power Battery', 'were detonated', ['next to the Anti-Monitor'])
+('this was not John Stewart', 'brought down', ['New Warworld'])
+('this', 'was not', ['enough to kill him'])
+('this', 'to kill', ['him'])
+('a shield created by hundreds of Green Lanterns', 'to contain', ['the explosion'])
+('a shield', 'created', ['by hundreds of Green Lanterns'])
+('The Empire', 'Strikes', ['Back'])
+('Johns', 'appeared', ['as an Imperial Officer', 'in the 1980 `` Star Wars sequel'])
+('Keibler', 'asked', ['to appear on `` Dancing with the Stars', 'then'])
+("Kostabi 's other releases", 'include', ['Songs'])
+("Kostabi 's other releases", 'include', ['Songs For Sumera'])
+('Langford', 'used his footwork to evade', ["all of Walcott 's attacks"])
+('Langford', 'used', ['his footwork', "to evade all of Walcott 's attacks"])
+('Langford', 'kept', ['Walcott', 'at a distance with his longer reach'])
+('Language B begins the speakers of Language A abandon Language B', 'begins to supplant', ['language A'])
+('the speakers of Language A abandon Language B', 'begins', ['to supplant language A', 'then'])
+('the speakers of Language A', 'abandon', ['their own language'])
+('Lens', 'is characterized', ['by a partial displacement of the lens'])
+('Lens subluxation', 'is seen', ['in dogs'])
+('Li', 'taught', ['Falun Gong exercises', 'across China'])
+('Li', 'gave', ['lectures', 'subsequently'])
+('Li Hongzhi', 'began', ['his public teachings of Falun Gong on 13 May 1992 in Changchun'])
+('it', 'lampooned', ['the low-budget quality of satellite television available in the UK', 'at the time', 'often'])
+('an American politician', 'served', ['as the 59th Mayor of Pittsburgh', 'from 2006 until 2014'])
+('Luke Robert Ravenstahl', 'is', ['an American politician who served as the 59th Mayor of Pittsburgh from 2006 until 2014'])
+('Males', 'had a median income of', ['$ 28750 versus $ 16250'])
+('Males', 'had', ['a median income of $ 28,750 versus $ 16,250 for females'])
+('Males', 'had a median income of', ['$ 36016 versus $ 32679'])
+('Males', 'had', ['a median income of $ 36,016 versus $ 32,679 for females'])
+('Many overseas Chinese', 'speak', ['mainly', 'Hokkien', 'at home', 'often'])
+('Many overseas Chinese', 'came', ['from the Quanzhou area'])
+('the Mason City Division', 'continued', ['to operate as usual', 'Meanwhile'])
+('Modification of the river', 'began', ['in earnest', 'with the arrival of the Florida East Coast Railway in Miami in 1896'])
+('Moore', 'knocking out', ['in the ninth'])
+('Moore', 'knocked', ['Moore', 'down five times'])
+('Moore', 'dropped', ['Marciano', 'in the second round', 'briefly'])
+('Much of the station', 'remains', ['in the disused subway'])
+('Ali ibn Abi Talib', '[is] the Imam of', ['his time'])
+('Aisha', '[is] sister [of]', ['him'])
+('Ibn Abu Bakr was Muhammad ibn Abu Bakr', 'was', ['a pious Muslim'])
+('Ibn Abu Bakr', 'was', ['faithful to his stepfather'])
+('a pious Muslim', 'supported', ['the Imam of his time'])
+('Names like David Gresham', 'before moving', ['to other stations such as Capital 604'])
+('Names like David Gresham', 'started out', ['at LM Radio', 'before moving to other stations such as Capital 604'])
+('Names like David Gresham', 'before moving', ['to other stations such as 2JJ'])
+('Names like David Gresham', 'started out', ['at LM Radio', 'before moving to other stations such as 2JJ'])
+('Names like David Gresham', 'before moving', ['to other stations such as other SABC stations'])
+('Names like David Gresham', 'started out', ['at LM Radio', 'before moving to other stations such as other SABC stations'])
+('Names like David Gresham', 'before moving', ['to other stations such as Springbok Radio'])
+('Names like David Gresham', 'started out', ['at LM Radio', 'before moving to other stations such as Springbok Radio'])
+('Names like David Gresham', 'before moving', ['to other stations such as Radio 702'])
+('Names like David Gresham', 'started out', ['at LM Radio', 'before moving to other stations such as Radio 702'])
+('Names like David Gresham', 'before moving', ['to other stations such as Swazi Music Radio'])
+('Names like David Gresham', 'started out', ['at LM Radio', 'before moving to other stations such as Swazi Music Radio'])
+('Names like George Wayne', 'before moving', ['to other stations such as Capital 604'])
+('Names like George Wayne', 'started out', ['at LM Radio', 'before moving to other stations such as Capital 604'])
+('Names like George Wayne', 'before moving', ['to other stations such as 2JJ'])
+('Names like George Wayne', 'started out', ['at LM Radio', 'before moving to other stations such as 2JJ'])
+('Names like George Wayne', 'before moving', ['to other stations such as other SABC stations'])
+('Names like George Wayne', 'started out', ['at LM Radio', 'before moving to other stations such as other SABC stations'])
+('Names like George Wayne', 'before moving', ['to other stations such as Springbok Radio'])
+('Names like George Wayne', 'started out', ['at LM Radio', 'before moving to other stations such as Springbok Radio'])
+('Names like George Wayne', 'before moving', ['to other stations such as Radio 702'])
+('Names like George Wayne', 'started out', ['at LM Radio', 'before moving to other stations such as Radio 702'])
+('Names like George Wayne', 'before moving', ['to other stations such as Swazi Music Radio'])
+('Names like George Wayne', 'started out', ['at LM Radio', 'before moving to other stations such as Swazi Music Radio'])
+('Names like Darryl Jooste', 'before moving', ['to other stations such as Capital 604'])
+('Names like Darryl Jooste', 'started out', ['at LM Radio', 'before moving to other stations such as Capital 604'])
+('Names like Darryl Jooste', 'before moving', ['to other stations such as 2JJ'])
+('Names like Darryl Jooste', 'started out', ['at LM Radio', 'before moving to other stations such as 2JJ'])
+('Names like Darryl Jooste', 'before moving', ['to other stations such as other SABC stations'])
+('Names like Darryl Jooste', 'started out', ['at LM Radio', 'before moving to other stations such as other SABC stations'])
+('Names like Darryl Jooste', 'before moving', ['to other stations such as Springbok Radio'])
+('Names like Darryl Jooste', 'started out', ['at LM Radio', 'before moving to other stations such as Springbok Radio'])
+('Names like Darryl Jooste', 'before moving', ['to other stations such as Radio 702'])
+('Names like Darryl Jooste', 'started out', ['at LM Radio', 'before moving to other stations such as Radio 702'])
+('Names like Darryl Jooste', 'before moving', ['to other stations such as Swazi Music Radio'])
+('Names like Darryl Jooste', 'started out', ['at LM Radio', 'before moving to other stations such as Swazi Music Radio'])
+('Names like Robin Alexander', 'before moving', ['to other stations such as Capital 604'])
+('Names like Robin Alexander', 'started out', ['at LM Radio', 'before moving to other stations such as Capital 604'])
+('Names like Robin Alexander', 'before moving', ['to other stations such as 2JJ'])
+('Names like Robin Alexander', 'started out', ['at LM Radio', 'before moving to other stations such as 2JJ'])
+('Names like Robin Alexander', 'before moving', ['to other stations such as other SABC stations'])
+('Names like Robin Alexander', 'started out', ['at LM Radio', 'before moving to other stations such as other SABC stations'])
+('Names like Robin Alexander', 'before moving', ['to other stations such as Springbok Radio'])
+('Names like Robin Alexander', 'started out', ['at LM Radio', 'before moving to other stations such as Springbok Radio'])
+('Names like Robin Alexander', 'before moving', ['to other stations such as Radio 702'])
+('Names like Robin Alexander', 'started out', ['at LM Radio', 'before moving to other stations such as Radio 702'])
+('Names like Robin Alexander', 'before moving', ['to other stations such as Swazi Music Radio'])
+('Names like Robin Alexander', 'started out', ['at LM Radio', 'before moving to other stations such as Swazi Music Radio'])
+('Names like Frank Sanders', 'before moving', ['to other stations such as Capital 604'])
+('Names like Frank Sanders', 'started out', ['at LM Radio', 'before moving to other stations such as Capital 604'])
+('Names like Frank Sanders', 'before moving', ['to other stations such as 2JJ'])
+('Names like Frank Sanders', 'started out', ['at LM Radio', 'before moving to other stations such as 2JJ'])
+('Names like Frank Sanders', 'before moving', ['to other stations such as other SABC stations'])
+('Names like Frank Sanders', 'started out', ['at LM Radio', 'before moving to other stations such as other SABC stations'])
+('Names like Frank Sanders', 'before moving', ['to other stations such as Springbok Radio'])
+('Names like Frank Sanders', 'started out', ['at LM Radio', 'before moving to other stations such as Springbok Radio'])
+('Names like Frank Sanders', 'before moving', ['to other stations such as Radio 702'])
+('Names like Frank Sanders', 'started out', ['at LM Radio', 'before moving to other stations such as Radio 702'])
+('Names like Frank Sanders', 'before moving', ['to other stations such as Swazi Music Radio'])
+('Names like Frank Sanders', 'started out', ['at LM Radio', 'before moving to other stations such as Swazi Music Radio'])
+('Names like Gary Edwards', 'before moving', ['to other stations such as Capital 604'])
+('Names like Gary Edwards', 'started out', ['at LM Radio', 'before moving to other stations such as Capital 604'])
+('Names like Gary Edwards', 'before moving', ['to other stations such as 2JJ'])
+('Names like Gary Edwards', 'started out', ['at LM Radio', 'before moving to other stations such as 2JJ'])
+('Names like Gary Edwards', 'before moving', ['to other stations such as other SABC stations'])
+('Names like Gary Edwards', 'started out', ['at LM Radio', 'before moving to other stations such as other SABC stations'])
+('Names like Gary Edwards', 'before moving', ['to other stations such as Springbok Radio'])
+('Names like Gary Edwards', 'started out', ['at LM Radio', 'before moving to other stations such as Springbok Radio'])
+('Names like Gary Edwards', 'before moving', ['to other stations such as Radio 702'])
+('Names like Gary Edwards', 'started out', ['at LM Radio', 'before moving to other stations such as Radio 702'])
+('Names like Gary Edwards', 'before moving', ['to other stations such as Swazi Music Radio'])
+('Names like Gary Edwards', 'started out', ['at LM Radio', 'before moving to other stations such as Swazi Music Radio'])
+('Names like John Berks', 'before moving', ['to other stations such as Capital 604'])
+('Names like John Berks', 'started out', ['at LM Radio', 'before moving to other stations such as Capital 604'])
+('Names like John Berks', 'before moving', ['to other stations such as 2JJ'])
+('Names like John Berks', 'started out', ['at LM Radio', 'before moving to other stations such as 2JJ'])
+('Names like John Berks', 'before moving', ['to other stations such as other SABC stations'])
+('Names like John Berks', 'started out', ['at LM Radio', 'before moving to other stations such as other SABC stations'])
+('Names like John Berks', 'before moving', ['to other stations such as Springbok Radio'])
+('Names like John Berks', 'started out', ['at LM Radio', 'before moving to other stations such as Springbok Radio'])
+('Names like John Berks', 'before moving', ['to other stations such as Radio 702'])
+('Names like John Berks', 'started out', ['at LM Radio', 'before moving to other stations such as Radio 702'])
+('Names like John Berks', 'before moving', ['to other stations such as Swazi Music Radio'])
+('Names like John Berks', 'started out', ['at LM Radio', 'before moving to other stations such as Swazi Music Radio'])
+('he', 'hit', ['.308', 'Triple-A Round Rock'])
+('Newhan', 'split', ['the season', 'between Triple-A Round Rock'])
+('the race', 'left', ['the city', 'Next morning'])
+('the race', 'left', ['the city', 'on the way to the Pyrenees , in the university area of La House', 'Next morning'])
+('Noatak', 'is reached', ['by air'])
+('Noatak', 'has', ['a gravel public airstrip'])
+("Not everyone completely trusted Vakama 's vision - Matau", 'was', ["particularly frustrated at following what he considered the delusions of a `` fire-spitter '' - but with nothing else"])
+('Not everyone', 'completely trusted', ["Vakama 's vision - Matau was particularly frustrated at following what he considered the delusions of a `` fire-spitter '' - but with nothing else"])
+('it will be seen abandonment', 'befell', ['myself'])
+('it', 'will be seen', ['in the sequel of the narrative', 'then'])
+('it', 'is referred', ['to', 'in `` The Castaway'])
+('1 individual', 'belonged', ['to the Christian Catholic faith'])
+('May 13 , 2010', '[is] Yost was named manager of', ['the Kansas City Royals'])
+('Yost', 'replacing', ['Trey Hillman'])
+('Yost', 'was named', ['manager of the Kansas City Royals', 'replacing Trey Hillman', 'On May 13 , 2010'])
+('a homeless man', 'wandered', ['into the studio'])
+('a broadcast', 'featuring', ['a homeless man who wandered into the studio'])
+('XM', 'suspended', ['Opie & Anthony', 'for 30 days', 'in response to a broadcast', 'On May 15 , 2007'])
+('Brown', 'left', ['the federal government', 'On November 2'])
+('Brown', 'ended', ['his contract', 'early', 'On November 2'])
+('One candidate', 'is', ['a wreck at the western end of Manitoulin Island in Lake Huron'])
+("Pink Floyd 's 1973 album", 'contains', ['a reprise of `` Breathe'])
+('One example', 'could be', ['Time'])
+('Hank McCoy', 'retains', ['the basic features of a normal human alongside a generally simian physiology equivalent to that of a Great Ape', 'Originally'])
+('Parental investment', 'is', ['any expenditure of resources to benefit one offspring'])
+('Piffaro', 'performs', ['a concert series of four to five concerts a year', 'in Philadelphia', 'in addition to touring throughout the United States , Canada , Europe and elsewhere'])
+('the positions of some of the buildings', 'can be inferred', ['still'])
+('Plants', 'marking', ['parts of the foundations of the castle'])
+('Plants', 'have been planted', ['marking parts of the foundations of the castle'])
+('the Royals', 'signed', ['Yost', 'to a contract extension through the 2013 season', 'Prior to the 2012 season'])
+('the Player', 'could call', ['one of four available `` hot routes', 'Prior to the Playmaker tool'])
+('Proliferative nodules', 'to be', ['benign'])
+('Proliferative nodules', 'are', ['regularly'])
+('Proliferative nodules', 'are biopsied', ['usually'])
+('RedHat engineers', 'identified', ['problems with ProPolice', 'though'])
+('her superiors refuse her report', 'to believe', ['her superiors'])
+('her superiors', 'refuse', ['to believe'])
+('Ballard', 'delivers', ['her report , which her superiors refuse to believe'])
+('the interstate commerce clause', 'were undermined', ["by the Supreme Court 's `` expansive interpretation of Congress 's power"])
+('any activities', 'might affect indirectly', ['during the New Deal'])
+('Rosen argues one of the most important provisions of the Constitution in Exile', 'is', ['limitations on the interstate commerce clause'])
+('Rosen', 'argues', ['that one of the most important provisions of the Constitution in Exile is limitations on the interstate commerce clause'])
+('Dr. Joel Marcus', '[is] replacement [of]', ['hers'])
+('Scarpetta convincing she', 'was fired', ['from her position', 'at the request of her replacement'])
+('Scarpetta', 'convincing', ['herself', 'that she was fired from her position , at the request of her replacement'])
+('Scarpetta', 'returns', ['to Virginia', 'in `` Trace', 'convincing herself that she was fired from her position , at the request of her replacement'])
+('Shea', 'was born', ['on September 5'])
+('Richmond', 'has won', ['ten premierships', 'Since joining the competition in 1908'])
+('the most recent victory', 'being', ['in 1980'])
+('extra payments were specified a freed slave', 'could liberate', ['himself', 'from these residual duties'])
+('extra payments', 'were specified', ['Sometimes'])
+('Spennymoor', 'won the FA Carlsberg Vase after winning', ['2-1', 'in the final', 'at Wembley Stadium', 'in May 2013'])
+('Spennymoor', 'won', ['the FA Carlsberg Vase', 'after winning 2-1 in the final at Wembley Stadium against Tunbridge Wells in May 2013'])
+('Spennymoor Town F.C.', 'are', ['the main local football team'])
+('Republic', '[is] Socialist [of]', ['Abkhazian Autonomous Soviet'])
+('Republic', '[is] Socialist [of]', ['Abkhaz Soviet'])
+('it', 'became', ['the capital of the Abkhazian Autonomous Soviet Socialist Republic', '1931'])
+('the `` Union treaty', 'associated', ['with the Georgian SSR', 'from 1921 until 1931'])
+('Sukhum', 'functioned', ['as the capital of the `` Union treaty'])
+('Swinburne moves in his writing program from the philosophical to the theological', 'building rigorously', ['his case'])
+('Team Racing', 'is', ['a NASCAR Craftsman Truck Series team'])
+('The 2nd Battalion of the 13th Light Infantry', 'was raised', ['at Winchester', 'in January 1858'])
+('The Acrolepiidae family of moths', 'are known', ['as False Diamondback moths'])
+('an alternative rock/new wave band', 'formed', ['in Rhyl , North Wales , in 1981'])
+('The Alarm', 'are', ['an alternative rock/new wave band that formed in Rhyl , North Wales , in 1981'])
+('The Bourbons', 'reconstructed', ["the Sala d'Ercole"])
+("the Sala d'Ercole", 'named', ['for its frescos'])
+('The Bourbons', 'built', ['additional reception rooms'])
+('equipment', 'burned', ['in the November 24 , 1967 shop fire'])
+('The Charles City equipment', 'was transferred', ['to Mason City', 'to replace equipment'])
+('many of its descendants', 'become', ['rebbes'])
+('The Nadvorna dynasty', 'is', ['notable inasmuch'])
+('The PAC bulletins', 'were widely distributed', ['at these meetings'])
+('Alexander', 'passed', ['through'])
+('The Persian contingent that was supposed to guard the defile abandoned The Persian contingent', 'to guard', ['the defile'])
+('The Persian contingent that was supposed to guard the defile', 'abandoned', ['it', 'soon'])
+('The Persian contingent', 'was supposed', ['to guard the defile'])
+('The Rev. William Alfred Quayle', 'was honored', ['by his alma mater , Baker University , with the degrees'])
+('Visitor Centre', 'located', ['at Cornard Lock'])
+('The River Stour Trust', 'has', ['its headquarters in Sudbury'])
+('The River Stour Trust', 'formed', ['in 1968'])
+('The Steinbrenner family', 'added a monument to honor', ['Steinbrenner'])
+('The Steinbrenner family', 'added', ['a monument', 'to Monument Park', 'on September 20 , 2010', 'to honor Steinbrenner'])
+('many Wardlaw-Hartridge Students', 'attend', ['camp or classes', 'over the summer'])
+('The Summer Programs Office', 'runs', ['these programs'])
+('Championship Game', '[is] Baseball National [of]', ['A'])
+('The Triple-A Baseball National Championship Game', 'was established', ['in 2006'])
+('locals', 'call', ['Haynes portions of Mashapaug Road', 'sometimes'])
+('locals call The Wilbur Cross Highway', 'ended', ['in Sturbridge', 'formerly'])
+('locals', 'call', ['Haynes Street', 'sometimes'])
+('The band confirmed the album', 'would be', ['self-released'])
+('The band', 'confirmed', ['that the album would be self-released'])
+('The canal', 'was dammed off', ['from the river', 'for most of the construction period'])
+('the platted streets', 'given', ['Norwegian names'])
+('The city', 'was named', ['Nordland', 'with the platted streets given Norwegian names', 'originally'])
+('The city', 'was founded in', ['1880'])
+('The city', 'was founded', ['by the Western Town Lot Company', 'in 1880'])
+('Republicans', 'had', ['12 seats in the State House', 'in 2003'])
+('The closest Watson', 'was', ['when Republicans had 12 seats in the State House in 2003'])
+('The closest Watson', 'got', ['ever'])
+('The community', 'is served', ['by the United States Postal Service Hinsdale Post Office'])
+('The dialects', 'have', ['different intonations'])
+('The dialects they speak', 'are', ['similar'])
+('The dialects', 'speak', ['they'])
+('The ensemble', 'has', ['extensive recordings with Dorian Recordings'])
+('The ensemble', 'has', ['extensive recordings'])
+('the Society', 'folded', ['in 1822'])
+('The establishment of a museum', 'had been planned', ['in 1821', 'by the Philosophical Society of Australasia', 'first'])
+('The extension of the University Library', 'parking', ['for 120 cars', 'on the third to sixth floors'])
+('The extension of the University Library', 'can be found', ['on the second floor'])
+('most', 'incorporate', ['an electronic sender to operate a fuel gauge on the dashboard'])
+('The external gauge', 'is directly', ['usually'])
+('The field at the Lake Elsinore Diamond', 'is named', ['the Pete Lehr Field'])
+("Sweden 's Royal Couple", 'lived', ['there', 'during the 1992 Barcelona Summer Olympics'])
+('The first', 'comes', ["from when Sweden 's Royal Couple lived there during the 1992 Barcelona Summer Olympics"])
+('himself', 'to honour', ['the Blessed Virgin'])
+('The founder', 'had pledged', ['to honour the Blessed Virgin in a special manner'])
+('the trip', 'occurred', ['from June', 'through September of 2014'])
+('The fundraiser', 'was', ['successful'])
+('The fuselage', 'had', ['an oval cross-section'])
+('a magnet', 'rotates', ['an external gauge'])
+('the tank', 'rotating', ['a magnet , which rotates an external gauge'])
+('The gauge sender', 'is', ['usually', 'a magnetically coupled arrangement'])
+('the New Orleans Open', 'beginning', ['in 1981'])
+('the golf tournament', 'known', ['as the New Orleans Open'])
+('The insurer', 'sponsored', ['the golf tournament known as the New Orleans Open'])
+('two weeks starting in the end of August', 'reserved', ['for the Dartmouth First-Year Trips'])
+('The lodge', 'is', ['open'])
+('The opening credits sequence for the collection', 'was directed', ['by Hanada Daizaburo'])
+('The permanent members', 'are', ['the provost'])
+('The race', 'is held', ['in late February / early March', 'usually'])
+('The race', 'is', ['in mixed eights'])
+('The rapids at the head of the South Fork', 'were removed in', ['1908'])
+('The rapids at the head of the South Fork', 'were removed', ['in 1908'])
+('redesigned 2006 Ram SRT - 10', 'came', ['in Brilliant Black Crystal Clear Coat'])
+('redesigned 2006 Ram SRT - 10', 'came', ['in Inferno Red'])
+('redesigned 2006 Ram SRT - 10', 'came', ['in Mineral Gray Metallic'])
+('George H. W. Bush', '[is] former President [of]', ['United States'])
+('former US President George H. W. Bush', 'stayed', ['aboard', 'in November 1995'])
+('The second', 'was named', ['after former US President George H. W. Bush stayed aboard in November 1995'])
+('the lead', 'named', ['Jane Waterleigh'])
+('The second', 'titled', ['Consider Her Ways'])
+('The second', 'was', ['titled `` Consider Her Ways'])
+('The series of three constitutional amendments in', 'severely curtailed', ['the role of the Governor-General of the Irish Free State'])
+('three subterranean Grotto follies', 'split', ['between two areas , one on the western side of the lake , at and one on the eastern side at'])
+('three subterranean Grotto follies', 'constructed', ['in the 18th century'])
+('The site', 'consists', ['of three subterranean Grotto follies'])
+('every night', 'is attended', ['by even Dartmouth professors'])
+('The staff', 'provides', ['a family - style , home - cooked dinner', 'every night , which is attended by even Dartmouth professors'])
+('every night', 'is attended', ['by tourists'])
+('The staff', 'provides', ['a family - style , home - cooked dinner', 'every night , which is attended by tourists'])
+('every night', 'is attended', ['by Appalachian Trail thru-hikers'])
+('The staff', 'provides', ['a family - style , home - cooked dinner', 'every night , which is attended by Appalachian Trail thru-hikers'])
+('every night', 'is attended', ['by community members'])
+('The staff', 'provides', ['a family - style , home - cooked dinner', 'every night , which is attended by community members'])
+('every night', 'is attended', ['not only by Dartmouth students'])
+('The staff', 'provides', ['a family - style , home - cooked dinner', 'every night , which is attended not only by Dartmouth students'])
+('The suit alleged they conspired they', 'conspired to weaken', ["Amazon.com 's position in the market , in violation of antitrust law"])
+('The suit alleged they', 'conspired', ["to weaken Amazon.com 's position in the market , in violation of antitrust law"])
+('The suit', 'alleged', ["that they conspired to weaken Amazon.com 's position in the market , in violation of antitrust law"])
+('The suit alleged they conspired they', 'conspired to fix', ['prices', 'for e - books'])
+('The suit alleged they', 'conspired', ['to fix prices for e - books'])
+('The suit', 'alleged', ['that they conspired to fix prices for e - books'])
+('at least one model', 'being produced', ['in February 1993'])
+('The third known version', 'is', ['part number 2189014-00-212 , with at least one model'])
+('The very large piers at the crossing', 'signify', ['that there was once a tower'])
+('the first ever', 'to feature', ['the use of dialogue'])
+('The video', 'was', ['the first ever to feature the use of dialogue'])
+('Their mission', 'lasted', ['for a limited period'])
+('Their mission', 'was', ['always', 'for a specific mandate'])
+('rumours about immigration restrictions', 'appeared', ['in much of the Cypriot media'])
+('Their numbers', 'to increase', ['each year', 'as rumours about immigration restrictions appeared in much of the Cypriot media'])
+('two crashes', 'involving', ['fatalities'])
+('the building', 'has reopened', ['as Keld Lodge', 'since'])
+('it', 'closed', ['in October 2008'])
+('36.4 %', 'were', ['non-families'])
+('11.9 % had 49.7 %', 'were', ['married couples living together'])
+('11.9 %', 'had', ['a female householder with no husband present'])
+('children under the age of 18', 'living', ['with them'])
+('30.1 %', 'had', ['children under the age of 18 living with them'])
+('30.6 %', 'were', ['non-families'])
+('35.3 %', 'had', ['a female householder with no husband present'])
+('31.5 % had 31.7 %', 'were', ['married couples living together'])
+('31.5 %', 'had', ['a female householder with no husband present'])
+('children under the age of 18', 'living', ['with them'])
+('35.3 %', 'had', ['children under the age of 18 living with them'])
+('These', 'are', ['visually', 'very similar to part number 2189014-00-211 , with chassis , silver label on the reverse bearing the AnyKey moniker , screws holding the keyboard together , macro programming'])
+('These', 'are', ['visually', 'very similar to part number 2189014-00-211', 'lacking the AnyKey inscription on their face'])
+('macro programming', 'requiring', ['the control', 'key'])
+('screws', 'holding together', ['the keyboard'])
+('These', 'are', ['visually', 'very similar to part number 2189014-00-211 , with the same AT style plug'])
+('a cosmic energy source', 'called', ['the `` Omega Effect'])
+('These beams', 'stem', ['from a cosmic energy source'])
+('their screen projection', 'is', ['too small'])
+('These objects', 'are thrown away', ['if their screen projection is too small'])
+('European conflict', 'encouraged', ["by Britain 's continental enemies", 'for their own ends'])
+('These', 'were related', ['to European conflict', 'often'])
+('These', 'were related', ['to European conflict', 'as the Stuart Pretenders were aided', 'often'])
+('Third TV drama series', 'was broadcast', ['in 2008', '- , featuring Mao Inoue as Anmitsu'])
+('This attire', 'has become', ['popular with women of other communities'])
+('This engine', 'was equipped', ['with an electronically controlled carburetor'])
+('it', 'was', ['the main language of the nonconformist churches in Wales'])
+('This', 'had', ['considerable implications for the Welsh language', 'as it was the main language of the nonconformist churches in Wales'])
+('This', 'is', ['most common in Western countries'])
+('This line', 'was extended', ['east', 'by the Prahran & Malvern Tramways Trust from Hawthorn Road to Darling Road , Malvern East on 13 November 1913'])
+('the miners demanded the inspections', 'be carried out', ['by experienced colliers'])
+('the miners', 'demanded', ['that the inspections be carried out by experienced colliers'])
+('This policy', 'opposed', ['by the miners'])
+('This policy', 'was', ['however', 'opposed by the miners'])
+('Total ` Fresh Food Story', 'constructed', ['at the end of the North Mall'])
+('R-11', 'continued', ['her training ship duties', 'throughout the remainder of her career', 'on 1 June 1941'])
+('Trumbull', 'as being', ['the sole special-effects creator', 'for 2001'])
+('Trumbull', 'was incorrectly credited', ['in print', 'as being the sole special-effects creator for 2001', 'often'])
+('Ladd', 'is the mother of', ['actress Laura Dern'])
+('actor Bruce Dern', '[is] ex-husband [of]', ['hers'])
+('Ladd', 'is', ['the mother of actress Laura Dern'])
+('a private airfield', 'has been operating', ['for more than thirty years'])
+('Tyabb', 'has', ['Tyabb Airport'])
+('each company', 'built', ['different parts of the aircraft', 'Under the Comanche program'])
+('a yeoman', 'prefers', ['his small beer and domestic peace , possessed of neither patriarchal power nor heroic defiance'])
+('he', 'is not', ['a figure of authority but rather a yeoman', 'later'])
+('Unruly passengers', 'to be taken', ['into custody'])
+('Unruly passengers', 'are put off', ['here', 'to be taken into custody', 'often'])
+('Watson', 'has served', ['as Minority Leader'])
+('Banton', 'had new municipalities of', ['one of 11 new municipalities'])
+('Banton', 'was', ['one of 11 new municipalities'])
+('Banton', 'was', ['one of 11 new municipalities reinstated or created', 'When civilian government was introduced in Romblon by the Americans in 16 March 1901'])
+('civilian government', 'was introduced', ['in Romblon', 'by the Americans', 'in 16 March 1901'])
+('Stauffenberg', 'was convinced', ['that no one in the room could have survived', 'When the explosion tore through the hut'])
+('the explosion', 'tore', ['through the hut'])
+('Scieszka', 'painted', ['apartments', 'While pursuing his MFA at Columbia in New York'])
+("Why the `` Epilogue '' is missing", 'is', ['unknown'])
+('Wide acceptance of zero-energy building technology', 'may require', ['more government incentives or building code regulations'])
+('the Cosmos', 'expressed', ['concern for what Battra might do'])
+('constitutional', 'quickly became', ['the subject of debate'])
+('Russia', 'was officially transformed', ['from an absolute monarchy', "into a constitutional one , though the exact extent of just `` how '' constitutional quickly became the subject of debate"])
+('armor thickness', 'to be scaled', ['according to that'])
+('rules', 'make', ['provisions for armor thickness to be scaled according to that'])
+('Warship combat', '[is] Model [of]', ['Big Gun'])
+('that', 'existed', ['on the prototype vessel'])
+('cannon caliber thickness', 'to be scaled', ['according to that'])
+('rules', 'make', ['provisions for cannon caliber thickness to be scaled according to that'])
+('Big Gun Model Warship combat clubs', 'have', ['rules that make provisions for'])
+('Michael Aspel', 'surprised', ['him', "at Thames Television 's Teddington Studios"])
+('he', 'was surprised', ['by Eamonn Andrews'])
+('Wright', 'was', ["the subject of `` This Is Your Life '' on two occasions"])
+('any act', 'released', ['as a B-side'])
+('Black Water', 'became', ['one of the few records by any act released as a B-side to another Hot 100 hit ``', "before '' topping"])
+('Greenfish', 'was launched', ['by the Electric Boat Co. , Groton', '21 December 1945'])
+('Le Griffon', 'to be', ["the `` Holy Grail '' of Great Lakes shipwreck hunters"])
+('The Cure', 'topped', ['the online music sales charts'])
+('terrorists', 'kill', ['Americans', 'abroad'])
+('a bill', 'permitting', ['execution of terrorists'])
+('the Senate', 'passed', ['a bill permitting execution of terrorists', 'last week'])
+('he complains it left it', 'was', ['boring'])
+('he complains it', 'left', ['grease marks', 'on'])
+('he', 'complains', ['it left grease marks on it was boring'])
+('he complains it', 'left', ['grease marks', 'on his carpet'])
+('he', 'complains', ['it left grease marks on his carpet'])
+('Mr. Panelli', '[is] lawyer [from]', ['San Francisco'])
+('he', 'got', ['the machine', 'first'])
+('Mr. Panelli', 'rowed religiously', ['when he first got the machine'])
+('A half - dozen Soviet space officials', 'stopped by to see', ['their counterparts at the National Space Development Agency of Japan'])
+('A half - dozen Soviet space officials', 'stopped by', ['to see their counterparts at the National Space Development Agency of Japan', 'in Tokyo', 'in July for an exhibit'])
+('4 %', 'has a yield of', ['12 3 \\ / 4 %'])
+('a yield', 'has % of', ['12 3 \\ / 4 %'])
+('the company', 'had planned to offer', ['$ 200 million of its senior subordinated reset notes', 'at a yield of 12 3\\/4 %'])
+('the company', 'had planned', ['to offer $ 200 million of its senior subordinated reset notes at a yield of 12 3\\/4 %', 'A month ago', 'when Beatrice first filed to sell debt'])
+('Beatrice', 'filed to sell', ['debt'])
+('Beatrice', 'filed', ['to sell debt', 'first'])
+('A state judge', 'postponed', ['a decision', 'on a move by holders of Telerate Inc', 'to block the tender offer of Dow Jones & Co. for the 33 % of Telerate'])
+('A surprising 78 % of people said up they', 'exercise', ['regularly'])
+('A surprising 78 % of people', 'said up', ['they exercise regularly'])
+('UniFirst', 'earned', ['$ 2.4 million'])
+('24 cents a share', 'adjusted', ['for the split'])
+('UniFirst', 'earned', ['A year earlier'])
+('Heathrow authorities', 'have been watching', ['a group of allegedly crooked baggage handlers', 'for some time'])
+("Although Mr. Azoff wo n't produce films at first , it is possible that he could do so later", 'said', ['the sources'])
+('Mr. Azoff', "wo n't produce", ['films', 'at first'])
+('Mr. Shevardnadze', 'said', ["that does n't mean they will be without an agenda"])
+('Among other things', 'would develop', ['musical acts for a new record label'])
+('they', 'said', ['Mr. Azoff would develop musical acts for a new record label'])
+('people', 'sent', ['in', 'bottle labels'])
+("Dewar 's", 'gave', ['discounts on Scottish merchandise', 'to people'])
+('low - margin businesses', "were n't making", ['money'])
+('he', 'got rid', ['of low - margin businesses'])
+('he', 'got', ['rid of low - margin businesses'])
+('he said he will examine to determine turning over the filings', 'is', ['self - incrimination'])
+('he said he will examine he', 'will examine the Marcos documents to determine', ['whether turning over the filings is self - incrimination'])
+('he said he', 'will examine', ['the Marcos documents', 'to determine whether turning over the filings is self - incrimination'])
+('he', 'said', ['he will examine the Marcos documents'])
+('the Marcos documents', 'sought', ['by the prosecutors'])
+('American Brands', 'had [number of] shares outstanding', ['95.2 million'])
+('American Brands', 'had', ['95.2 million shares'])
+('American Brands', 'had', ['95.2 million shares outstanding', 'As of Sept. 30'])
+('the company', 'entered', ['the U.S. mountain - bike business', 'in 1987'])
+('sales', 'have tripled', ['since the company entered the U.S. mountain - bike business in 1987', 'At Giant Bicycle Inc. , Rancho Dominguez'])
+('almost all of the shares in the 20 - stock Major Market Index', 'were', ['sharply higher', 'At one point'])
+('the 20 - stock Major Market Index', 'mimics', ['the industrial average'])
+('Avery Inc said it', 'completed', ['the sale of Uniroyal Chemical Holding Co. to a group'])
+('Avery Inc', 'said', ['it completed the sale of Uniroyal Chemical Holding Co. to a group'])
+('a group', 'led', ['by management of Uniroyal Chemical Co.'])
+('patients', 'require', ['less attention', 'from other staff'])
+('room charges', 'are', ['lower -- about $ 100 less per day than a regular room at the Vermont hospital'])
+('patients', 'require', ['less attention', 'from nurses'])
+("certain areas in subjects ' brains", 'are jolted', ['with a magnetic stimulator', 'Between flashes'])
+('British government bonds', 'encouraged', ['by a rise in British stocks'])
+('British government bonds', 'ended moderately higher', ['encouraged by a rise in British stocks'])
+('British government bonds', 'encouraged', ['by a steadier pound'])
+('British government bonds', 'ended moderately higher', ['encouraged by a steadier pound'])
+('a hostile bidder for Jaguar', 'to alter', ["the British concern 's articles of association"])
+("fully 90 % of those felt they did n't need they", "did n't need to belong", ['to a health club'])
+('fully 90 % of those felt they', "did n't need", ['to belong to a health club'])
+('fully 90 % of those', 'felt', ["they did n't need to belong to a health club"])
+('the sort of hold makes one', 'heading', ['for the door'])
+('the sort of hold', 'makes', ['while heading for the door'])
+('it', 'to be', ['the sort of hold one makes'])
+('more loans', 'going', ['sour'])
+('the FHA', 'to pay', ['for more loans'])
+('the FHA', 'is forced', ['to pay for more loans'])
+('it', 'does', ['that'])
+('all', 'were', ['afraid to go in', 'fearing that they would be out of place', 'when they arrived at the door'])
+('they', 'arrived', ['at the door'])
+("Mr. Carpenter said big institutional investors , which he would n't identify told they", "would n't do", ['business', 'with firms'])
+("Mr. Carpenter said big institutional investors , which he would n't identify", 'told', ['us', "they would n't do business with firms"])
+('Mr. Carpenter', 'said', ["big institutional investors , which he would n't identify , `` told us they would n't do business with firms", 'yesterday'])
+('firms', 'continued to do', ['index arbitrage', 'for their own accounts'])
+('firms', 'continued', ['to do index arbitrage for their own accounts'])
+('big institutional investors', "would n't identify", ['he'])
+('Omron Tateishi Electronics Co. , of Kyoto', 'hopes to transform', ['the way the company is run'])
+('Omron Tateishi Electronics Co. , of Kyoto', 'hopes', ['to transform the way'])
+('Omron Tateishi Electronics Co. , of Kyoto', 'hopes to make', ['certain tasks easier'])
+('Omron Tateishi Electronics Co. , of Kyoto', 'hopes', ['not only to make certain tasks easier'])
+('PCs', 'uses', ['it'])
+('Coca - Cola Co. said it', 'is discussing', ['a joint venture with Fraser & Neave Ltd.'])
+('Coca - Cola Co. aiming said Coca - Cola Co.', 'said aiming to boost', ['soft - drink volume in Singapore'])
+('Coca - Cola Co.', 'said aiming', ['to boost soft - drink volume in Singapore'])
+('Coca - Cola Co.', 'said', ['it is discussing a joint venture with Fraser & Neave Ltd.'])
+('the filings required under the proposed rules', 'will be', ['at least as effective , if not more so , for investors'])
+('the filings', 'required', ['under the proposed rules'])
+('investors', 'following', ['transactions'])
+('Daimler said it', 'has had', ['talks with Jaguar about possible joint ventures'])
+('Daimler', 'said', ['it has had talks with Jaguar about possible joint ventures'])
+('traders said the market', 'remains', ['dull', 'with investors remaining cautiously on the sidelines'])
+('traders', 'said', ['the market remains dull , with investors remaining cautiously on the sidelines'])
+('investors', 'remaining cautiously', ['on the sidelines'])
+("Each company 's share of liability", 'would be based', ['on their share of the national DES market'])
+('a special $ 570 million mortgage - securities trust', 'created', ['for Japanese investors'])
+('Blackstone Group', 'had', ['no trouble selling out a special $ 570 million mortgage - securities trust', 'Earlier this year'])
+('Edison Brothers Stores Inc said it agreed it', 'agreed to buy', ["229 Foxmoor women 's apparel stores", 'from Foxmoor Specialty Stores Corp'])
+('Edison Brothers Stores Inc said it', 'agreed', ["to buy 229 Foxmoor women 's apparel stores from Foxmoor Specialty Stores Corp"])
+('Edison Brothers Stores Inc', 'said', ["it agreed to buy 229 Foxmoor women 's apparel stores from Foxmoor Specialty Stores Corp"])
+('the company', 'institutes', ['a specific training program for the newcomers'])
+('new workers', 'are old', ['up'])
+('Employers', 'could pay', ['a subminimum `` training wage', 'for 90 days to new workers', 'if the company institutes a specific training program for the newcomers'])
+('the United States', 'to rejoin', ['this dreadful group'])
+('the remaining members', 'have been', ['desperate for the United States to rejoin this dreadful group', 'Ever since'])
+('Few people in the advertising business', 'have raised', ['as many hackles as Alvin A. Achenbaum'])
+('Mitsubishi Estate', 'has to interfere', ["with Rockefeller 's management", 'beyond taking a place on the board'])
+('Mitsubishi Estate', 'has', ["no plans to interfere with Rockefeller 's management beyond taking a place on the board"])
+('special securities', "could n't sell", ['it'])
+('First Boston', 'incurred', ['millions of dollars of losses on special securities'])
+('Campeau securities', 'owned', ['it'])
+('First Boston', 'incurred', ['millions of dollars of losses', 'on Campeau securities'])
+('prices', 'quoted', ['by the company'])
+('a passenger', 'can fly', ['from Chardon', 'for as little as $ 89 to $ 109'])
+('unions', "have n't managed to win", ['wage increases as large as those'])
+('unions', "have n't managed", ['to win wage increases as large as those', 'For the past five years'])
+('those', 'granted', ['to nonunion workers'])
+('Ford Motor Co. said it', 'is recalling', ['about 3,600 of its 1990 - model Escorts', 'because the windshield adhesive was improperly applied to some cars'])
+('Ford Motor Co.', 'said', ['it is recalling about 3,600 of its 1990 - model Escorts'])
+('the windshield adhesive', 'was improperly applied', ['to some cars'])
+('He contended the plaintiffs', 'failed', ['to cite any legal authority'])
+('He', 'contended', ['that the plaintiffs failed to cite any legal authority'])
+('any legal authority', 'would justify', ['such an injunction'])
+('the plaintiffs', 'to cite', ['any legal authority that would justify such an injunction'])
+('a kitschy mirroring of the musical structure', 'was thoroughly distracting', ["from Mr. Reich 's piece and Mr. Stoltzman 's elegant execution of it"])
+('He', 'illustrated', ['this intricate , jazzy tapestry'])
+('a user named `` Hunter', 'had', ['no valid billing address'])
+('He', 'traced', ['it', 'to a user'])
+('He', 'discovered', ['75 - cent discrepancy'])
+('He', 'discovered', ['a 75 - cent discrepancy in the charges'])
+('He said he expects the company', 'to have', ['$ 500 million in sales for this year'])
+('He said he', 'expects', ['the company to have $ 500 million in sales for this year'])
+('He', 'said', ['he expects the company to have $ 500 million in sales for this year'])
+('Philip Russell', '[is] attorney [of]', ['him'])
+('He sold his attorney told He', 'sold them to raise', ['cash', 'to pay off mounting credit - card debts'])
+('his attorney told He', 'sold', ['them', 'well below market value', 'to raise cash `` to pay off mounting credit - card debts ,'])
+('his attorney', 'told', ['IFAR'])
+('Her recent report', 'classifies', ['the stock', 'as a `` hold'])
+('Here', 'are', ["price trends on the world 's major stock markets"])
+('StatesWest', "is n't abandoning", ['its pursuit of the much - larger Mesa'])
+('a Canadian Embassy official in Tel Aviv said Canada', 'was', ['unlikely to sell the Candu heavy - water reactor to Israel'])
+('a Canadian Embassy official in Tel Aviv', 'said', ['that Canada was unlikely to sell the Candu heavy - water reactor to Israel'])
+('Israel', "has n't signed", ['the Nuclear Non - Proliferation Treaty'])
+('Canada', 'to sell', ['the Candu heavy - water reactor', 'to Israel'])
+('the problem is they', 'survive', ['forever', 'once most poison pills are adopted'])
+('the problem', 'is', ['that once most poison pills are adopted , they survive forever'])
+('most poison pills', 'are adopted', ['once'])
+("Hungary 's Parliament", 'voted to hold', ['a national referendum on an election'])
+("Hungary 's Parliament", 'voted', ['to hold a national referendum on an election'])
+('I to note your Oct. 23 Centennial Journal item', 'recognized', ['the money - fund concept', 'as one of the significant events of the past century'])
+('I', 'to note', ['that your Oct. 23 Centennial Journal item recognized the money - fund concept as one of the significant events of the past century'])
+('I', 'was', ['pleased to note that your Oct. 23 Centennial Journal item recognized the money - fund concept as one of the significant events of the past century'])
+('it', "do n't look", ['good'])
+('those functions', 'account', ['for only about a third of the software market', 'In Japan'])
+('more than half the PC software sold', 'is', ['either for spreadsheets or for database analysis', 'according to Lotus', 'In the U.S.'])
+('an expected debt offering today by International Business Machines Corp', 'generated', ['considerable attention', 'In the corporate market'])
+('the first nine months', 'have profit from', ['$ 283.9 million'])
+('the first nine months', 'have profit to', ['$ 313.2 million'])
+('profit', 'rose', ['10 %', 'to $ 313.2 million , or $ 3.89 a share', 'from $ 283.9 million , or $ 3.53 a share', 'In the first nine months'])
+('the insurance adjusters', 'had bolted', ['out of the courtroom', 'already'])
+('Industrial Bank of Japan says it', 'will double', ['its purchases', 'this year', 'to an amount'])
+('Industrial Bank of Japan', 'says claims', ['to be the biggest Japanese buyer of U.S. mortgage securities'])
+('Industrial Bank of Japan', 'says', ['it will more than double its purchases this year , to an amount'])
+('an amount', 'puts', ['at several billion dollars'])
+('Industrial Bank of Japan', 'to be', ['the biggest Japanese buyer of U.S. mortgage securities'])
+('the 12 months', 'ended', ['in September 1988'])
+('the 12 months', 'ended', ['in June'])
+('It', 'rose', ['4.8 %', 'for the 12 months'])
+("It said a very significant portion '' of the firm 's profit in recent years", 'has come', ['from merchant banking - related business'])
+('It', 'said', ["that `` a very significant portion '' of the firm 's profit in recent years has come from merchant banking - related business"])
+('It said CS First Boston', 'has consistently been', ['one of the most aggressive firms in merchant banking'])
+('It', 'said', ['CS First Boston `` has consistently been one of the most aggressive firms in merchant banking'])
+('the company', 'to be acquired', ["by Japan 's Chugai Pharmaceutical", 'for about $ 110 million'])
+('the company', 'agreed', ["to be acquired by Japan 's Chugai Pharmaceutical for about $ 110 million"])
+('It', 'surged', ['2 3\\', 'to 6', 'on volume of more than 1.7 million shares', "after the company agreed to be acquired by Japan 's Chugai Pharmaceutical for about $ 110 million"])
+('It', 'was', ['the most active of the 100 - share index'])
+('he', 'takes', ['office', 'Nov'])
+('the most important tasks', 'facing', ['conservative leader Ernesto Ruffo'])
+('Keeping the Japanese happy', 'will be', ['one of the most important tasks', 'when he takes office Nov'])
+('Mitsubishi', 'has', ['control of some major projects', 'Meanwhile', 'at home'])
+('Merrill said it continues to believe the causes of excess market volatility', 'are', ['far more complex than any particular computer trading strategy'])
+('Merrill said it continues it', 'continues to believe', ['that `` the causes of excess market volatility are far more complex than any particular computer trading strategy'])
+('Merrill said it', 'continues', ['to believe that `` the causes of excess market volatility are far more complex than any particular computer trading strategy'])
+('Merrill', 'said', ['it continues to believe that `` the causes of excess market volatility are far more complex than any particular computer trading strategy'])
+('Most yields on short - term jumbo CDs', 'moved', ['in the opposite direction of Treasury bill yields'])
+('Mr. Peters', 'to participate', ['in future sequels to `` Batman'])
+('Mr. Peters', "would n't be", ['able to participate in future sequels to `` Batman'])
+('the blockbuster hit', 'produced', ['for Warner'])
+('Mr. Guber', 'to participate', ['in future sequels to `` Batman'])
+('Mr. Guber', "would n't be", ['able to participate in future sequels to `` Batman'])
+('an adroit diplomat', 'to be', ['solidly'])
+('Mr. Phelan', 'is', ["an adroit diplomat who normally appears to be solidly in control of the Big Board 's factions"])
+("Mr. Ridley 's decision", 'fires', ['the starting pistol'])
+('Mr. Rifenburgh said the board', "has n't acted", ["on most of the internal report 's recommendations", 'pending restatement of the balance sheet', 'still'])
+('Mr. Rifenburgh', 'said', ["the board still has n't acted on most of the internal report 's recommendations , pending restatement of the balance sheet"])
+('Mr. Stoll suspected the intruder', 'was', ['one of those precocious students'])
+('Mr. Stoll', 'suspected', ['the intruder was one of those precocious students'])
+('those precocious students', 'has', ['fun breaking into computers'])
+('Mr. Wathen boasts he', "'s made", ["Pinkerton 's profitable again"])
+("Mr. Wathen says boasts Pinkerton 's", 'had', ['a loss of nearly $ 8 million in 1987 under American Brands'])
+('Mr. Wathen', 'boasts says', ["Pinkerton 's had a loss of nearly $ 8 million in 1987 under American Brands"])
+('Mr. Wathen', 'boasts', ["that he 's made Pinkerton 's profitable again"])
+('Mr. Zayadi', 'was', ['previously', 'chief operating officer of Zellers Inc'])
+('a retail chain', 'is owned', ["by Toronto - based Hudson 's Bay Co."])
+('Mr. Zayadi', 'was', ['previously', 'president of Zellers Inc'])
+("Mrs. Marcos 's trial", 'to begin', ['in March'])
+("Mrs. Marcos has n't admitted she", 'filed', ['any documents such as those'])
+('Mrs. Marcos', "has n't admitted", ['that she filed any documents such as those'])
+('those', 'sought', ['by the government'])
+('Nixon', 'said calling', ['the situation', "the most serious '' since 1972"])
+('Nixon said damage to Sino - U.S. relations', 'was', ['very great'])
+('Nixon', 'said', ['that damage to Sino - U.S. relations was `` very great', 'on the fourth day of a private visit to China'])
+('Mr. Broberg', '[is]', ['a lawyer'])
+('Mr. Broberg', 'claims', ["he 'd play for free", 'Now'])
+('other states', 'may follow', ['Now that the New York decision has been left intact'])
+('the New York decision', 'has been left', ['intact'])
+('he', 'says', ['Could be Cuddles'])
+('the ruling', 'could encourage', ["other states ' courts", 'to adopt the logic of the New York court'])
+('the ruling', 'could encourage', ["other states ' courts", 'to adopt the logic of the New York court , not only in other product - related lawsuits'])
+("other states ' courts", 'to adopt', ['the logic of the New York court'])
+('the ruling', 'could encourage', ["other states ' courts", 'to adopt the logic of the New York court , not only in DES cases'])
+('the lid', 'is sealed', ['tightly shut'])
+('One', 'had not dance', ['until the lid is sealed tightly shut'])
+('Overall , net sales of all mutual funds , excluding money market funds , fell to $ 1.9 billion in September from $ 4.2 billion in August said Overall , net sales of all mutual funds , excluding money market funds', 'fell', ['to $ 1.9 billion', 'in September', 'from $ 4.2 billion in August'])
+('Overall , net sales of all mutual funds , excluding money market funds , fell to $ 1.9 billion in September from $ 4.2 billion in August', 'said', ['the trade group'])
+('Independence', '[is]', ['Miss'])
+('Panhandle Eastern Corp said it', 'applied', ['on behalf of two of its subsidiaries', 'to the Federal Energy Regulatory Commission', 'for permission'])
+('Panhandle Eastern Corp', 'said', ['it applied , on behalf of two of its subsidiaries , to the Federal Energy Regulatory Commission for permission'])
+("Pennzoil 's poison pill", 'covers', ['five years'])
+('Prime Minister Lee Kuan Yew', '[is] leader [from]', ['Singapore'])
+('Prime Minister Lee Kuan Yew', 'announced', ['his intention to retire next year --', 'recently'])
+('RISC technology', 'speeds up', ['a computer'])
+('Rather ominously , rabbit studies reveal that RU-486 can cause birth defects reported RU-486', 'can cause', ['birth defects'])
+('Rather ominously , rabbit studies reveal that RU-486 can cause birth defects reported rabbit studies', 'reveal', ['that RU-486 can cause birth defects'])
+('Rather ominously , rabbit studies reveal that RU-486 can cause birth defects', 'reported', ['in 1987'])
+('Repeat customers', 'can purchase', ['luxury items', 'at reduced prices'])
+('Richard Newsom', '[is] a state official [from]', ['California'])
+('American Continental Corp .', '[is] parent [of]', ['Lincoln'])
+('Richard Newsom said he', 'saw', ['evidence that crimes had been committed'])
+('Richard Newsom', 'said', ['he also saw evidence that crimes had been committed'])
+('a California state official', 'examined', ["Lincoln 's parent", 'last year'])
+('Roger M. Marino', '[is]', ['president'])
+('Roger M. Marino', 'was named', ['to the new post of vice chairman'])
+('Rolls - Royce Motor Cars Inc said it expects its U.S. sales', 'to remain', ['steady', 'at about 1,200 cars', 'in 1990'])
+('Rolls - Royce Motor Cars Inc said it', 'expects', ['its U.S. sales to remain steady at about 1,200 cars in 1990'])
+('Rolls - Royce Motor Cars Inc', 'said', ['it expects its U.S. sales to remain steady at about 1,200 cars in 1990'])
+('Ryukichi Imai', '[is] ambassador [from]', ['Japan'])
+('Ryukichi Imai agrees Mexico', 'may be', ['too eager'])
+('Ryukichi Imai', 'agrees', ['that Mexico may be too eager'])
+('a slowdown in the U.S. economy', 'shown', ['by economic indicators'])
+('the dollar', 'is showing', ['persistent strength', 'despite a slowdown in the U.S. economy'])
+('he', 'has to block', ['such a measure', 'with procedural actions'])
+('he', 'has', ['sufficient votes to block such a measure with procedural actions'])
+('Sen. Mitchell', 'is', ['confident he has sufficient votes'])
+('deeper cuts', 'sought', ['by the House'])
+('Senate Appropriations Committee Chairman Robert Byrd', 'strongly resisted', ['deeper cuts sought by the House'])
+('Shaw Industries', 'agreed to acquire', ["Armstrong World Industries ' carpet operations", 'for an undisclosed price'])
+('Shaw Industries', 'agreed', ["to acquire Armstrong World Industries ' carpet operations for an undisclosed price"])
+('Shaw Industries', 'rose', ['2 1\\', '4 to 26 1\\/8'])
+('Sidley', 'will maintain', ['its association with the Hashidate Law Office in Tokyo'])
+('the imputed value of the real estate', 'is', ['close to $ 3 billion'])
+('the real estate unit', 'includes', ['debt'])
+("Judge O'Kicki", 'was voted', ['president of the Pennsylvania Conference of State Trial Judges', "by the state 's 400 judges", 'Six years ago'])
+('you', 'can go', ['out', 'Sometimes'])
+('you', 'have', ['a headache'])
+('the New York Stock Exchange Composite Index', 'climbed', ['2.65', 'to'])
+('500 - stock index climbed 5.29', 'added', ['4.70'])
+('the Dow Jones Equity Market Index', 'added', ['4.70 to 318.79'])
+("the Dow Jones Equity Market Index added Standard & Poor 's 500 - Stock Index", 'climbed', ['5.29', 'to 340.36'])
+('the Dow Jones Equity Market Index', 'added', ['4.70', 'to 318.79'])
+('even the 25 % market share that Nissan expects in 1989', 'will leave', ['it', 'far below its position at the beginning of the decade'])
+('even the 25 % market share', 'expects', ['in 1989'])
+('Strong sales so far this year', 'to turn', ['the tide'])
+('Strong sales so far this year', 'are', ['certain to turn the tide'])
+('Student job postings at Boston University', 'slip', ['10 %', 'this year', 'following a 10 % drop in 1988'])
+("Takeover stock traders noted Georgia - Pacific 's bid is an indication of financial buyers such as leveraged buy - out firms", 'will be', ['at a disadvantage in obtaining financing'])
+("Takeover stock traders noted Georgia - Pacific 's bid", 'is', ['an indication of financial buyers such as leveraged buy - out firms will be at a disadvantage in obtaining financing'])
+('Takeover stock traders', 'noted', ["that with the junk - bond market in disarray , Georgia - Pacific 's bid is an indication of financial buyers such as leveraged buy - out firms will be at a disadvantage in obtaining financing"])
+('industrial companies', 'can continue bidding', ['for one another'])
+('industrial companies', 'can continue', ['bidding for one another', 'namely'])
+("Takeover stock traders noted Georgia - Pacific 's bid", 'is', ['an indication of where the takeover game is headed : namely , industrial companies can continue bidding for one another'])
+('Takeover stock traders', 'noted', ["that with the junk - bond market in disarray , Georgia - Pacific 's bid is an indication of where the takeover game is headed : namely , industrial companies can continue bidding for one another"])
+('traders', 'say', ["it 's natural that they rebound sharply now that the market has turned around"])
+('the market', 'has turned', ['around'])
+('Technology stocks', 'bore', ["the brunt of the OTC market 's recent sell - off"])
+('That', 'compares', ['with 3.5 % butterfat for whole milk'])
+('The $ 150 million in senior subordinated floating - rate notes', 'to float', ['four percentage points above the three - month LIBOR'])
+('The $ 150 million in senior subordinated floating - rate notes', 'to be offered', ['at a price', 'to float four percentage points above the three - month LIBOR'])
+('The $ 150 million in senior subordinated floating - rate notes', 'were targeted', ['to be offered at a price to float four percentage points above the three - month LIBOR'])
+('The 41 - year - old Mr. Azoff', 'with turning', ['around', "MCA 's once - moribund music division", 'in his six years at the company'])
+('The 41 - year - old Mr. Azoff', 'is credited', ["with turning around MCA 's once - moribund music division in his six years at the company"])
+('The Chemical spokeswoman said the bank', 'has examined', ['its internal controls'])
+('The Chemical spokeswoman', 'said', ['the bank has examined its internal controls'])
+('The Chemical spokeswoman said the bank', 'has examined', ['its methodologies'])
+('The Chemical spokeswoman', 'said', ['the bank has examined its methodologies'])
+('The Second Section index', 'to close', ['at 3636.06'])
+('The Second Section index', 'was', ['down 21.44 points , or 0.59 %'])
+('The Second Section index', 'fell', ['36.87 points', 'Friday'])
+('The Soviets complicated by offering The Soviets', 'complicated the issue by offering to include', ['light tanks , which are as light as 10 tons'])
+('The Soviets', 'complicated the issue by offering', ['to include light tanks'])
+('The Soviets', 'complicated', ['the issue'])
+('light tanks', 'are', ['as light as 10 tons'])
+('The U.S. market', 'is dominated', ['by a giant'])
+('The basket product', 'is being supported', ['by some big brokerage firms'])
+('it', 'has got off', ['to a slow start'])
+('cigarette ads have been prohibited The campaign', "does n't mention", ['cigarettes or smoking'])
+('cigarette ads', 'have been prohibited', ['on television', 'since 1971'])
+('it', 'is completed', ['in 1993'])
+('The centerpiece of that complex', 'will be', ["Japan 's tallest building", 'when it is completed in 1993'])
+('The company said the fastener business', 'has been', ['under severe cost pressures', 'for some time'])
+('The company', 'said', ['the fastener business `` has been under severe cost pressures for some time'])
+('The conviction', 'stemmed', ['from federal charges of consumer fraud for sale of phony infant apple juice between 1978 and 1983'])
+('The discount rate on three - month Treasury bills', 'rose', ['slightly', 'from the average rate', "at Monday 's auction", 'to 7.79 % for a bond - equivalent yield of 8.04 %'])
+('The dollar', 'drew', ['strength', "from the stock market 's climb"])
+('The effect', 'is', ['that lawsuits that might have been barred because they were filed too late could proceed because of the one - year extension'])
+('they', 'were filed', ['too late'])
+('lawsuits', 'might have been barred', ['because they were filed too late'])
+('The executives', 'had profited handsomely by building', ['American National Can Co.'])
+('The executives', 'had profited handsomely', ['by building American National Can Co.'])
+('The field', 'took off', ['in 1985', "after scientists at Britain 's Sheffield University developed a handy , compact magnet for brain stimulation"])
+('The fitness craze itself has gone soft found The fitness craze', 'has gone', ['soft'])
+('The fitness craze itself has gone soft', 'found', ['the survey'])
+('The forest products concern', 'has [number of] shares outstanding', ['about 38 million'])
+('The forest products concern', 'has', ['about 38 million shares'])
+('The forest - products concern', 'has', ['about 38 million shares outstanding', 'currently'])
+('The issue', 'is backed', ['by a 12 % letter of credit from Credit Suisse'])
+('it', 'offered', ['$ 500 million of debt securities'])
+('The last time IBM tapped the corporate debt market', 'was', ['in April 1988'])
+('IBM', 'tapped', ['the corporate debt market', 'The last time'])
+('100 11\\', 'to yield', ['7.93 %', 'on Friday'])
+('The latest 10 - year notes', 'ended', ['at about 100 16\\/32', 'compared with 100 11\\/32 to yield 7.93 % on Friday'])
+("The market 's tempo was helped by the dollar 's resiliency said The market 's tempo", 'was helped', ["by the dollar 's resiliency"])
+("The market 's tempo was helped by the dollar 's resiliency", 'said', ['he'])
+('The offering', 'was priced at', ['99.1875 %'])
+('The offering', 'to yield', ['9.19 %'])
+('The offering', 'was priced', ['with an 8.95 % coupon rate', 'to yield 9.19 %'])
+('one analyst estimated it', 'was', ['$ 150 million'])
+('one analyst', 'estimated', ['that it was $ 150 million'])
+('a yield', 'has 5\\ of', ['12 3 \\ / 4 %'])
+('The senior subordinated debentures maturing in 2004', 'are targeted', ['to be offered at a yield of between 12 5\\'])
+('The senior subordinated debentures', 'maturing', ['in 2004'])
+('The share price', 'was languishing', ['at about 400 pence', "before Ford 's Sept"])
+('the IRS', 'broke off', ["negotiations with Mr. Hunt on a settlement of the one - time tycoon 's personal bankruptcy case"])
+('The surprise announcement', 'came', ["after the IRS broke off negotiations with Mr. Hunt on a settlement of the one - time tycoon 's personal bankruptcy case"])
+('the government', 'to abolish', ['the levy', 'for budgetary concerns'])
+('the government', 'has been', ['reluctant to abolish the levy for budgetary concerns'])
+('The tax', 'has raised', ['less than one billion marks', 'annually', 'in recent years'])
+('certain business ventures', 'involving', ["cable rights to Columbia 's movies"])
+('The two sides', 'are discussing', ["certain business ventures involving cable rights to Columbia 's movies"])
+("There 's light at the end of the tunnel for municipals he said adding he expects prices", 'to inch', ['up', 'in the near term'])
+("There 's light at the end of the tunnel for municipals he said adding he", 'expects', ["prices to `` inch up '' in the near term"])
+("There 's light at the end of the tunnel for municipals said he", 'adding', ["that he expects prices to `` inch up '' in the near term"])
+("There 's light at the end of the tunnel for municipals", 'said', ["adding that he expects prices to `` inch up '' in the near term"])
+('the U.N. group', 'managed to traduce', ['its own charter of promoting culture'])
+('the U.N. group', 'managed', ['to traduce its own charter of promoting culture'])
+('the U.N. group', 'managed to traduce', ['its own charter of promoting science'])
+('the U.N. group', 'managed', ['to traduce its own charter of promoting science'])
+('the U.N. group', 'managed to traduce', ['its own charter of promoting education'])
+('the U.N. group', 'managed', ['to traduce its own charter of promoting education'])
+('This', 'is', ['the U.N. group'])
+('New York City', 'announced', ['10 - point policy'])
+('a 10 - point policy', 'patterned', ['on the federal bill of rights for taxpayers'])
+('New York City', 'announced', ['a 10 - point policy patterned on the federal bill of rights for taxpayers', 'This week'])
+('Courtaulds', 'to keep', ['its institutional shareholders'])
+('Mr. Packer', 'has sold', ['his stake', 'since'])
+('most analysts', 'consider', ['impossible'])
+('one candidate', 'to win', ['50 % of the vote'])
+('the close of 1969', 'equaling', ['100'])
+('each index', 'is based', ['on the close of 1969 equaling 100'])
+('no government entities , including the EPA', 'are pursuing', ['UV - B measurements'])
+('the $ 300 rowing machine', 'bought', ['three years ago'])
+('Tom Panelli', 'had', ['a perfectly good reason for not using the $ 300 rowing machine'])
+('it', 'moves', ['to a new quarters', 'in 1992'])
+('Insurance Co.', '[is] Life [of]', ['Manufacturers'])
+('USG Corp', 'agreed to sell', ['its headquarters building here', 'to Manufacturers Life Insurance Co. of Toronto'])
+('USG Corp', 'agreed', ['to sell its headquarters building here to Manufacturers Life Insurance Co. of Toronto'])
+('the UAL board', 'provided', ['Under a merger agreement'])
+('the UAL board', 'agreed to reimburse', ['out of company funds'])
+('the UAL board', 'agreed', ["to reimburse certain of the buy - out group 's expenses out of company funds even if the transaction was n't completed", 'Under a merger agreement'])
+('the group', "did n't breach", ['the agreement'])
+('a merger agreement', 'reached', ['Sept'])
+('they', 'to purchase', ['the debt', 'at'])
+('they', 'are', ['willing to purchase the debt at'])
+('potential investors', 'will submit', ['sealed bids on the percentage of discount', 'Under the debt - equity program'])
+('Vernon E. Jordan', 'was elected', ['to the board of this transportation services concern'])
+('The donations will come he', "wo n't be paying", ['for it'])
+('The donations', 'will come', ["out of the chain 's national advertising fund"])
+("the chain 's national advertising fund", 'is financed', ['by the franchisees'])
+('the campaign', 'was', ["Mr. Gibbons 's idea"])
+('a lot of attics', 'must be populated', ['with them'])
+('a lot of basements', 'must be populated', ['with them'])
+('a lot of garages', 'must be populated', ['with them'])
+('more than 15 million exercise bikes', 'sold', ['in the past five years'])
+('viewers', 'pledged', ['over $ 400000'])
+('viewers', 'pledged', ['over $ 400,000', 'according to a Red Cross executive', 'Within two hours'])
+('he', 'collaborated', ['with the new music gurus Fred Sherry', 'in the very countercultural chamber group', 'Years ago'])
+('the very countercultural chamber group', 'won over', ['audiences'])
+('he', 'collaborated', ['with the new music gurus', 'Years ago'])
+('Mr. Matthews , now a consultant with the Stamford , Conn . , firm Matthews & Johnston quipped I think he', "'ll be", ['very good', 'at that { new job'])
+('Mr. Matthews , now a consultant with the Stamford , Conn . , firm Matthews & Johnston quipped I', 'think', ["he 'll be very good at that { new job"])
+('Mr. Matthews , now a consultant with the Stamford , Conn. , firm Matthews & Johnston', 'quipped', ["I think he 'll be very good at that { new job", 'Yesterday'])
+('Business across the country is spending more time addressing this issue says Business across the country', 'is spending more time addressing', ['this issue'])
+('Business across the country is spending more time addressing this issue says Business across the country', 'is spending', ['more time', 'addressing this issue'])
+('Business across the country is spending more time addressing this issue', 'says', ['Sen. Edward Kennedy'])
+('Stephen Reitman', '[is] a European auto industry analyst at', ['UBS - Phillips & Drew'])
+("I ca n't believe they ( GM ) will let Ford have a free run said Ford", 'have', ['a free run'])
+("I ca n't believe they ( GM ) will let Ford have a free run said they", 'will let', ['Ford have a free run'])
+("I ca n't believe they ( GM ) will let Ford have a free run said I", "ca n't believe", ['they ( GM ) will let Ford have a free run'])
+("I ca n't believe they ( GM ) will let Ford have a free run", 'said', ['Stephen Reitman'])
+("I do n't foresee any shortages over the next few months says I", "do n't foresee", ['any shortages over the next few months'])
+("I do n't foresee any shortages over the next few months", 'says', ['Ken Allen'])
+('the RTC', 'to dump', ['acquired assets'])
+('the RTC', 'to slow', ['S&L sales'])
+('he', 'said', ['the RTC may have to slow { S&L sales } or dump acquired assets through fire sales'])
+('Bert Vogelstein', '[is] a University researcher [of]', ['Johns Hopkins'])
+("It 's a super - exciting set of discoveries says It", "'s", ['a super - exciting set of discoveries'])
+("It 's a super - exciting set of discoveries", 'says', ['Bert Vogelstein'])
+('a Johns Hopkins University researcher', 'has found', ['a gene pivotal to the triggering of colon cancer'])
+('Albert Lerman', '[is] creative director at', ['the Wells Rich Greene ad agency'])
+("It 's really bizarre says It", "'s", ['really bizarre'])
+("It 's really bizarre", 'says', ['Albert Lerman'])
+('Most of the LBO guys', "do n't know to run", ['a business', 'anyway'])
+('Most of the LBO guys', "do n't know", ['how to run a business anyway'])
+('Guy L. Smith', '[is] vice president [of]', ['Philip Morris'])
+("Most people -- whether in Toledo , Tucson or Topeka -- have n't got a clue says Most people", "have n't got", ['a clue who we are'])
+("Most people -- whether in Toledo , Tucson or Topeka -- have n't got a clue", 'says', ['Guy L. Smith'])
+('Nobody told us ; nobody called us says Nobody', 'told', ['us'])
+('Nobody told us ; nobody called us says nobody', 'called', ['us'])
+('the case', 'asked', ['not to be named'])
+('Don Sider', '[is] owner of', ['the West Palm Beach Tropics'])
+('Nothing can be better than this says Nothing', 'can be', ['better than this'])
+('Nothing can be better than this', 'says', ['Don Sider'])
+('Frank Moore', '[is] chairman of', ['the Australian Tourist Industry Association'])
+('The only people who are flying are those said The only people who are flying', 'are', ['those who have to'])
+('The only people who are flying are those', 'said', ['Frank Moore'])
+('a bill', 'to limit', ["the RTC 's authority"])
+('To allow this massive level of unfettered federal borrowing without prior congressional approval would be irresponsible said Rep. Fortney Stark', 'has introduced', ["a bill to limit the RTC 's authority"])
+('To allow this massive level of unfettered federal borrowing without prior congressional approval would be irresponsible said To allow this massive level of unfettered federal borrowing without prior congressional approval', 'would be', ['irresponsible'])
+('To allow this massive level of unfettered federal borrowing without prior congressional approval would be irresponsible', 'said', ['Rep. Fortney Stark'])
+CocaColaCoaimingtoboostsoftdrinkvolumeinSingaporesaiditisdiscussingajointventurewithFraserNeaveLtditsbottlingfranchiseeinthatcountry 
+
+('Incorrect: ', 0.9126131538750881, 'said Coca - Cola Co. it is discussing a joint venture with Fraser & Neave Ltd.')
+PrimeMinisterLeeKuanYewSingaporesleaderandoneofAsiasleadingstatesmenfor30yearsrecentlyannouncedhisintentiontoretirenextyearthoughnotnecessarilytoendhisinfluence 
+
+Thereslightattheendofthetunnelformunicipalshesaidaddingthatheexpectspricestoinchupinthenearterm 
+
+('Incorrect: ', 0.5042397497049353, "expects There 's light at the end of the tunnel for municipals he said adding he prices to `` inch up '' in the near term")
+('Incorrect: ', 0.14564289666370384, "adding There 's light at the end of the tunnel for municipals said he that he expects prices to `` inch up '' in the near term")
+('Incorrect: ', 0.4205011432405519, "said There 's light at the end of the tunnel for municipals adding that he expects prices to `` inch up '' in the near term")
+ObviouslytheepiloguewasnotanafterthoughtsuppliedtoolatefortheEnglisheditionforitisreferredtoinTheCastawayinthesequelofthenarrativeitwillthenbeseenwhatlikeabandonmentbefellmyself 
+
+('Incorrect: ', 0.778752005248694, 'befell it will be seen abandonment myself')
+Pennzoilspoisonpillcoversfiveyearsinordertogivecurrentmanagementenoughtimetoputtheseproceedstoworkinaprudentmanner 
+
+('Incorrect: ', 0.9387281236502384, "covers Pennzoil 's poison pill five years")
+ThirdTVdramaserieswasbroadcastin2008featuringMaoInoueasAnmitsu 
+
+Forthepastfiveyearsunionshaventmanagedtowinwageincreasesaslargeasthosegrantedtononunionworkers 
+
+EachtimeCluemasterescapesorstartssomenewplanStephaniedonshercostumeagain 
+
+('Incorrect: ', 0.9446577635120826, 'escapes Cluemaster Each time')
+Atonepointalmostallofthesharesinthe20stockMajorMarketIndexwhichmimicstheindustrialaverageweresharplyhigher 
+
+('Incorrect: ', 0.9453730527544704, 'mimics the 20 - stock Major Market Index the industrial average')
+ThelasttimeIBMtappedthecorporatedebtmarketwasinApril1988whenitoffered500millionofdebtsecurities 
+
+('Incorrect: ', 0.9133417309034445, 'tapped IBM the corporate debt market The last time')
+YesterdayMrMatthewsnowaconsultantwiththeStamfordConnfirmMatthewsJohnstonquippedIthinkhellbeverygoodatthatnewjob 
+
+('Incorrect: ', 0.8950802261869358, "quipped Mr. Matthews , now a consultant with the Stamford , Conn. , firm Matthews & Johnston I think he 'll be very good at that { new job Yesterday")
+Intheearly19thcenturytheWelshMethodistsbrokeawayfromtheAnglicanchurchandestablishedtheirowndenominationnowthePresbyterianChurchofWales 
+
+MrPhelanisanadroitdiplomatwhonormallyappearstobesolidlyincontroloftheBigBoardsfactions 
+
+('Incorrect: ', 0.7535117993595638, 'to be an adroit diplomat solidly')
+OnNovember22005Brownendedhiscontractearlyandleftthefederalgovernment 
+
+ThereusedtobeaYouthHostelbutitclosedinOctober2008andthebuildinghassincereopenedasKeldLodgeahotelwithbarandrestaurant 
+
+('Incorrect: ', 0.4978219019954182, 'closed it in October 2008')
+Thefieldtookoffin1985afterscientistsatBritainsSheffieldUniversitydevelopedahandycompactmagnetforbrainstimulation 
+
+Hediscovereda75centdiscrepancyinthechargesmadetovariousdepartmentsforcomputertimeandtracedittoausernamedHunterwhohadnovalidbillingaddress 
+
+('Incorrect: ', 0.30899953469486874, 'traced He it to a user')
+('Incorrect: ', 0.9990000128746033, 'discovered He 75 - cent discrepancy')
+('Incorrect: ', 0.45170382506656653, 'discovered He a 75 - cent discrepancy in the charges')
+Good1HNMRspectracanbeacquiredwith16repeatswhichtakesonlyminutes 
+
+TeamRacingisaNASCARCraftsmanTruckSeriesteam 
+
+EachoftheMatoranbroughttheirToastoneandmeteachotherattheGreatTemple 
+
+('Incorrect: ', 0.9091474612772676, 'brought Each of the Matoran their Toa stone')
+TheCharlesCityequipmentwastransferredtoMasonCitytoreplaceequipmentburnedintheNovember241967shopfire 
+
+('Incorrect: ', 0.9485479188231729, 'was transferred The Charles City equipment to Mason City to replace equipment')
+AtGiantBicycleIncRanchoDominguezCalifsaleshavetripledsincethecompanyenteredtheUSmountainbikebusinessin1987 
+
+MostyieldsonshorttermjumboCDsthosewithdenominationsover90000alsomovedintheoppositedirectionofTreasurybillyields 
+
+ThislinewasextendedeastbythePrahranMalvernTramwaysTrustfromHawthornRoadtoDarlingRoadMalvernEaston13November1913 
+
+InparticularCyprinidaeofsouthwesternNorthAmericahavebeenseverelyaffectedaconsiderablenumberwententirelyextinctaftersettlementbyEuropeans 
+
+DaimlersaidithashadtalkswithJaguaraboutpossiblejointventures 
+
+Thepricewasntdisclosedbutoneanalystestimatedthatitwas150million 
+
+('Incorrect: ', 0.5965479605063657, 'estimated one analyst that it was $ 150 million')
+AcastingdirectoratthetimetoldScottthathehadwishedthathedmethimaweekbeforehewascastingfortheGIJoecartoon 
+
+TheexecutiveshadprofitedhandsomelybybuildingAmericanNationalCanCoTriangleschiefasset 
+
+NothingcanbebetterthanthissaysDonSiderowneroftheWestPalmBeachTropics 
+
+('Incorrect: ', 0.38089450366724514, '[is] owner of Don Sider the West Palm Beach Tropics')
+('Incorrect: ', 0.9177950715384146, 'says Nothing can be better than this Don Sider')
+Thedialectstheyspeakaresimilarbuthavedifferentintonations 
+
+('Incorrect: ', 0.4299084862745912, 'are The dialects they speak similar')
+('Incorrect: ', 0.8841701665203853, 'speak The dialects they')
+ThefounderhadpledgedhimselftohonourtheBlessedVirgininaspecialmanner 
+
+('Incorrect: ', 0.6582659227599074, 'to honour himself the Blessed Virgin')
+Atleast11villagersdisappearedand8peoplewerekilledintheensuingtsunamitwoofwhichareprisonersatoneofthePermisanprisons 
+
+('Incorrect: ', 0.9030401971054747, 'were killed 8 people in the ensuing tsunami')
+Maleshadamedianincomeof36016versus32679forfemales 
+
+('Incorrect: ', 0.9606193513644111, 'had Males a median income of $ 36,016 versus $ 32,679 for females')
+Toavoidarunoffonecandidatewouldhavetowin50ofthevoteafeatthatmostanalystsconsiderimpossiblewithsomanycandidatesrunning 
+
+('Incorrect: ', 0.7665350501724939, 'consider most analysts impossible')
+HistoricallyAiseauwasavillagededicatedtoagricultureloggingbutalsototheindustry 
+
+FalunGongsteachingsarecompiledfromLislecturesandLiholdsdefinitionalpowerinthatbeliefsystem 
+
+AndABShasformedapartnershipwithHabitatforHumanitytogiveafreeBibletoeachofitsnewhomeownersintheUnitedStates 
+
+('Incorrect: ', 0.876543225140763, 'has formed ABS a partnership with Habitat for Humanity')
+ModernityhasbeenblendedwithoutsacrificingonthetraditionalBuddhistethos 
+
+Thecanalwasdammedofffromtheriverformostoftheconstructionperiod 
+
+Burnhamdiedofheartfailureattheageof86onSeptember11947athishomeinSantaBarbaraCalifornia 
+
+('Incorrect: ', 0.9324144673478683, 'died Burnham of heart failure at the age of 86 on September 1')
+ThisistheUNgroupthatmanagedtotraduceitsowncharterofpromotingeducationscienceandculture 
+
+Itshouldbenotedthatthesenumbersareinclusiveofanyofthechildmindersownchildren 
+
+AlthoughHeathrowauthoritieshavebeenwatchingagroupofallegedlycrookedbaggagehandlersforsometimetheGauguinmaybelost 
+
+TheextensionoftheUniversityLibrarycanbefoundonthesecondfloorandparkingfor120carsonthethirdtosixthfloors 
+
+The41yearoldMrAzoffaformerrocknrollmanageriscreditedwithturningaroundMCAsoncemoribundmusicdivisioninhissixyearsatthecompany 
+
+ThepermanentmembersaretheprovosttheCarlHPforzheimerUniversityProfessorandthedeansordesigneesfromthefollowingSchoolstheFacultyofArtsandSciencesHarvardBusinessSchoolHarvardLawSchoolandHarvardMedicalSchool 
+
+('Incorrect: ', 0.9111779447320654, 'are The permanent members the provost')
+TheNadvornadynastyisnotableinasmuchasmanyofitsdescendantsbecomerebbes 
+
+('Incorrect: ', 0.9485955390117107, 'is The Nadvorna dynasty notable inasmuch')
+DCComicsheldamemorialserviceinManhattansLowerEastSideaneighborhoodEisneroftenvisitedinhisworkattheAngelOrensanzFoundationonNorfolkStreet 
+
+Itrose48forthe12monthsendedinJuneand47inthe12monthsendedinSeptember1988 
+
+('Incorrect: ', 0.9250606141558615, 'ended the 12 months in June')
+InfactCondonafterseeingHauptmanninalineupatNewYorkPoliceDepartmentGreenwichStreetStationtoldFBISpecialAgentTurrouthatHauptmannwasnotJohnthemantowhomCondonclaimedhepassedtheransommoneytoinStRaymondsCemetery 
+
+('Incorrect: ', 0.8985011452636983, 'was not Condon told Hauptmann John')
+StandardPoors500StockIndexclimbed529to34036theDowJonesEquityMarketIndexadded470to31879andtheNewYorkStockExchangeCompositeIndexclimbed265to 
+
+('Incorrect: ', 0.9909999966621399, 'added 500 - stock index climbed 5.29 4.70')
+('Incorrect: ', 0.834558474599071, 'added the Dow Jones Equity Market Index 4.70 to 318.79')
+LanguageBthenbeginstosupplantlanguageAthespeakersofLanguageAabandontheirownlanguageinfavoroftheotherlanguagegenerallybecausetheybelievethatitwillhelpthemachievecertaingoalswithingovernmenttheworkplaceandinsocialsettings 
+
+('Incorrect: ', 0.8758019640489743, 'abandon the speakers of Language A their own language')
+BrucesJusticeLordcounterpartwashappilymarriedtoWonderWomanaswelluntilherJusticeLordcounterpartkilledhim 
+
+('Incorrect: ', 0.8847999636040884, '[is] Justice [of] Lord counterpart Bruce')
+('Incorrect: ', 0.3853208301752743, '[is] Justice [of] Lord counterpart hers')
+AndDewarsgavediscountsonScottishmerchandisetopeoplewhosentinbottlelabels 
+
+FansreactedtothenewsofthesuspensionbycancelingtheirXMRadiosubscriptionswithsomefansevengoingasfarassmashingtheirXMunits 
+
+('Incorrect: ', 0.7770021919271003, 'reacted Fans to the news of the suspension')
+NewhansplittheseasonbetweenTripleARoundRockwherehehit308 
+
+ThePACbulletinswerewidelydistributedatthesemeetings 
+
+Asurprising78ofpeoplesaidtheyexerciseregularlyupfrom73in1981 
+
+TheUSmarkettooisdominatedbyagiantInternationalBusinessMachinesCorp 
+
+HTBsaimisforanAlphacoursetobeaccessibletoanyonewhowouldliketoattendthecourseandinthiswayHTBseekstospreadtheteachingsofChristianity 
+
+('Incorrect: ', 0.8453428833817832, 'seeks HTB to spread the teachings of Christianity')
+('Incorrect: ', 0.9111779447320654, 'to be an Alpha course accessible to anyone')
+('Incorrect: ', 0.9485955390117107, "is HTB 's aim for an Alpha course to be accessible to anyone")
+AlthoughnospecificagreementsareexpectedMrShevardnadzesaidthatdoesntmeantheywillbewithoutanagenda 
+
+HowevercomicreliefsidekickMikeMcGurkbearssomeresemblancetoTracyspartnerfromthestripPatPattonTracyssecretaryGwenAndrewsprovidesthesamekindoffeminineinterestasTessTrueheartandFBIDirectorCliveAndersonisthesamekindofavuncularsuperiorasChiefBrandon 
+
+('Incorrect: ', 0.38089450366724514, '[is] secretary [of] Gwen Andrews Tracy')
+('Incorrect: ', 0.9202064543498312, "sidekick Tracy 's secretary provides comic relief Mike McGurk '' bears some resemblance to Tracy 's partner from the strip")
+('Incorrect: ', 0.9264011596045317, 'is FBI Director Clive Anderson the same kind of avuncular superior as Chief Brandon')
+IndustrialBankofJapanwhichclaimstobethebiggestJapanesebuyerofUSmortgagesecuritiessaysitwillmorethandoubleitspurchasesthisyeartoanamountoneofficialputsatseveralbilliondollars 
+
+('Incorrect: ', 0.9397001286877047, 'to be Industrial Bank of Japan the biggest Japanese buyer of U.S. mortgage securities')
+Strongsalessofarthisyeararecertaintoturnthetidebuteventhe25marketsharethatNissanexpectsin1989willleaveitfarbelowitspositionatthebeginningofthedecade 
+
+('Incorrect: ', 0.8033442315966071, 'expects even the 25 % market share in 1989')
+('Incorrect: ', 0.9320111551042786, 'are Strong sales so far this year certain to turn the tide')
+BecauseYeslerWaymarkstheboundarybetweentwodifferentplatsthestreetgridnorthofYeslerdoesnotlineupwiththeneighborhoodsotherstreetssothenorthernborderofthedistrictzigzagsalongnumerousstreets 
+
+Lenssubluxationisalsoseenindogsandischaracterizedbyapartialdisplacementofthelens 
+
+Butfully90ofthosepolledfelttheydidntneedtobelongtoahealthclub 
+
+('Incorrect: ', 0.9034133490870548, "felt fully 90 % of those they did n't need to belong to a health club")
+TomyknowledgenogovernmententitiesincludingtheEPAarepursuingUVBmeasurements 
+
+AsaresultitbecomesclearthatthemicrobecannotsurviveoutsideanarrowpHrange 
+
+Inbothcasesthisspecializedfunctionreplacesthebasicriflemanpositioninthefireteam 
+
+Betweenflashescertainareasinsubjectsbrainsarejoltedwithamagneticstimulator 
+
+HilfalFudulwasa7thcenturyalliancecreatedbyvariousMeccansincludingtheIslamicprophetMuhammadtoestablishfaircommercialdealing 
+
+('Incorrect: ', 0.9374058759955192, 'created a 7th-century alliance by various Meccans')
+AveryIncsaiditcompletedthesaleofUniroyalChemicalHoldingCotoagroupledbymanagementofUniroyalChemicalCotheunitsmainbusiness 
+
+('Incorrect: ', 0.8995285325952569, 'said Avery Inc it completed the sale of Uniroyal Chemical Holding Co. to a group')
+('Incorrect: ', 0.9369813267476892, 'led a group by management of Uniroyal Chemical Co.')
+ThesurpriseannouncementcameaftertheIRSbrokeoffnegotiationswithMrHuntonasettlementoftheonetimetycoonspersonalbankruptcycase 
+
+Becausepatientsrequirelessattentionfromnursesandotherstaffroomchargesarelowerabout100lessperdaythanaregularroomattheVermonthospital 
+
+('Incorrect: ', 0.9472929138282772, 'are room charges lower -- about $ 100 less per day than a regular room at the Vermont hospital')
+ThepillarsinalineonitsbothsidesareaccordingtoDoricorGreekstyleandtheirdecorationsareaccordingtotheMeenakshiTempleatMaduraiinTamilNadu 
+
+DuetothetransmitterlocationbeingbasedinTyroneandasmallersignalwattageitwasbarelyhearableinthenorthernportionsofAtlantabeyondthedowntownareaoreventhenorthernreachesofFultonorDeKalbCountiesasitwasarimshottothesouthwestofthecity 
+
+('Incorrect: ', 0.5222094630377523, 'was it a rimshot to the southwest of the city')
+('Incorrect: ', 0.6783685094789625, 'was it barely hearable in the northern portions of Atlanta beyond the downtown area')
+IdontforeseeanyshortagesoverthenextfewmonthssaysKenAllenanofficialofOperatingEngineersLocal3inSanFrancisco 
+
+RyukichiImaiJapansambassadortoMexicoagreesthatMexicomaybetooeager 
+
+('Incorrect: ', 0.8847999636040884, '[is] ambassador [from] Ryukichi Imai Japan')
+DodowasoriginallyintendedtohaveacommonaccentandisportrayedthiswayattheendofTheMassacre 
+
+('Incorrect: ', 0.9199923855291322, 'is portrayed Dodo at the end of `` The Massacre')
+Itsurged234to6onvolumeofmorethan17millionsharesafterthecompanyagreedtobeacquiredbyJapansChugaiPharmaceuticalforabout110millionalmostdoublethemarketpriceofGenProbesstock 
+
+('Incorrect: ', 0.9472929138282772, "agreed the company to be acquired by Japan 's Chugai Pharmaceutical for about $ 110 million")
+('Incorrect: ', 0.6138676038426771, "surged It 2 3\\ to 6 on volume of more than 1.7 million shares after the company agreed to be acquired by Japan 's Chugai Pharmaceutical for about $ 110 million")
+Itwasthemostactiveofthe100shareindexat83millionshares65millionofwhichweretradedbymidday 
+
+('Incorrect: ', 0.5222094630377523, 'was It the most active of the 100 - share index')
+KostabisotherreleasesincludeSongsForSumeraNewAllianceandTheSpectreOfModernism 
+
+AsaresulthesaidhewillexaminetheMarcosdocumentssoughtbytheprosecutorstodeterminewhetherturningoverthefilingsisselfincrimination 
+
+('Incorrect: ', 0.292827695956731, 'will examine the Marcos documents to determine he said he will examine he whether turning over the filings is self - incrimination')
+('Incorrect: ', 0.5503378535116643, 'will examine he said he the Marcos documents to determine whether turning over the filings is self - incrimination')
+('Incorrect: ', 0.2929110702089528, 'said he he will examine the Marcos documents')
+Oftherestofthepopulationtherewas1individualwhobelongedtotheChristianCatholicfaith 
+
+ThediscountrateonthreemonthTreasurybillsroseslightlyfromtheaveragerateatMondaysauctionto779forabondequivalentyieldof804 
+
+Accordingtothe2010censusthepopulationofthetownis2310 
+
+('Incorrect: ', 0.9980000257492065, 'has the population of the town 2310')
+('Incorrect: ', 0.8533888711067524, 'is the population of the town 2,310')
+HeleftonlyasmallcontingenttoguardthedefileandtookhisentirearmytodestroytheplainthatlayaheadofAlexandersarmy 
+
+('Incorrect: ', 0.2560951955542683, 'took He his entire army to destroy the plain')
+('Incorrect: ', 0.45694023613443424, 'left He only a small contingent to guard the defile')
+PriortothePlaymakertoolthePlayercouldonlycalloneoffouravailablehotroutes 
+
+InthecorporatemarketanexpecteddebtofferingtodaybyInternationalBusinessMachinesCorpgeneratedconsiderableattention 
+
+Theverylargepiersatthecrossingsignifythattherewasonceatower 
+
+NameslikeJohnBerksGaryEdwardsFrankSandersRobinAlexanderDarrylJoosteGeorgeWayneandDavidGreshamallstartedoutatLMRadiobeforemovingtootherstationssuchasSwaziMusicRadioRadio702SpringbokRadioandotherSABCstations2JJandCapital604 
+
+('Incorrect: ', 0.9397001286877047, 'started out Names like George Wayne at LM Radio before moving to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like George Wayne to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'started out Names like George Wayne at LM Radio before moving to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like George Wayne to other stations such as other SABC stations')
+('Incorrect: ', 0.9615261236584439, 'started out Names like George Wayne at LM Radio before moving to other stations such as other SABC stations')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Darryl Jooste to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Darryl Jooste at LM Radio before moving to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Darryl Jooste to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Darryl Jooste at LM Radio before moving to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Darryl Jooste to other stations such as other SABC stations')
+('Incorrect: ', 0.9615261236584439, 'started out Names like Darryl Jooste at LM Radio before moving to other stations such as other SABC stations')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Darryl Jooste at LM Radio before moving to other stations such as Springbok Radio')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Darryl Jooste to other stations such as Radio 702')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Darryl Jooste at LM Radio before moving to other stations such as Radio 702')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Darryl Jooste to other stations such as Swazi Music Radio')
+('Incorrect: ', 0.9615261236584439, 'started out Names like Darryl Jooste at LM Radio before moving to other stations such as Swazi Music Radio')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Robin Alexander to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Robin Alexander at LM Radio before moving to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Robin Alexander to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Robin Alexander at LM Radio before moving to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Robin Alexander to other stations such as other SABC stations')
+('Incorrect: ', 0.9615261236584439, 'started out Names like Robin Alexander at LM Radio before moving to other stations such as other SABC stations')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Robin Alexander to other stations such as Springbok Radio')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Robin Alexander at LM Radio before moving to other stations such as Springbok Radio')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Robin Alexander to other stations such as Radio 702')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Robin Alexander at LM Radio before moving to other stations such as Radio 702')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Robin Alexander to other stations such as Swazi Music Radio')
+('Incorrect: ', 0.9615261236584439, 'started out Names like Robin Alexander at LM Radio before moving to other stations such as Swazi Music Radio')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Frank Sanders to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Frank Sanders at LM Radio before moving to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Frank Sanders to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Frank Sanders at LM Radio before moving to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Frank Sanders to other stations such as other SABC stations')
+('Incorrect: ', 0.9615261236584439, 'started out Names like Frank Sanders at LM Radio before moving to other stations such as other SABC stations')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Frank Sanders to other stations such as Springbok Radio')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Frank Sanders at LM Radio before moving to other stations such as Springbok Radio')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Frank Sanders to other stations such as Radio 702')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Frank Sanders at LM Radio before moving to other stations such as Radio 702')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Frank Sanders to other stations such as Swazi Music Radio')
+('Incorrect: ', 0.9615261236584439, 'started out Names like Frank Sanders at LM Radio before moving to other stations such as Swazi Music Radio')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Gary Edwards to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Gary Edwards at LM Radio before moving to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Gary Edwards to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Gary Edwards at LM Radio before moving to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Gary Edwards to other stations such as other SABC stations')
+('Incorrect: ', 0.9615261236584439, 'started out Names like Gary Edwards at LM Radio before moving to other stations such as other SABC stations')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Gary Edwards to other stations such as Springbok Radio')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Gary Edwards at LM Radio before moving to other stations such as Springbok Radio')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Gary Edwards to other stations such as Radio 702')
+('Incorrect: ', 0.9397001286877047, 'started out Names like Gary Edwards at LM Radio before moving to other stations such as Radio 702')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like Gary Edwards to other stations such as Swazi Music Radio')
+('Incorrect: ', 0.9615261236584439, 'started out Names like Gary Edwards at LM Radio before moving to other stations such as Swazi Music Radio')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like John Berks to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'started out Names like John Berks at LM Radio before moving to other stations such as Capital 604')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like John Berks to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'started out Names like John Berks at LM Radio before moving to other stations such as 2JJ')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like John Berks to other stations such as other SABC stations')
+('Incorrect: ', 0.9615261236584439, 'started out Names like John Berks at LM Radio before moving to other stations such as other SABC stations')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like John Berks to other stations such as Springbok Radio')
+('Incorrect: ', 0.9397001286877047, 'started out Names like John Berks at LM Radio before moving to other stations such as Springbok Radio')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like John Berks to other stations such as Radio 702')
+('Incorrect: ', 0.9397001286877047, 'started out Names like John Berks at LM Radio before moving to other stations such as Radio 702')
+('Incorrect: ', 0.9397001286877047, 'before moving Names like John Berks to other stations such as Swazi Music Radio')
+('Incorrect: ', 0.9615261236584439, 'started out Names like John Berks at LM Radio before moving to other stations such as Swazi Music Radio')
+In54BCMarcusPerpernaismentionedasoneoftheconsularswhoboretestimonyonbehalfofMarcusAemiliusScaurusathistrial 
+
+('Incorrect: ', 0.9929999709129333, 'is mentioned In Marcus Perperna 54 bc')
+('Incorrect: ', 0.9644677377549717, 'is mentioned Marcus Perperna as one of the consulars In 54 BC')
+EversincetheremainingmembershavebeendesperatefortheUnitedStatestorejointhisdreadfulgroup 
+
+('Incorrect: ', 0.9329286852051247, 'to rejoin the United States this dreadful group')
+Thegaugesenderisusuallyamagneticallycoupledarrangementwithafloatarminsidethetankrotatingamagnetwhichrotatesanexternalgauge 
+
+('Incorrect: ', 0.8872966301155124, 'rotates a magnet an external gauge')
+WhenciviliangovernmentwasintroducedinRomblonbytheAmericansin16March1901Bantonwasoneof11newmunicipalitiesreinstatedorcreated 
+
+('Incorrect: ', 0.5860000252723694, 'had new municipalities of Banton one of 11 new municipalities')
+('Incorrect: ', 0.9729999899864197, 'was Banton one of 11 new municipalities')
+Sometimesextrapaymentswerespecifiedbywhichafreedslavecouldliberatehimselffromtheseresidualduties 
+
+('Incorrect: ', 0.7900562721120955, 'were specified extra payments Sometimes')
+GreenfishwaslaunchedbytheElectricBoatCoGrotonConn21December1945sponsoredbyMrsThomasJDoyleandcommissioned7June1946ComdrRMMetcalfcommanding 
+
+UnderamergeragreementreachedSept14theUALboardagreedtoreimbursecertainofthebuyoutgroupsexpensesoutofcompanyfundsevenifthetransactionwasntcompletedprovidedthegroupdidntbreachtheagreement 
+
+('Incorrect: ', 0.8992455075916974, 'agreed to reimburse the UAL board out of company funds')
+('Incorrect: ', 0.9250606141558615, 'reached a merger agreement Sept')
+Repeatcustomersalsocanpurchaseluxuryitemsatreducedprices 
+
+MostpeoplewhetherinToledoTucsonorTopekahaventgotacluewhowearesaysGuyLSmithPhilipMorrissvicepresidentofcorporateaffairs 
+
+('Incorrect: ', 0.38089450366724514, '[is] vice president [of] Guy L. Smith Philip Morris')
+InJuneNassertookcontroloftheinteriorministrypostfromNaguibloyalistSulaymanHafezandpressuredNaguibtoconcludetheabolitionofthemonarchy 
+
+('Incorrect: ', 0.38089450366724514, '[is] loyalist [of] Sulayman Hafez Naguib')
+StudentjobpostingsatBostonUniversityslip10thisyearfollowinga10dropin1988 
+
+ACENformsanimportantbutsmallpartofaLocalStrategicPartnership 
+
+('Incorrect: ', 0.9527410621066101, 'forms A CEN an important part of a Local Strategic Partnership')
+MuhammadibnAbuBakrwasapiousMuslimwhosupportedtheImamofhistimeAliibnAbiTalibeventhoughhissisterAishaopposedAliinthebattleofJamalIbnAbuBakrwasfaithfultohisstepfather 
+
+('Incorrect: ', 0.3853208301752743, '[is] sister [of] Aisha him')
+('Incorrect: ', 0.9495690666534067, 'was Ibn Abu Bakr was Muhammad ibn Abu Bakr a pious Muslim')
+('Incorrect: ', 0.8852061459754098, 'was Ibn Abu Bakr faithful to his stepfather')
+('Incorrect: ', 0.8847892450006346, 'supported a pious Muslim the Imam of his time')
+ASanFranciscolawyerMrPanellirowedreligiouslywhenhefirstgotthemachinebuthecomplainsitleftgreasemarksonhiscarpetanditwasboring 
+
+('Incorrect: ', 0.22295925650251983, 'complains he it left grease marks on it was boring')
+('Incorrect: ', 0.38089450366724514, '[is] lawyer [from] Mr. Panelli San Francisco')
+InTheAndromedaStrainMichaelCrichtonsfirstnovelpublishedunderhisrealnameonlytwopeopleexposedtoapathogenicextraterrestrialmicrobesurvive 
+
+('Incorrect: ', 0.9679813206332171, "published Michael Crichton 's first novel In `` The Andromeda Strain")
+LeGriffonisreportedtobetheHolyGrailofGreatLakesshipwreckhunters 
+
+WhilethecampaignwasMrGibbonssideahoweverhewontbepayingforitThedonationswillcomeoutofthechainsnationaladvertisingfundwhichisfinancedbythefranchisees 
+
+('Incorrect: ', 0.2560951955542683, "wo n't be paying The donations will come he for it")
+Theirmissionwasalwaysforaspecificmandateandlastedforalimitedperiod 
+
+('Incorrect: ', 0.7005288659799959, 'was Their mission always for a specific mandate')
+Laborcostsareclimbingatafarmorerapidpaceinthehealthcareindustrythaninotherindustries 
+
+MostoftheLBOguysdontknowhowtorunabusinessanyway 
+
+TransferredtoKeyWestFloridaon1June1941R11continuedhertrainingshipdutiesthroughouttheremainderofhercareer 
+
+TheAlarmareanalternativerocknewwavebandthatformedinRhylNorthWalesin1981 
+
+('Incorrect: ', 0.8990069412141355, 'are The Alarm an alternative rock/new wave band that formed in Rhyl , North Wales , in 1981')
+HoweveraCanadianEmbassyofficialinTelAvivsaidthatCanadawasunlikelytoselltheCanduheavywaterreactortoIsraelsinceIsraelhasntsignedtheNuclearNonProliferationTreaty 
+
+('Incorrect: ', 0.9174231202601425, 'said a Canadian Embassy official in Tel Aviv that Canada was unlikely to sell the Candu heavy - water reactor to Israel')
+('Incorrect: ', 0.9210233335200773, 'to sell Canada the Candu heavy - water reactor to Israel')
+TheAcrolepiidaefamilyofmothsarealsoknownasFalseDiamondbackmoths 
+
+OnMay152007XMsuspendedOpieAnthonyfor30daysinresponsetoabroadcastfeaturingahomelessmanwhowanderedintothestudio 
+
+US258intersectsNC222inFountainbeforeenteringEdgecombeCounty 
+
+ItisessentiallythesameasthedialectspokeninXiamenandisunintelligiblewithStandardChinese 
+
+('Incorrect: ', 0.5680679595514976, 'is It unintelligible with Standard Chinese')
+('Incorrect: ', 0.5222094630377523, 'is It essentially the same as the dialect')
+TheSovietscomplicatedtheissuebyofferingtoincludelighttankswhichareaslightas10tons 
+
+('Incorrect: ', 0.9067325661703171, 'complicated The Soviets the issue')
+('Incorrect: ', 0.8872966301155124, 'are light tanks as light as 10 tons')
+Thethreeexistingplantsandtheirlandwillbesold 
+
+Tomakethemdirectlycomparableeachindexisbasedonthecloseof1969equaling100 
+
+UndertheComancheprogrameachcompanybuiltdifferentpartsoftheaircraft 
+
+The2ndBattalionofthe13thLightInfantrywasraisedatWinchesterinJanuary1858 
+
+BecauseofMuhammadsroleinitsformationtheallianceplaysasignificantroleinIslamicethics 
+
+('Incorrect: ', 0.9030401971054747, 'plays the alliance a significant role in Islamic ethics')
+ChevalierfulfilledhispromisethefollowingyearbyerectingashrinededicatedtothehonourofMaryunderthetitleofOurLadyoftheSacredHeart 
+
+('Incorrect: ', 0.8273172415259126, 'fulfilled Chevalier his promise the following year')
+PiffarogenerallyperformsaconcertseriesoffourtofiveconcertsayearinPhiladelphiainadditiontotouringthroughouttheUnitedStatesCanadaEuropeandelsewhere 
+
+Priortothe2012seasontheRoyalssignedYosttoacontractextensionthroughthe2013season 
+
+ThesuitallegedthattheyconspiredtofixpricesforebooksandweakenAmazoncomspositioninthemarketinviolationofantitrustlaw 
+
+('Incorrect: ', 0.672726559900108, "conspired The suit alleged they to weaken Amazon.com 's position in the market , in violation of antitrust law")
+('Incorrect: ', 0.7033733259460497, "alleged The suit that they conspired to weaken Amazon.com 's position in the market , in violation of antitrust law")
+('Incorrect: ', 0.5617411649644959, 'conspired to fix The suit alleged they conspired they prices for e - books')
+('Incorrect: ', 0.5617411649644959, 'conspired The suit alleged they to fix prices for e - books')
+('Incorrect: ', 0.7033733259460497, 'alleged The suit that they conspired to fix prices for e - books')
+ThefuselagehadanovalcrosssectionandhousedawatercooledinvertedVV12engine 
+
+Onlywhenoneisascendingorinourcasedescendingatadtroprapidementdoesonefeelwellairborneinapicnicbasket 
+
+Applyingthistechniquefacilitatestheconnectionofthecenterofthefootwiththelowerabdomen 
+
+HerearepricetrendsontheworldsmajorstockmarketsascalculatedbyMorganStanleyCapitalInternationalPerspectiveGeneva 
+
+NoteveryonecompletelytrustedVakamasvisionMatauwasparticularlyfrustratedatfollowingwhatheconsideredthedelusionsofafirespitterbutwithnothingelsetogoontheydecidedtotracktheMatorandown 
+
+Overallnetsalesofallmutualfundsexcludingmoneymarketfundsfellto19billioninSeptemberfrom42billioninAugustthetradegroupsaid 
+
+PakistanChromeMinesLtdisaminingcompanyincorporatedintheIslamicRepublicofPakistan 
+
+AfterthebattleBattrarestedintheArcticOceanwhereasMothraretiredtoInfantIslandaccompaniedbythetwoCosmos 
+
+('Incorrect: ', 0.9143456855143793, 'accompanied Infant Island by the two Cosmos')
+('Incorrect: ', 0.9324144673478683, 'retired Mothra to Infant Island')
+ApartmentbuildingsshopsmedicalclinicscinemasetcwerebuiltincloseproximitytotheMAZplantprovidingplantworkerswithlocalnecessities 
+
+ThetwosidesarealsodiscussingcertainbusinessventuresinvolvingcablerightstoColumbiasmovies 
+
+TwicedivorcedandcurrentlymarriedLaddisthemotherofactressLauraDernbyherexhusbandactorBruceDern 
+
+ThishadconsiderableimplicationsfortheWelshlanguageasitwasthemainlanguageofthenonconformistchurchesinWales 
+
+('Incorrect: ', 0.5680679595514976, 'was it the main language of the nonconformist churches in Wales')
+Theseobjectsarethrownawayiftheirscreenprojectionistoosmall 
+
+('Incorrect: ', 0.8348583869532935, 'are thrown away These objects if their screen projection is too small')
+InVanHowesstudyallcasesofmeatalstenosiswereamongcircumcisedboys 
+
+Thecampaignapatrioticcelebrationofthe200thanniversaryoftheBillofRightsdoesntmentioncigarettesorsmokingcigaretteadshavebeenprohibitedontelevisionsince1971 
+
+In1975BarriewasdirectedbyLeeGrantinthetelevisionmovieForTheUseOfTheHallasCharlotte 
+
+('Incorrect: ', 0.9919999837875366, 'was directed in 1975 barrie the television movie')
+('Incorrect: ', 0.9610033692204465, 'was directed Barrie by Lee Grant In 1975')
+NixononthefourthdayofaprivatevisittoChinasaidthatdamagetoSinoUSrelationswasverygreatcallingthesituationthemostserioussince1972 
+
+('Incorrect: ', 0.8296791982605732, "said calling Nixon the situation the most serious '' since 1972")
+('Incorrect: ', 0.8479781166119992, 'was Nixon said damage to Sino - U.S. relations very great')
+JohnStewartandGuyGardnerbroughtdownNewWarworldandtheYellowCentralPowerBatterywhichweredetonatednexttotheAntiMonitorandcontainedbyashieldcreatedbyhundredsofGreenLanternstocontaintheexplosioneventhiswasnotenoughtokillhim 
+
+('Incorrect: ', 0.20444209427590748, 'was not this enough to kill him')
+('Incorrect: ', 0.22007209367186958, 'to kill this him')
+Theissueisbackedbya12letterofcreditfromCreditSuisse 
+
+Asistrueforallsensorsabsoluteaccuracyofameasurementrequiresafunctionalityforcalibration 
+
+('Incorrect: ', 0.9205578370056476, 'requires As is true for all sensors a functionality for calibration')
+Healsocontendedthattheplaintiffsfailedtociteanylegalauthoritythatwouldjustifysuchaninjunction 
+
+('Incorrect: ', 0.8776011732811596, 'failed He contended the plaintiffs to cite any legal authority')
+WhentheexplosiontorethroughthehutStauffenbergwasconvincedthatnooneintheroomcouldhavesurvived 
+
+Ananimalthatcaresforitsyoungbutshowsnoothersocialitytraitsissaidtobesubsocial 
+
+('Incorrect: ', 0.9126241552108846, 'shows An animal no other sociality traits')
+('Incorrect: ', 0.8103687806061152, 'cares An animal for its young')
+Thethirdknownversionispartnumber218901400212withatleastonemodelbeingproducedinFebruary1993 
+
+KeiblerthenaskedfortimeofftoappearonDancingwiththeStars 
+
+ToallowthismassivelevelofunfetteredfederalborrowingwithoutpriorcongressionalapprovalwouldbeirresponsiblesaidRepFortneyStarkDCalifwhohasintroducedabilltolimittheRTCsauthoritytoissuedebt 
+
+('Incorrect: ', 0.9670444658115506, 'said To allow this massive level of unfettered federal borrowing without prior congressional approval would be irresponsible Rep. Fortney Stark')
+RatherominouslyrabbitstudiesrevealthatRU486cancausebirthdefectsLancettheBritishmedicaljournalreportedin1987 
+
+InJapanthosefunctionsaccountforonlyaboutathirdofthesoftwaremarket 
+
+Acafeteriaisalsolocatedonthesixthfloorachapelonthe14thfloorandastudyhallonthe15thfloor 
+
+AhalfdozenSovietspaceofficialsinTokyoinJulyforanexhibitstoppedbytoseetheircounterpartsattheNationalSpaceDevelopmentAgencyofJapan 
+
+('Incorrect: ', 0.9484127538313142, 'stopped by A half - dozen Soviet space officials to see their counterparts at the National Space Development Agency of Japan in Tokyo in July for an exhibit')
+OneexamplecouldbeTimethefifthsongfromPinkFloyds1973albumTheDarkSideOfTheMoonwhichcontainsarepriseofBreathethefirstsongofthesamealbum 
+
+('Incorrect: ', 0.9449486126097173, "contains Pink Floyd 's 1973 album a reprise of `` Breathe")
+('Incorrect: ', 0.9032970134745795, 'could be One example Time')
+USGCorpagreedtosellitsheadquartersbuildingheretoManufacturersLifeInsuranceCoofTorontoandwillleasethe19storyfacilityuntilitmovestoanewquartersin1992 
+
+('Incorrect: ', 0.38089450366724514, '[is] Life [of] Insurance Co. Manufacturers')
+YearsagohecollaboratedwiththenewmusicgurusPeterSerkinandFredSherryintheverycounterculturalchambergroupTashiwhichwonaudiencesovertodreadedcontemporaryscoreslikeMessiaensQuartetfortheEndofTime 
+
+('Incorrect: ', 0.6390877093110117, 'collaborated he with the new music gurus Fred Sherry in the very countercultural chamber group Years ago')
+('Incorrect: ', 0.9109231670965847, 'won over the very countercultural chamber group audiences')
+('Incorrect: ', 0.5953989801302345, 'collaborated he with the new music gurus Years ago')
+Trumbullwasoftenincorrectlycreditedinprintasbeingthesolespecialeffectscreatorfor2001 
+
+('Incorrect: ', 0.9554427371074048, 'was incorrectly credited Trumbull in print as being the sole special-effects creator for 2001 often')
+IntheUSmorethanhalfthePCsoftwaresoldiseitherforspreadsheetsorfordatabaseanalysisaccordingtoLotus 
+
+EachcompanysshareofliabilitywouldbebasedontheirshareofthenationalDESmarket 
+
+ByincreasingthenumberofPCsitusesfrom66to1000OmronTateishiElectronicsCoofKyotohopesnotonlytomakecertaintaskseasierbutalsototransformthewaythecompanyisrun 
+
+('Incorrect: ', 0.9301820511639088, 'hopes Omron Tateishi Electronics Co. , of Kyoto to transform the way')
+('Incorrect: ', 0.9301820511639088, 'hopes Omron Tateishi Electronics Co. , of Kyoto not only to make certain tasks easier')
+('Incorrect: ', 0.7810175766395516, 'uses PCs it')
+ThesewereoftenrelatedtoEuropeanconflictastheStuartPretenderswereaidedandencouragedbyBritainscontinentalenemiesfortheirownends 
+
+('Incorrect: ', 0.5822181642343426, 'were related These to European conflict often')
+('Incorrect: ', 0.6264371779747053, 'were related These to European conflict as the Stuart Pretenders were aided often')
+ButitdoesthatatthecostofdeepeningthetaxpayersexposureiftheFHAisforcedtopayformoreloansgoingsour 
+
+('Incorrect: ', 0.09591165500420344, 'does it that')
+Sincejoiningthecompetitionin1908Richmondhaswontenpremiershipsthemostrecentvictorybeingin1980 
+
+('Incorrect: ', 0.7993302626692174, 'being the most recent victory in 1980')
+OftheselfstartingvacuumcleanerhesaysCouldbeCuddlesMrsStinnettsdog 
+
+('Incorrect: ', 0.3981641206455337, 'says he Could be Cuddles')
+AspectrumfromasingleFIDhasalowsignaltonoiseratiobutfortunatelyitimprovesreadilywithaveragingofrepeatedacquisitions 
+
+Indeedtheinsuranceadjustershadalreadyboltedoutofthecourtroom 
+
+TheChemicalspokeswomansaidthebankhasexamineditsmethodologiesandinternalcontrols 
+
+('Incorrect: ', 0.8018966055903185, 'has examined The Chemical spokeswoman said the bank its methodologies')
+('Incorrect: ', 0.8580627679788316, 'said The Chemical spokeswoman the bank has examined its methodologies')
+TyabbalsohasTyabbAirportaprivateairfieldwhichhasbeenoperatingformorethanthirtyyears 
+
+TheSecondSectionindexwhichfell3687pointsFridaywasdown2144pointsor059tocloseat363606 
+
+('Incorrect: ', 0.9538634956324158, 'fell The Second Section index 36.87 points Friday')
+AtapresentationintheTorontoPearsonInternationalAirporthangarCelineDionhelpedthenewlysolventairlinedebutitsnewimage 
+
+('Incorrect: ', 0.9478895149322853, 'helped Celine Dion the newly solvent airline debut its new image At a presentation in the Toronto Pearson International Airport hangar')
+Butthispracticesimplyreducesgovernmentinterestcostsratherthantrulycancelinggovernmentdebtandcanresultinhyperinflationifusedunsparingly 
+
+Theforestproductsconcerncurrentlyhasabout38millionsharesoutstanding 
+
+('Incorrect: ', 0.9990000128746033, 'has The forest products concern about 38 million shares')
+('Incorrect: ', 0.9614365031872347, 'has The forest - products concern about 38 million shares outstanding currently')
+OnabroaderscaletherulingcouldencourageotherstatescourtstoadoptthelogicoftheNewYorkcourtnotonlyinDEScasesbutinotherproductrelatedlawsuitsaswell 
+
+('Incorrect: ', 0.9180804252893389, "could encourage the ruling other states ' courts to adopt the logic of the New York court")
+('Incorrect: ', 0.9314904193639496, "to adopt other states ' courts the logic of the New York court")
+('Incorrect: ', 0.9472929138282772, "could encourage the ruling other states ' courts to adopt the logic of the New York court , not only in DES cases")
+HesoldthemwellbelowmarketvaluetoraisecashtopayoffmountingcreditcarddebtsincurredtobuypresentsforhisgirlfriendhisattorneyPhilipRusselltoldIFAR 
+
+('Incorrect: ', 0.3853208301752743, '[is] attorney [of] Philip Russell him')
+('Incorrect: ', 0.6468634285270154, 'told his attorney IFAR')
+AyearearlierUniFirstearned24millionor24centsashareadjustedforthesplit 
+
+('Incorrect: ', 0.9990000128746033, 'earned UniFirst $ 2.4 million')
+('Incorrect: ', 0.9446577635120826, 'earned UniFirst A year earlier')
+ThecenterpieceofthatcomplextheLandmarkTowerwillbeJapanstallestbuildingwhenitiscompletedin1993 
+
+('Incorrect: ', 0.22506131975927415, 'is completed it in 1993')
+Duetotheopposingnatureofthetwosongstheycanbeviewedasadebateontheopposingattitudesonlovefoundthroughouttheplay 
+
+TheclosestWatsonevergotwaswhenRepublicanshad12seatsintheStateHousein2003 
+
+('Incorrect: ', 0.9076022892816814, 'got The closest Watson ever')
+WhytheEpilogueismissingisunknown 
+
+Herrecentreportclassifiesthestockasahold 
+
+Thefitnesscrazeitselfhasgonesoftthesurveyfound 
+
+LikeotherBBCcontentofthemid1990sitoftenlampoonedthelowbudgetqualityofsatellitetelevisionavailableintheUKatthetime 
+
+TheensemblealsohasextensiverecordingswithDeutscheGrammophonDorianRecordingsNewportClassicNavonaRecordsandundertheirownlabel 
+
+Acommonnamelogoandprogrammingschedulefollowedin1982withtheestablishmentoftheTV8networkbetweenthethreestationschangedtotheSouthernCrossNetworksevenyearslater 
+
+('Incorrect: ', 0.7665350501724939, 'followed programming schedule in 1982')
+('Incorrect: ', 0.7487987465728897, 'followed logo in 1982')
+('Incorrect: ', 0.7833813375237394, 'followed A common name in 1982')
+Onehadbestnotdanceontopofacoffinuntilthelidissealedtightlyshut 
+
+SecondthedollarisshowingpersistentstrengthdespiteaslowdownintheUSeconomyshownbyeconomicindicators 
+
+('Incorrect: ', 0.9180804252893389, 'is showing the dollar persistent strength despite a slowdown in the U.S. economy')
+Wideacceptanceofzeroenergybuildingtechnologymayrequiremoregovernmentincentivesorbuildingcoderegulationsthedevelopmentofrecognizedstandardsorsignificantincreasesinthecostofconventionalenergy 
+
+Thisattirehasalsobecomepopularwithwomenofothercommunities 
+
+Employerscouldalsopayasubminimumtrainingwagefor90daystonewworkerswhoareupto19yearsoldandthenforanother90daysifthecompanyinstitutesaspecifictrainingprogramforthenewcomers 
+
+('Incorrect: ', 0.729569447694811, 'are old new workers up')
+Theredesigned2006RamSRT10cameinMineralGrayMetallicInfernoRedandBrilliantBlackCrystalClearCoat 
+
+Withversionsin148172196and1144scaleBigGunModelWarshipcombatclubshaverulesthatmakeprovisionsforcannoncaliberandarmorthicknesstobescaledaccordingtothatwhichexistedontheprototypevessel 
+
+('Incorrect: ', 0.5453152877594627, 'to be scaled armor thickness according to that')
+('Incorrect: ', 0.5691520893095624, 'to be scaled cannon caliber thickness according to that')
+('Incorrect: ', 0.8072143401166147, 'make rules provisions for cannon caliber thickness to be scaled according to that')
+('Incorrect: ', 0.8716225430650826, 'have Big Gun Model Warship combat clubs rules that make provisions for')
+SpennymoorTownFCarethemainlocalfootballteamandwontheFACarlsbergVaseafterwinning21inthefinalatWembleyStadiumagainstTunbridgeWellsinMay2013 
+
+('Incorrect: ', 0.9329286852051247, 'are Spennymoor Town F.C. the main local football team')
+Inthewinterof1976KnievelwasscheduledforamajorjumpinChicagoIllinois 
+
+IcantbelievetheyGMwillletFordhaveafreerunsaidStephenReitmanaEuropeanautoindustryanalystatUBSPhillipsDrew 
+
+('Incorrect: ', 0.38089450366724514, '[is] a European auto industry analyst at Stephen Reitman UBS - Phillips & Drew')
+Nobodytoldusnobodycalledussaysanofficialclosetothecasewhoaskednottobenamed 
+
+In1964BarrieappearedintwoepisodesofAlfredHitchcockPresents 
+
+NowMrBrobergalawyerclaimshedplayforfree 
+
+('Incorrect: ', 0.5, '[is] Mr. Broberg a lawyer')
+UnlikeUncleSamlaterheisnotafigureofauthoritybutratherayeomanwhoprefershissmallbeeranddomesticpeacepossessedofneitherpatriarchalpowernorheroicdefiance 
+
+('Incorrect: ', 0.5953989801302345, 'is not he a figure of authority but rather a yeoman later')
+ThesecondwasnamedafterformerUSPresidentGeorgeHWBushstayedaboardinNovember1995 
+
+('Incorrect: ', 0.7175062325283524, 'was named The second after former US President George H. W. Bush stayed aboard in November 1995')
+Bythenshewasraisingnotonlyherownchildrenbutalsohernephewswhohadbeenorphanedbytheplague 
+
+('Incorrect: ', 0.5615930470662951, 'was raising she her nephews , who had been orphaned by the plague By then')
+('Incorrect: ', 0.6657399090882815, 'had been orphaned not only her own children by the plague')
+('Incorrect: ', 0.5615930470662951, 'was raising she not only her own children , who had been orphaned by the plague By then')
+RollsRoyceMotorCarsIncsaiditexpectsitsUSsalestoremainsteadyatabout1200carsin1990 
+
+ThestaffprovidesafamilystylehomecookeddinnereverynightwhichisattendednotonlybyDartmouthstudentsbutbycommunitymembersAppalachianTrailthruhikerstouristsandevenDartmouthprofessors 
+
+('Incorrect: ', 0.9045207649554154, 'is attended every night by even Dartmouth professors')
+('Incorrect: ', 0.8872966301155124, 'is attended every night by tourists')
+('Incorrect: ', 0.8872966301155124, 'is attended every night by community members')
+('Incorrect: ', 0.9045207649554154, 'is attended every night not only by Dartmouth students')
+('Incorrect: ', 0.9472929138282772, 'provides The staff a family - style , home - cooked dinner every night , which is attended not only by Dartmouth students')
+LangfordkeptWalcottatadistancewithhislongerreachandusedhisfootworktoevadeallofWalcottsattacks 
+
+Failuretoperformthedutycouldleadtoprosecutionatlawandreenslavement 
+
+Thebandalsoconfirmedthatthealbumwouldbeselfreleased 
+
+('Incorrect: ', 0.6888542673128378, 'confirmed The band that the album would be self-released')
+ConsideredasawholeMrLanesaidthefilingsrequiredundertheproposedruleswillbeatleastaseffectiveifnotmoresoforinvestorsfollowingtransactions 
+
+('Incorrect: ', 0.8942434158739456, 'following investors transactions')
+Maleshadamedianincomeof28750versus16250forfemales 
+
+('Incorrect: ', 0.9606193513644111, 'had Males a median income of $ 28,750 versus $ 16,250 for females')
+ThefundraiserwassuccessfulandthetripoccurredfromJunethroughSeptemberof2014 
+
+('Incorrect: ', 0.8132903905488816, 'was The fundraiser successful')
+HealsounfortunatelyillustratedthisintricatejazzytapestrywithMrPearsonsimagesthistimeofgeometricorrepeatingobjectsinakitschymirroringofthemusicalstructurethatwasthoroughlydistractingfromMrReichspieceandMrStoltzmanselegantexecutionofit 
+
+AmotorcyclespeedwaylongtrackmeetingoneofthefewheldintheUKwasstagedatAmmanford 
+
+Theconvictionstemmedfromfederalchargesofconsumerfraudforsaleofphonyinfantapplejuicebetween1978and1983 
+
+Thetaxhasraisedlessthanonebillionmarks5453millionannuallyinrecentyearsbutthegovernmenthasbeenreluctanttoabolishthelevyforbudgetaryconcerns 
+
+('Incorrect: ', 0.9030401971054747, 'has been the government reluctant to abolish the levy for budgetary concerns')
+('Incorrect: ', 0.9030401971054747, 'has raised The tax less than one billion marks annually in recent years')
+EdisonBrothersStoresIncsaiditagreedtobuy229FoxmoorwomensapparelstoresfromFoxmoorSpecialtyStoresCorpaunitofDylexLtdofToronto 
+
+WithnoassignedtasktheCosmosexpressedconcernforwhatBattramightdo 
+
+Therehavebeentwocrashesinvolvingfatalitiesattheairfieldsinceitwasestablished 
+
+AlthoughunderconstantattackfromkamikazesaswellasfightersanddivebombersHazelwoodcamethroughtheinvasionuntouchedandonthenightof25Februarysanktwosmallenemyfreighterswithherguns 
+
+('Incorrect: ', 0.935186724632715, 'came Hazelwood under constant attack from dive - bombers')
+('Incorrect: ', 0.935186724632715, 'came Hazelwood under constant attack from fighters')
+('Incorrect: ', 0.935186724632715, 'came Hazelwood under constant attack from kamikazes')
+MoorebrieflydroppedMarcianointhesecondroundbutMarcianorecoveredandknockedMooredownfivetimesknockinghimoutintheninthtoretainthebelt 
+
+LukeRobertRavenstahlisanAmericanpoliticianwhoservedasthe59thMayorofPittsburghfrom2006until2014 
+
+TheRevWilliamAlfredQuaylewashonoredbyhisalmamaterBakerUniversitywiththedegreesLittD 
+
+TechnologystocksborethebruntoftheOTCmarketsrecentselloffandtraderssayitsnaturalthattheyreboundsharplynowthatthemarkethasturnedaround 
+
+InitiallyflyingtheA4BSkyhawkthesquadronlatertransitionedtotheA4LSkyhawk 
+
+MrsMarcosstrialisexpectedtobegininMarch 
+
+ShawIndustrieswhichagreedtoacquireArmstrongWorldIndustriescarpetoperationsforanundisclosedpricerose214to2618 
+
+OriginallyHankMcCoyretainsthebasicfeaturesofanormalhumanalongsideagenerallysimianphysiologyequivalenttothatofaGreatApe 
+
+IfgiventhisdatatheGermanswouldbeabletoadjusttheiraimandcorrectanyshortfall 
+
+('Incorrect: ', 0.9266232318014763, 'would be the Germans able to correct any shortfall')
+('Incorrect: ', 0.8528181305510196, 'to adjust the Germans their aim')
+('Incorrect: ', 0.8726869446304376, 'would be the Germans able to adjust their aim')
+AccordingtoSamaritantraditionhowevertheSamaritanethnonymisnotderivedfromtheregionofSamariabutfromthefactthattheyweretheGuardiansofthetrueIsraelitereligion 
+
+('Incorrect: ', 0.6582659227599074, "were they the `` Guardians '' of the true Israelite religion")
+('Incorrect: ', 0.9436221120476838, 'is not derived the Samaritan ethnonym from the region of Samaria')
+In2004theBrumbiesfinishedatthetopoftheSuper12tablesixpointsclearofthenextbestteam 
+
+JamesArthurHogueisaUSimpostorwhomostfamouslyenteredPrincetonUniversitybyposingasaselftaughtorphan 
+
+('Incorrect: ', 0.9339862216393666, 'most famously entered a US impostor Princeton University')
+ThesiteconsistsofthreesubterraneanGrottofolliesconstructedinthe18thcenturysplitbetweentwoareasoneonthewesternsideofthelakeatandoneontheeasternsideat 
+
+('Incorrect: ', 0.9180804252893389, 'consists The site of three subterranean Grotto follies')
+Swinburnemovesinhiswritingprogramfromthephilosophicaltothetheologicalbuildinghiscaserigorously 
+
+AsagrouptheteamwasenshrinedintotheBasketballHallofFamein1959 
+
+AccordingtotheSouthKoreansmanyKoreansbecamevictimsofJapanesebrutalitiesduringthecolonialperiod 
+
+DespitethebelowfreezingtemperaturesBeuerleinwasredhotoutduelingBrettFavreandconnectingon29of42attemptswith3TDsandnoINTsandpassingforathenfranchiserecord373yards 
+
+('Incorrect: ', 0.9383119524695255, 'was Beuerlein red - hot passing for a then franchise - record 373 yards')
+('Incorrect: ', 0.9481947648689547, 'was Beuerlein red - hot - dueling Brett Favre')
+('Incorrect: ', 0.8428211120858269, 'was Beuerlein red - hot out')
+TheRiverStourTrustformedin1968hasitsheadquartersinSudburyandapurposebuiltVisitorCentrelocatedatCornardLock 
+
+Theexternalgaugeisusuallyreadabledirectlyandmostalsoincorporateanelectronicsendertooperateafuelgaugeonthedashboard 
+
+('Incorrect: ', 0.778530352305969, 'is directly The external gauge usually')
+In2012BloombergBusinessweekvotedSanFranciscoasAmericasBestCity 
+
+ThecitywasfoundedbytheWesternTownLotCompanyin1880andoriginallynamedNordlandwiththeplattedstreetsgivenNorwegiannames 
+
+('Incorrect: ', 0.9929999709129333, 'was founded in The city 1880')
+SenateAppropriationsCommitteeChairmanRobertByrdDWVastronglyresisteddeepercutssoughtbytheHouse 
+
+Thispolicywashoweveropposedbytheminerswhodemandedthattheinspectionsbecarriedoutbyexperiencedcolliers 
+
+('Incorrect: ', 0.8872966301155124, 'opposed This policy by the miners')
+('Incorrect: ', 0.9114941017868227, 'was This policy however opposed by the miners')
+RedHatengineersidentifiedproblemswithProPolicethoughandin2005reimplementedstacksmashingprotectionforinclusioninGCC41 
+
+ADemocrathebecametheyoungestmayorinPittsburghshistoryinSeptember2006attheageof26 
+
+ThisismostcommoninWesterncountriesinthosewithBarrettsesophagusandoccursinthecuboidalcells 
+
+('Incorrect: ', 0.449300176227255, 'is This most common in Western countries')
+Thisenginewasequippedwithanelectronicallycontrolledcarburetor 
+
+Therewere143householdsoutofwhich301hadchildrenundertheageof18livingwiththem497weremarriedcoupleslivingtogether119hadafemalehouseholderwithnohusbandpresentand364werenonfamilies 
+
+('Incorrect: ', 0.9030401971054747, 'were 36.4 % non-families')
+NoannouncementfromUTVwasmadeaboutthedecisiontoclosethestationearlierthanplanned 
+
+ForalistofallmedalistspleaseseetheListofGreatAmericanBeerFestivalmedalists 
+
+ThoughMrPackerhassincesoldhisstakeCourtauldsismovingtokeepitsinstitutionalshareholdershappy 
+
+Theeffectisthatlawsuitsthatmighthavebeenbarredbecausetheywerefiledtoolatecouldproceedbecauseoftheoneyearextension 
+
+('Incorrect: ', 0.3607472239201407, 'were filed they too late')
+('Incorrect: ', 0.7950722565701456, 'might have been barred lawsuits because they were filed too late')
+In1977sheappearedintwotelevisionfilmsasthemotherofLesleyAnnWarrenscharacterin79ParkAvenueandasEmilyMcPhailinTellMeMyName 
+
+('Incorrect: ', 0.6065197283431338, "appeared she in two television films as the mother of Lesley Ann Warren 's character in `` 79 Park Avenue '' `` Tell Me My Name In 1977")
+MeanwhiletheMasonCityDivisioncontinuedtooperateasusual 
+
+HoweverduringhisrehearsalKnievellostcontrolofthemotorcycleandcrashedintoacameraman 
+
+TheopeningcreditssequenceforthecollectionwasdirectedbyHanadaDaizaburo 
+
+JALintroducedjetserviceontheFukuokaTokyoroutein1961 
+
+MrRifenburghsaidtheboardstillhasntactedonmostoftheinternalreportsrecommendationspendingrestatementofthebalancesheet 
+
+HedefinesWildCardsasLowProbabilityHighImpacteventsthatweretheytooccurwouldseverelyimpactthehumancondition 
+
+AnnualizedinterestratesoncertaininvestmentsasreportedbytheFederalReserveBoardonaweeklyaveragebasis 
+
+GeorgeBluthSrpatriarchoftheBluthfamilyisthefounderandformerCEOoftheBluthCompanywhichmarketsandbuildsminimansionsamongmanyotheractivities 
+
+('Incorrect: ', 0.949419443712137, 'is George Bluth Sr the founder and former CEO of the Bluth Company')
+RichardNewsomaCaliforniastateofficialwholastyearexaminedLincolnsparentAmericanContinentalCorpsaidhealsosawevidencethatcrimeshadbeencommitted 
+
+('Incorrect: ', 0.8847999636040884, '[is] a state official [from] Richard Newsom California')
+('Incorrect: ', 0.38089450366724514, '[is] parent [of] American Continental Corp . Lincoln')
+IwaspleasedtonotethatyourOct23CentennialJournalitemrecognizedthemoneyfundconceptasoneofthesignificanteventsofthepastcentury 
+
+('Incorrect: ', 0.17583566043900992, 'to note I that your Oct. 23 Centennial Journal item recognized the money - fund concept as one of the significant events of the past century')
+('Incorrect: ', 0.29487653219956067, 'was I pleased to note that your Oct. 23 Centennial Journal item recognized the money - fund concept as one of the significant events of the past century')
+TakeoverstocktradersnotedthatwiththejunkbondmarketindisarrayGeorgiaPacificsbidisanindicationofwherethetakeovergameisheadednamelyindustrialcompaniescancontinuebiddingforoneanotherbutfinancialbuyerssuchasleveragedbuyoutfirmswillbeatadisadvantageinobtainingfinancing 
+
+('Incorrect: ', 0.8527248545228366, "noted Takeover stock traders that with the junk - bond market in disarray , Georgia - Pacific 's bid is an indication of where the takeover game is headed : namely , industrial companies can continue bidding for one another")
+AshortdistancetotheeastNC111divergesonGreenwoodBoulevard 
+
+Iftheressomethingweirdanditdontlookgood 
+
+ItscultivationevendeclinedinfavouroftheAsianspecieswhichwasintroducedtoEastAfricaearlyinthecommoneraandspreadwestward 
+
+('Incorrect: ', 0.7535117993595638, 'was spread the Asian species westward')
+WhilepursuinghisMFAatColumbiainNewYorkScieszkapaintedapartments 
+
+IntheCrimeanWarthe5thDragoonGuardsformedpartoftheHeavyCavalryBrigadeandwassenttotheBlackSeain1854 
+
+Thatcompareswith35butterfatforwholemilk 
+
+Thelatest10yearnotesendedatabout1001632toyield790comparedwith1001132toyield793onFriday 
+
+ScarpettareturnstoVirginiainTraceconvincingherselfthatshewasfiredfromherpositionattherequestofherreplacementDrJoelMarcus 
+
+('Incorrect: ', 0.3853208301752743, '[is] replacement [of] Dr. Joel Marcus hers')
+Noatakhasagravelpublicairstripandisprimarilyreachedbyair 
+
+Despitethemodestgainstraderssaidthemarketremainsdullwithinvestorsremainingcautiouslyonthesidelines 
+
+Thesearevisuallyverysimilartopartnumber218901400211withthesameATstyleplugandchassissilverlabelonthereversebearingtheAnyKeymonikerscrewsholdingthekeyboardtogethermacroprogrammingrequiringthecontrolkeyandlackingtheAnyKeyinscriptionontheirface 
+
+('Incorrect: ', 0.6975150372385567, 'are These visually very similar to part number 2189014-00-211 , with the same AT style plug')
+TheonlypeoplewhoareflyingarethosewhohavetosaidFrankMoorechairmanoftheAustralianTouristIndustryAssociation 
+
+('Incorrect: ', 0.38089450366724514, '[is] chairman of Frank Moore the Australian Tourist Industry Association')
+('Incorrect: ', 0.9312482791243925, 'said The only people who are flying are those Frank Moore')
+ThecommunityisservedbytheUnitedStatesPostalServiceHinsdalePostOffice 
+
+Withintwohoursviewerspledgedover400000accordingtoaRedCrossexecutive 
+
+('Incorrect: ', 0.9990000128746033, 'pledged viewers over $ 400000')
+WatsonhasservedasMinorityLeadersinceelectedbyhiscaucusinNovember1998 
+
+('Incorrect: ', 0.9324144673478683, 'has served Watson as Minority Leader')
+ThisweekNewYorkCityannounceda10pointpolicypatternedonthefederalbillofrightsfortaxpayers 
+
+('Incorrect: ', 0.9990000128746033, 'announced New York City 10 - point policy')
+MrWathenwhosaysPinkertonshadalossofnearly8millionin1987underAmericanBrandsboaststhathesmadePinkertonsprofitableagain 
+
+AsofSept30AmericanBrandshad952millionsharesoutstanding 
+
+('Incorrect: ', 0.9990000128746033, 'had American Brands 95.2 million shares')
+('Incorrect: ', 0.9729809030941633, 'had American Brands 95.2 million shares outstanding As of Sept. 30')
+Underthedebtequityprogrampotentialinvestorswillsubmitsealedbidsonthepercentageofdiscounttheyarewillingtopurchasethedebtatandthebidswillbeallocatedbasedonthesediscountoffers 
+
+('Incorrect: ', 0.5750411108691293, 'to purchase they the debt at')
+ButalthoughthegoldensharehasbeenwaivedahostilebidderforJaguarwouldstillhavetoaltertheBritishconcernsarticlesofassociationwhichbanshareholdingsofmorethan15 
+
+Theseriesofthreeconstitutionalamendmentsin1933severelycurtailedtheroleoftheGovernorGeneraloftheIrishFreeState 
+
+TheirnumberscontinuedtoincreaseeachyearasrumoursaboutimmigrationrestrictionsappearedinmuchoftheCypriotmedia 
+
+FirstBostonincurredmillionsofdollarsoflossesonCampeausecuritiesitownedaswellasonspecialsecuritiesitcouldntsell 
+
+('Incorrect: ', 0.9382554258342916, 'incurred First Boston millions of dollars of losses on Campeau securities')
+Theestablishmentofamuseumhadfirstbeenplannedin1821bythePhilosophicalSocietyofAustralasiaandalthoughspecimenswerecollectedtheSocietyfoldedin1822 
+
+Andhegotridoflowmarginbusinessesthatjustwerentmakingmoneyforthecompany 
+
+('Incorrect: ', 0.45170382506656653, 'got rid he of low - margin businesses')
+('Incorrect: ', 0.5222094630377523, 'got he rid of low - margin businesses')
+AssistingintherecordingprocesswereFernandoCabelloandtwofriendsofthegroupEvaDaldaandLydiaIovanne 
+
+HoweverStatesWestisntabandoningitspursuitofthemuchlargerMesa 
+
+AlthoughKnievelbrokehisarmshewasmoredistraughtoverapermanentinjuryhisaccidentcausedtothecameraman 
+
+('Incorrect: ', 0.5222094630377523, 'was he more distraught over a permanent injury')
+InthisexplanationthepurposeofCreationisthatGoddesiredadwellingplaceinthelowerrealmsitismanwhotransformsthemundanelowestWorldintoanabodeforGodsessence 
+
+('Incorrect: ', 0.8874809621075493, "is the purpose of Creation that `` God desired a dwelling place in the lower realms '' - it is man In this explanation")
+('Incorrect: ', 0.8157140564641437, "transforms man the mundane , lowest World into an abode for God 's essence")
+ForexampleapassengercanflyfromChardonNebtoDenverforaslittleas89to109accordingtopricesquotedbythecompany 
+
+ThePersiancontingentthatwassupposedtoguardthedefilesoonabandoneditandAlexanderpassedthroughwithoutanyproblems 
+
+('Incorrect: ', 0.8016573080327372, 'passed Alexander through')
+KeepingtheJapanesehappywillbeoneofthemostimportanttasksfacingconservativeleaderErnestoRuffowhenhetakesofficeNov1asthefirstoppositiongovernorinMexicosmodernhistory 
+
+('Incorrect: ', 0.4978219019954182, 'takes he office Nov')
+('Incorrect: ', 0.9091474612772676, 'will be Keeping the Japanese happy one of the most important tasks when he takes office Nov')
+SheawasbornonSeptember51900inSanFranciscoCalifornia 
+
+('Incorrect: ', 0.9324144673478683, 'was born Shea on September 5')
+InatypicalcaseofsubstrateinterferenceaLanguageAoccupiesagiventerritoryandanotherLanguageBarrivesinthesameterritory 
+
+('Incorrect: ', 0.9329286852051247, 'arrives another Language B in the same territory')
+Parentalinvestmentisanyexpenditureofresourcestobenefitoneoffspring 
+
+RosenarguesthatoneofthemostimportantprovisionsoftheConstitutioninExileislimitationsontheinterstatecommerceclausewhichwereunderminedbytheSupremeCourtsexpansiveinterpretationofCongressspowertoregulateinterstatecommerceextendedtoincludeanyactivitiesthatmightaffectcommerceindirectlyduringtheNewDeal 
+
+('Incorrect: ', 0.8661499809177662, 'argues Rosen that one of the most important provisions of the Constitution in Exile is limitations on the interstate commerce clause')
+ItsasuperexcitingsetofdiscoveriessaysBertVogelsteinaJohnsHopkinsUniversityresearcherwhohasjustfoundagenepivotaltothetriggeringofcoloncancer 
+
+('Incorrect: ', 0.38089450366724514, '[is] a University researcher [of] Bert Vogelstein Johns Hopkins')
+('Incorrect: ', 0.7385254317605814, "says It 's a super - exciting set of discoveries Bert Vogelstein")
+Accordinglythe1962RomanMissaltheeditionwhosecontinueduseasanextraordinaryformoftheRomanRiteisauthorizedbythemotuproprioSummorumPontificumalsohasnomentionofher 
+
+('Incorrect: ', 0.8872966301155124, 'is authorized the edition by the motu proprio')
+HungarysParliamentvotedtoholdanationalreferendumonanelectiontofillthenewpostofpresident 
+
+('Incorrect: ', 0.9176096793265422, "voted to hold Hungary 's Parliament a national referendum on an election")
+('Incorrect: ', 0.9176096793265422, "voted Hungary 's Parliament to hold a national referendum on an election")
+Hesaidheexpectsthecompanytohave500millioninsalesforthisyear 
+
+('Incorrect: ', 0.5140598836732946, 'expects He said he the company to have $ 500 million in sales for this year')
+('Incorrect: ', 0.364761346574243, 'said He he expects the company to have $ 500 million in sales for this year')
+MrsMarcoshasntadmittedthatshefiledanydocumentssuchasthosesoughtbythegovernment 
+
+('Incorrect: ', 0.2343987000759265, 'sought those by the government')
+ApplicationscanusethisservicetorecordactivityforaproductionsystemwhileimplementationsofotherOSIDscanusetheservicetorecorddetaileddataduringdevelopmentdebuggingoranalyzingperformance 
+
+('Incorrect: ', 0.8668367470739037, 'can use this service to record Applications activity for a production system')
+AccordingtotheindictmentGonzalezisaccusedofdefraudingtheWestBronxNeighborhoodAssociationIncanotforprofitcorporationbyusingfundsdonatedtotheorganizationinordertopayforover37000inpersonalexpenses 
+
+('Incorrect: ', 0.9064683704715875, 'by using Gonzalez funds donated to the organization in order')
+('Incorrect: ', 0.9324144673478683, 'is accused Gonzalez of defrauding the West Bronx Neighborhood Association Inc')
+InanewspostHolkinsstatedthathereservedtherighttobringCarlbackanytimeKrahulikgoestoFrance 
+
+('Incorrect: ', 0.7576360675725292, 'stated Holkins that he reserved the right In a news post')
+Therewere6524householdsoutofwhich353hadchildrenundertheageof18livingwiththem317weremarriedcoupleslivingtogether315hadafemalehouseholderwithnohusbandpresentand306werenonfamilies 
+
+('Incorrect: ', 0.9030401971054747, 'were 30.6 % non-families')
+AndreaBiancosatlasof1436comprisestenleavesofvellummeasuringinan18thcenturybinding 
+
+SidleywillmaintainitsassociationwiththeHashidateLawOfficeinTokyo 
+
+FewpeopleintheadvertisingbusinesshaveraisedasmanyhacklesasAlvinAAchenbaum 
+
+In1005forexamplethegovernoroftheimportantAdriaticportofDyrrhachiumhadsurrenderedthetowntoBasilII 
+
+TheSteinbrennerfamilyaddedamonumenttoMonumentParkonSeptember202010tohonorSteinbrenner 
+
+ThesebeamsstemfromacosmicenergysourcecalledtheOmegaEffect 
+
+('Incorrect: ', 0.9251282565798027, 'stem These beams from a cosmic energy source')
+Merrillsaiditcontinuestobelievethatthecausesofexcessmarketvolatilityarefarmorecomplexthananyparticularcomputertradingstrategy 
+
+('Incorrect: ', 0.7448345377060199, 'said Merrill it continues to believe that `` the causes of excess market volatility are far more complex than any particular computer trading strategy')
+BlackWaterbecameoneofthefewrecordsbyanyactreleasedasaBsidetoanotherHot100hitbeforetoppingtheHot100itself 
+
+('Incorrect: ', 0.9180804252893389, 'released any act as a B-side')
+OnecandidateisawreckatthewesternendofManitoulinIslandinLakeHuronwithanotherwrecknearEscanabaMichiganalsoproposed 
+
+('Incorrect: ', 0.9597492605074653, 'is One candidate a wreck at the western end of Manitoulin Island in Lake Huron')
+AmidMarch2002courtordertostopprintingforthreemonthswasevadedbyprintingunderothertitlessuchasNotThatRespublika 
+
+RogerMMarinopresidentwasnamedtothenewpostofvicechairman 
+
+('Incorrect: ', 0.886695286966665, '[is] Roger M. Marino president')
+ModificationoftheriverbeganinearnestwiththearrivaloftheFloridaEastCoastRailwayinMiamiin1896 
+
+ItsaidCSFirstBostonhasconsistentlybeenoneofthemostaggressivefirmsinmerchantbankingandthataverysignificantportionofthefirmsprofitinrecentyearshascomefrommerchantbankingrelatedbusiness 
+
+('Incorrect: ', 0.903980248647561, 'has consistently been It said CS First Boston one of the most aggressive firms in merchant banking')
+('Incorrect: ', 0.5600415811619095, 'said It CS First Boston `` has consistently been one of the most aggressive firms in merchant banking')
+MrRidleysdecisionfiresthestartingpistolforperhapsacostlycontestbetweentheworldsautogiantsforBritainsleadingluxurycarmaker 
+
+('Incorrect: ', 0.9387281236502384, "fires Mr. Ridley 's decision the starting pistol")
+ManyoverseasChinesewhoseancestorscamefromtheQuanzhouareaespeciallythoseinSoutheastAsiaoftenspeakmainlyHokkienathome 
+
+('Incorrect: ', 0.9339862216393666, 'came Many overseas Chinese from the Quanzhou area')
+Proliferativenodulesareusuallybiopsiedandareregularlybutnotsystematicallyfoundtobebenign 
+
+('Incorrect: ', 0.7665350501724939, 'are Proliferative nodules regularly')
+('Incorrect: ', 0.7614217007482424, 'are biopsied Proliferative nodules usually')
+ThefieldattheLakeElsinoreDiamondisnamedthePeteLehrField 
+
+TotalFreshFoodStoryconstructedattheendoftheNorthMall 
+
+CertainfractionalquantumHallphasesappeartohavetherightpropertiesforbuildingatopologicalquantumcomputer 
+
+NextmorningtheraceleftthecityonthewaytothePyreneesandstoppedinthesuburbofGradignanintheuniversityareaofLaHouse 
+
+Butwiretransfersfromastandingaccountincludingthosebiggerthan10000arentreported 
+
+Sometimesifyouhaveaheadacheyoucangooutandwalkitrightoff 
+
+('Incorrect: ', 0.5019991721139595, 'can go you out Sometimes')
+ItsreallybizarresaysAlbertLermancreativedirectorattheWellsRichGreeneadagency 
+
+('Incorrect: ', 0.38089450366724514, '[is] creative director at Albert Lerman the Wells Rich Greene ad agency')
+('Incorrect: ', 0.23577326450215205, "'s It 's really bizarre says It really bizarre")
+InJewishbeliefitsfulfilmentwillberevealedinthecumulationofCreationintheeraofresurrectioninthephysicalWorld 
+
+Asaresultthelowerriverhadtobedredgedthreetimesintwoyears 
+
+TomPanellihadaperfectlygoodreasonfornotusingthe300rowingmachineheboughtthreeyearsago 
+
+Themarketstempowashelpedbythedollarsresiliencyhesaid 
+
+('Incorrect: ', 0.9358333001879658, "said The market 's tempo was helped by the dollar 's resiliency he")
+BritishgovernmentbondsendedmoderatelyhigherencouragedbyasteadierpoundandariseinBritishstocks 
+
+('Incorrect: ', 0.8952909617610209, 'ended moderately higher British government bonds encouraged by a steadier pound')
+VernonEJordanwaselectedtotheboardofthistransportationservicesconcern 
+
+ThebasketproductwhileithasgotofftoaslowstartisbeingsupportedbysomebigbrokeragefirmsanothermemberofMrPhelanssplinteredconstituency 
+
+Anoriginallimitedartisteditionof250waspublishedin1989andwasanoversizedfinepressslipcasedbookwithstainlesssteelfacedboardsanddigitalclockinsetintothefrontcover 
+
+('Incorrect: ', 0.9378846471308124, 'was published An original limited artist edition of 250 in 1989 faced boards into the front cover')
+JohnsalsoappearedasanImperialOfficerinthe1980StarWarssequelTheEmpireStrikesBack 
+
+SixyearsagoJudgeOKickiwasvotedpresidentofthePennsylvaniaConferenceofStateTrialJudgesbythestates400judges 
+
+Thesharepricewaslanguishingatabout400pencebeforeFordsSept19announcementofitsinterestinaminoritystake 
+
+Combinedwithappropriatematchpelletstheseriflesproduceaconsistent10ringperformancesoanonmaximalresultduringtheinitialphasecanbeattributedtotheparticipant 
+
+('Incorrect: ', 0.9990000128746033, 'produce these rifles 10 ring performance')
+('Incorrect: ', 0.9030401971054747, 'produce these rifles a consistent 10 ring performance')
+AspartofseveraleffortstohavetheGypsyHorserecognizedasabreedoutsidetheRomanichalcommunityamoredescriptivenamewassoughtforitstartinginthe1990s 
+
+('Incorrect: ', 0.859811354567563, 'was sought a more descriptive name for it starting in the 1990s')
+Inthefirstninemonthsprofitrose10to3132millionor389asharefrom2839millionor353ashare 
+
+('Incorrect: ', 0.8659999966621399, 'have profit to the first nine months $ 313.2 million')
+InJewishHebrewtheSamaritansarecalledShomronimwhileinSamaritanHebrewtheycallthemselvesShamerim 
+
+('Incorrect: ', 0.7124614164697609, 'call they themselves Shamerim in Samaritan Hebrew')
+EarlierthisyearBlackstoneGroupaNewYorkinvestmentbankhadnotroublesellingoutaspecial570millionmortgagesecuritiestrustitcreatedforJapaneseinvestors 
+
+327ofallhouseholdsweremadeupofindividualsand157hadsomeonelivingalonewhowas65yearsofageorolder 
+
+('Incorrect: ', 0.9256263201643982, 'were made up 32.7 % of all households of individuals and 15.7 %')
+ButyesterdayMrCarpentersaidbiginstitutionalinvestorswhichhewouldntidentifytoldustheywouldntdobusinesswithfirmsthatcontinuedtodoindexarbitragefortheirownaccounts 
+
+('Incorrect: ', 0.8937052396947953, "would n't identify big institutional investors he")
+Inmorerecentyearsthispolicyhasapparentlyrelaxedsomewhat 
+
+HerimageheldaloftsignifiestheEarthwhichhangsintheair 
+
+Withmorethan15millionexercisebikessoldinthepastfiveyearsheaddsalotofgaragesbasementsandatticsmustbepopulatedwiththem 
+
+('Incorrect: ', 0.859811354567563, 'must be populated a lot of attics with them')
+('Incorrect: ', 0.859811354567563, 'must be populated a lot of basements with them')
+('Incorrect: ', 0.859811354567563, 'must be populated a lot of garages with them')
+WrightwasthesubjectofThisIsYourLifeontwooccasionsinMay1961whenhewassurprisedbyEamonnAndrewsandinJanuary1990whenMichaelAspelsurprisedhimatThamesTelevisionsTeddingtonStudios 
+
+('Incorrect: ', 0.8720272482444822, "was Wright the subject of `` This Is Your Life '' on two occasions")
+Inthe1901electionafterwhichtheOppositionistsunderGeorgeLeakewereabletoformaminoritygovernmentFrankWilsonformerlythememberforCanningwontheseat 
+
+('Incorrect: ', 0.9344893211562376, 'to form the Oppositionists under George Leake a minority government')
+Muchofthestationremainsinthedisusedsubwaybutthereisnopublicaccess 
+
+HerepresentedtheridingofNickelBeltintheSudburyOntarioarea 
+
+Acoolingcenterisatemporaryairconditionedpublicspacesetupbylocalauthoritiestodealwiththehealtheffectsofaheatwave 
+
+('Incorrect: ', 0.9378846471308124, 'set up a temporary air-conditioned public space by local authorities')
+('Incorrect: ', 0.956190223803737, 'is A cooling center a temporary air-conditioned public space set up by local authorities')
+Theofferingwaspricedwithan895couponrateat991875toyield919 
+
+('Incorrect: ', 0.9929999709129333, 'was priced at The offering 99.1875 %')
+('Incorrect: ', 0.8872966301155124, 'to yield The offering 9.19 %')
+TherapidsattheheadoftheSouthForkwereremovedin1908 
+
+('Incorrect: ', 0.8974996057989925, 'were removed The rapids at the head of the South Fork in 1908')
+ThelodgeisopenfrommidMaytomidOctoberwithtwoweeksstartingintheendofAugustreservedfortheDartmouthFirstYearTrips 
+
+('Incorrect: ', 0.8132903905488816, 'is The lodge open')
+AstatejudgepostponedadecisiononamovebyholdersofTelerateInctoblockthetenderofferofDowJonesCoforthe33ofTelerateitdoesntalreadyown 
+
+SeparatelytheSenatelastweekpassedabillpermittingexecutionofterroristswhokillAmericansabroad 
+
+LiHongzhibeganhispublicteachingsofFalunGongon13May1992inChangchunandsubsequentlygavelecturesandtaughtFalunGongexercisesacrossChina 
+
+('Incorrect: ', 0.8990839209524873, 'gave Li lectures subsequently')
+IfworkingcapitalfinancingisnotprovidedhesaidtheRTCmayhavetoslowSLsalesordumpacquiredassetsthroughfiresales 
+
+('Incorrect: ', 0.7819834491807975, 'to dump the RTC acquired assets')
+('Incorrect: ', 0.8207534706648708, 'to slow the RTC S&L sales')
+ThefirstcomesfromwhenSwedensRoyalCouplelivedthereduringthe1992BarcelonaSummerOlympics 
+
+SukhumfunctionedasthecapitaloftheUniontreatyAbkhazSovietSocialistRepublicassociatedwiththeGeorgianSSRfrom1921until1931whenitbecamethecapitaloftheAbkhazianAutonomousSovietSocialistRepublicwithintheGeorgianSSR 
+
+('Incorrect: ', 0.38089450366724514, '[is] Socialist [of] Republic Abkhazian Autonomous Soviet')
+('Incorrect: ', 0.38089450366724514, '[is] Socialist [of] Republic Abkhaz Soviet')
+('Incorrect: ', 0.9324144673478683, 'functioned Sukhum as the capital of the `` Union treaty')
+300millionofbondsdueNov161993withequitypurchasewarrantsindicatinga334couponatparviaNomuraInternationalLtd 
+
+MrZayadiwaspreviouslypresidentandchiefoperatingofficerofZellersIncaretailchainthatisownedbyTorontobasedHudsonsBayCoCanadaslargestdepartmentstoreoperator 
+
+('Incorrect: ', 0.9527410621066101, 'was Mr. Zayadi previously chief operating officer of Zellers Inc')
+('Incorrect: ', 0.9527410621066101, 'was Mr. Zayadi previously president of Zellers Inc')
+FinallyMitsubishiEstatehasnoplanstointerferewithRockefellersmanagementbeyondtakingaplaceontheboard 
+
+GodzillaandBattrabattledontheoceanflooruntiltheycausedarifttoopenbetweentectonicplates 
+
+Initiallyhischancesofsurvivingwerethoughttobenobetterthan5050 
+
+HewasamemberoftheEuropeanConventionwhichdraftedthetextoftheEuropeanConstitutionthatneverenteredintoforce 
+
+('Incorrect: ', 0.8847999636040884, 'was a member of He the European Convention')
+('Incorrect: ', 0.9339862216393666, 'drafted the European Convention the text of the European Constitution')
+('Incorrect: ', 0.5680679595514976, 'was He a member of the European Convention')
+AmonthagowhenBeatricefirstfiledtoselldebtthecompanyhadplannedtooffer200millionofitsseniorsubordinatedresetnotesatayieldof1234 
+
+('Incorrect: ', 0.5960000157356262, 'has a yield of 4 % 12 3 \\ / 4 %')
+('Incorrect: ', 0.8960000276565552, 'has % of a yield 12 3 \\ / 4 %')
+('Incorrect: ', 0.8818110676393391, 'filed to sell Beatrice debt')
+('Incorrect: ', 0.930203047455527, 'filed Beatrice to sell debt first')
+AmongotherthingstheysaidMrAzoffwoulddevelopmusicalactsforanewrecordlabel 
+
+('Incorrect: ', 0.720259187969582, 'said they Mr. Azoff would develop musical acts for a new record label')
+Butitappearstobethesortofholdonemakeswhileheadingforthedoor 
+
+('Incorrect: ', 0.41051436014453063, 'to be it the sort of hold one makes')
+Apartiallistofturbomachinerythatmayuseoneormorecentrifugalcompressorswithinthemachinearelistedhere 
+
+('Incorrect: ', 0.787629570513835, 'are listed A partial list of turbomachinery here')
+MrStollsuspectedtheintruderwasoneofthoseprecociousstudentswhohasfunbreakingintocomputers 
+
+('Incorrect: ', 0.6552719266258914, 'suspected Mr. Stoll the intruder was one of those precocious students')
+BusinessacrossthecountryisspendingmoretimeaddressingthisissuesaysSenEdwardKennedyDMass 
+
+HeappearedinthatgamealongsidehisArsenalmidfieldcolleagueBrianMarwoodwhohadjoinedthemfromSheffieldWednesdayeightmonthsearlier 
+
+ReturninghomeBallarddeliversherreportwhichhersuperiorsrefusetobelieve 
+
+Howevertheproblemisthatoncemostpoisonpillsareadoptedtheysurviveforever 
+
+('Incorrect: ', 0.8433622012584514, 'are adopted most poison pills once')
+Ithaslonghindlegsandalongslenderscalytailthatitusestocommunicatebymakingdrummingnoises 
+
+('Incorrect: ', 0.48999941440774075, 'has hind It legs long')
+TheSummerProgramsOfficerunstheseprogramsandmanyWardlawHartridgeStudentsattendcamporclassesoverthesummer 
+
+Gameplayisverybasictheplayermustshootconstantlyatacontinualstreamofenemiesinordertoreachtheendofeachlevel 
+
+('Incorrect: ', 0.8049944000085796, 'is the player must shoot constantly Gameplay very basic')
+TheWilburCrossHighwayformerlyendedinSturbridgelocalssometimescallHaynesStreetandportionsofMashapaugRoadOldRoute15 
+
+('Incorrect: ', 0.9400884773959257, 'call locals Haynes Street sometimes')
+TheraceisinmixedeightsandusuallyheldinlateFebruaryearlyMarch 
+
+('Incorrect: ', 0.9251282565798027, 'is The race in mixed eights')
+TheBourbonsbuiltadditionalreceptionroomsandreconstructedtheSaladErcolenamedforitsfrescosdepictedthemythologicalheroHercules 
+
+CarlusestheoldmagictotametheDeepCrowclaimingitisnothisfirsttimetotherodeo 
+
+('Incorrect: ', 0.7811180658976948, 'uses the `` old magic to tame Carl the Deep Crow')
+('Incorrect: ', 0.8453428833817832, 'uses Carl the `` old magic to tame the Deep Crow')
+FordMotorCosaiditisrecallingabout3600ofits1990modelEscortsbecausethewindshieldadhesivewasimproperlyappliedtosomecars 
+
+('Incorrect: ', 0.9210485895481192, 'said Ford Motor Co. it is recalling about 3,600 of its 1990 - model Escorts')
+In1954aKOMOnewsphotographerdiscoveredawaytodevelopcolorfilminanewprocessthattookjustafewhoursinsteadofdays 
+
+('Incorrect: ', 0.896604430840561, 'took a new process just a few hours')
+Unrulypassengersareoftenputoffheretobetakenintocustody 
+
+('Incorrect: ', 0.8872966301155124, 'to be taken Unruly passengers into custody')
+Cisregulatoryelementsaresequencesthatcontrolthetranscriptionofanearbygene 
+
+Theseniorsubordinateddebenturesmaturingin2004aretargetedtobeofferedatayieldofbetween1258to1234 
+
+('Incorrect: ', 0.8960000276565552, 'has 5\\ of a yield 12 3 \\ / 4 %')
+Butwhentheyarrivedatthedoorallwereafraidtogoinfearingthattheywouldbeoutofplace 
+
+('Incorrect: ', 0.6155020116081594, 'arrived they at the door')
+NowthattheNewYorkdecisionhasbeenleftintactotherstatesmayfollowsuit 
+
+('Incorrect: ', 0.8437742409533863, 'has been left the New York decision intact')
+Thevideowasthefirstevertofeaturetheuseofdialogue 
+
+('Incorrect: ', 0.9251282565798027, 'was The video the first ever to feature the use of dialogue')
+TheTripleABaseballNationalChampionshipGamewasestablishedin2006 
+
+('Incorrect: ', 0.38089450366724514, '[is] Baseball National [of] Championship Game A')
+Amanifoldisprimeifitcannotbepresentedasaconnectedsumofmorethanonemanifoldnoneofwhichisthesphereofthesamedimension 
+
+('Incorrect: ', 0.9315526874932588, 'is none of which the sphere of the same dimension')
+('Incorrect: ', 0.45170382506656653, 'can not be presented it as a connected sum of more than one manifold')
+PanhandleEasternCorpsaiditappliedonbehalfoftwoofitssubsidiariestotheFederalEnergyRegulatoryCommissionforpermissiontobuilda352mile273millionpipelinesystemfromPittsburgCountyOklatoIndependenceMiss 
+
+('Incorrect: ', 0.38089450366724514, '[is] Independence Miss')
+('Incorrect: ', 0.2642232548014247, 'applied Panhandle Eastern Corp said it on behalf of two of its subsidiaries to the Federal Energy Regulatory Commission for permission')
+('Incorrect: ', 0.9079309618750309, 'said Panhandle Eastern Corp it applied , on behalf of two of its subsidiaries , to the Federal Energy Regulatory Commission for permission')
+InathleticsBostonCollegelefttheBigEastConferenceandjoinedtheAtlanticCoastConferenceonJuly12005 
+
+OnMay132010YostwasnamedmanageroftheKansasCityRoyalsreplacingTreyHillman 
+
+('Incorrect: ', 0.9210233335200773, 'replacing Yost Trey Hillman')
+AlthoughMrAzoffwontproducefilmsatfirstitispossiblethathecoulddosolaterthesourcessaid 
+
+('Incorrect: ', 0.9266232318014763, "wo n't produce Mr. Azoff films at first")
+SenMitchellisconfidenthehassufficientvotestoblocksuchameasurewithproceduralactions 
+
+('Incorrect: ', 0.9009310879814868, 'is Sen. Mitchell confident he has sufficient votes')
+In2007SunannouncedProjectIndianawithseveralgoalsincludingprovidinganopensourcebinarydistributionoftheOpenSolarisprojectreplacingSXDE 
+
+MrGuberandMrPetersalsoalmostcertainlywouldntbeabletoparticipateinfuturesequelstoBatmantheblockbusterhittheyproducedforWarner 
+
+('Incorrect: ', 0.9277724913494431, "would n't be Mr. Guber able to participate in future sequels to `` Batman")
+AccordingtotheUnitedStatesCensusBureauthetownhasatotalareaofallofitland 
+
+From1909to1912theMiamiCanalwasdugbypassingtherapidsattheheadoftheNorthFork 
+
+TheCuretoppedtheonlinemusicsalescharts 
+
+MeanwhileathomeMitsubishihascontrolofsomemajorprojects 
+
+InitsfirstsixmonthsRCPOconcluded858casesconvictionsin88ofcases 
+
+('Incorrect: ', 0.9990000128746033, 'concluded RCPO 858 cases convictions')
+WiththisactRussiawasofficiallytransformedfromanabsolutemonarchyintoaconstitutionalonethoughtheexactextentofjusthowconstitutionalquicklybecamethesubjectofdebatebasedupontheemperorssubsequentactions 
+
+('Incorrect: ', 0.5444088301032625, 'quickly became constitutional the subject of debate')
+Plantshavebeenplantedmarkingpartsofthefoundationsofthecastlesothepositionsofsomeofthebuildingscanstillbeinferred 
+
+('Incorrect: ', 0.8380313875378178, 'can be inferred the positions of some of the buildings still')
+('Incorrect: ', 0.786255231995661, 'marking Plants parts of the foundations of the castle')
+InordertosupportplannedTRAXexpansionUTAordered77SiemensS70lightrailvehiclesfromSiemensAG 
+
+('Incorrect: ', 0.9990000128746033, 'ordered UTA 77 siemens s70 light rail vehicles')
+AndhewasinAlisarmyintheBattleofJamalandlateritwasMuhammadibnAbuBakrwhoescortedAishabacktoMadina 
+
+('Incorrect: ', 0.7014248240125444, 'was it Muhammad ibn Abu Bakr later')
+('Incorrect: ', 0.5680679595514976, "was he in Ali 's army in the Battle of Jamal")
+Itisnotreallypassableandmustbedoneonfootifattempted 
+
+('Incorrect: ', 0.22506131975927415, 'is not It really passable')
+TheinsurersponsoredthegolftournamentknownastheNewOrleansOpenbeginningin1981 
+
+HavingbeendirectedtofoundamonasteryofhisorderintheUnitedStatesin1873Fr 
+
+Thecompanysaidthefastenerbusinesshasbeenunderseverecostpressuresforsometime 
+
+('Incorrect: ', 0.9228356673204889, 'said The company the fastener business `` has been under severe cost pressures for some time')
+Thedollardrewstrengthfromthestockmarketsclimb 
+
+ThesecondwastitledConsiderHerWaysandalsostarredBarrieastheleadnamedJaneWaterleigh 
+
+In1972researchersfoundmetallicconductivityinthechargetransfercomplexTTFTCNQ 
+
+('Incorrect: ', 0.8161075568799092, 'found researchers In 1972')
+AsAttorneyGeneralheclashedwithDanielOConnellwhenheinsistedagainstOConnellswishesontheappointmentofAbrahamBrewsterasLawAdvisertotheLordLieutenantofIreland 
+
+Sincetherealestateunitalsoincludesdebttheimputedvalueoftherealestateitselfiscloseto3billion 
+
+The150millioninseniorsubordinatedfloatingratenotesweretargetedtobeofferedatapricetofloatfourpercentagepointsabovethethreemonthLIBOR 
+
+RISCtechnologyspeedsupacomputerbysimplifyingtheinternalsoftware 
+
+('Incorrect: ', 0.9266232318014763, 'speeds up RISC technology a computer')
+(676, 392, 483)

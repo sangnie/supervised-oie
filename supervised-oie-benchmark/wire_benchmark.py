@@ -16,6 +16,7 @@ Options:
                                 sent, prob, pred,arg1, arg2, ...
   --exactmatch                 Use exact match when judging whether an extraction is correct.
 '''
+from __future__ import division
 import docopt
 import string
 import numpy as np
@@ -61,78 +62,141 @@ class Benchmark:
         unmatchedCount = 0
         predicted = Benchmark.normalizeDict(predicted)
         gold = Benchmark.normalizeDict(self.gold)
-        
+
+        results = {}
         for sent, goldExtractions in gold.items():
-            #print sent, "\n"
-            if sent not in predicted:
-                # The extractor didn't find any extractions for this sentence
-                #for goldEx in goldExtractions:
-                unmatchedCount += len(goldExtractions)
-                correctTotal += len(goldExtractions)
-                continue
+            # if sent not in predicted:
+            #     # The extractor didn't find any extractions for this sentence
+            #     for goldEx in goldExtractions:
+            #         unmatchedCount += len(goldExtractions)
+            #         correctTotal += len(goldExtractions)
+            #     continue
+            # print sent
 
-            predictedExtractions = predicted[sent]
-            for goldEx in goldExtractions:
-                correctTotal += 1
-                found = False
+            if sent in predicted:
+                # print "yay"
+                predictedExtractions = predicted[sent]
+            else:
+                predictedExtractions = []
 
-                #print goldEx.bow()
-                for predictedEx in predictedExtractions:
-                    if output_fn in predictedEx.matched:
-                        # This predicted extraction was already matched against a gold extraction
-                        # Don't allow to match it again
+            scores = [[None for _ in predictedExtractions] for __ in goldExtractions]
+            # print scores
+            for i, goldEx in enumerate(goldExtractions):
+                for j, predictedEx in enumerate(predictedExtractions):
+                    # exact_match_scores[i][j] = Matcher.tuple_exact_match(predictedEx, goldEx)
+                    score = Matcher.tuple_match(goldEx, predictedEx,ignoreStopwords = True,ignoreCase = True)
+                    # print score
+                    scores[i][j] = score
+            scoring_metrics = Benchmark.aggregate_scores_greedily(scores)
+            results[sent] = scoring_metrics
+
+        prec_num, prec_denom = 0,0
+        rec_num, rec_denom = 0,0
+        exactmatches_precnum, exactmatches_precdenom = 0,0
+        exactmatches_recnum, exactmatches_recdenom = 0,0
+        tot_prec_of_matches, tot_rec_of_matches = 0, 0
+        for s in results.values():
+            prec_num += s['precision'][0]
+            prec_denom += s['precision'][1]
+            rec_num += s['recall'][0]
+            rec_denom += s['recall'][1]
+            tot_prec_of_matches += sum(s['precision_of_matches'])
+            tot_rec_of_matches += sum(s['recall_of_matches'])
+        precision_scores = [v for s in results.values() for v in s['precision_of_matches']]
+        recall_scores = [v for s in results.values() for v in s['recall_of_matches']]
+        raw_match_scores = [precision_scores, recall_scores]
+        matches = len(precision_scores)
+        metrics = {
+            'precision' : prec_num / prec_denom,
+            'recall' : rec_num / rec_denom,
+            # 'non-matches' : exactmatches_precdenom - matches,
+            'matches' : matches,
+            'precision_of_matches' : tot_prec_of_matches / matches,
+            'recall_of_matches' : tot_rec_of_matches / matches,
+        }
+
+        with open(output_fn, "w") as f:
+            f.write(str(raw_match_scores[0]))
+            f.write('\n')
+            f.write(str(raw_match_scores[1]))
+        prec, rec = metrics['precision'], metrics['recall']
+        f1_score = Benchmark.f1(prec, rec)
+        report = ("prec/rec/f1: {:.1%} {:.1%} {:.3f}"
+                   .format(prec, rec, f1_score))
+        report += ("\n prec/rec of matches only (non-matches): {:.0%} {:.0%} ({})"
+                   .format(metrics['precision_of_matches'], metrics['recall_of_matches'], metrics['matches']))
+        print report
+        # --------------------------------------
+        # y_true = y_true
+        # y_scores = y_scores
+        # print(correct, incorrect, unmatchedCount)
+        # # recall on y_true, y  (r')_scores computes |covered by extractor| / |True in what's covered by extractor|
+        # # to get to true recall we do:
+        # # r' * (|True in what's covered by extractor| / |True in gold|) = |true in what's covered| / |true in gold|
+        # (p, r), optimal = Benchmark.prCurve(np.array(y_true), np.array(y_scores),
+        #                                     recallMultiplier = ((correctTotal - unmatchedCount)/float(correctTotal)))
+        # logging.info("AUC: {}\n Optimal (precision, recall, F1, threshold): {}".format(auc(r, p),
+        #                                                                                optimal))
+        # # Write error log to file
+        # if error_file:
+        #     logging.info("Writing {} error indices to {}".format(len(errors),
+        #                                                          error_file))
+        #     with open(error_file, 'w') as fout:
+        #         fout.write('\n'.join([str(error)
+        #                              for error
+        #                               in errors]) + '\n')
+
+        # # write PR to file
+        # with open(output_fn, 'w') as fout:
+        #     fout.write('{0}\t{1}\n'.format("Precision", "Recall"))
+        #     for cur_p, cur_r in sorted(zip(p, r), key = lambda (cur_p, cur_r): cur_r):
+        #         fout.write('{0}\t{1}\n'.format(cur_p, cur_r))
+
+    @staticmethod
+    def f1(prec, rec):
+        try:
+            return 2*prec*rec / (prec+rec)
+        except ZeroDivisionError:
+            return 0
+
+    @staticmethod
+    def aggregate_scores_greedily(scores):
+        # Greedy match: pick the prediction/gold match with the best f1 and exclude
+        # them both, until nothing left matches. Each input square is a [prec, rec]
+        # pair. Returns precision and recall as score-and-denominator pairs.
+        matches = []
+        while True:
+            max_s = 0
+            gold, pred = None, None
+            for i, gold_ss in enumerate(scores):
+                if i in [m[0] for m in matches]:
+                    # Those are already taken rows
+                    # print i, matches
+                    continue
+                for j, pred_s in enumerate(scores[i]):
+                    if j in [m[1] for m in matches]:
+                        # Those are used columns
+                        # print j, matches
                         continue
-
-                    if matchingFunc(goldEx,
-                                    predictedEx,
-                                    ignoreStopwords = True,
-                                    ignoreCase = True):
-
-                        y_true.append(1)
-                        y_scores.append(predictedEx.confidence)
-                        predictedEx.matched.append(output_fn)
-                        found = True
-                        correct += 1
-#                        print("Correct: ", predictedEx.confidence, predictedEx.bow())
-                        #print "Correct: ", '\t'.join([predictedEx.pred] + predictedEx.args) 
-                        break
-
-                if not found:
-                    errors.append(goldEx.index)
-                    unmatchedCount += 1
-
-            for predictedEx in [x for x in predictedExtractions if (output_fn not in x.matched)]:
-                # Add false positives
-                y_true.append(0)
-                incorrect+=1
-#                print("Incorrect: ",predictedEx.confidence, predictedEx.bow() )
-                #print "Incorrect", '\t'.join([predictedEx.pred] + predictedEx.args) 
-                y_scores.append(predictedEx.confidence)
-
-        y_true = y_true
-        y_scores = y_scores
-        print(correct, incorrect, unmatchedCount, correctTotal)
-        # recall on y_true, y  (r')_scores computes |covered by extractor| / |True in what's covered by extractor|
-        # to get to true recall we do:
-        # r' * (|True in what's covered by extractor| / |True in gold|) = |true in what's covered| / |true in gold|
-        (p, r), optimal = Benchmark.prCurve(np.array(y_true), np.array(y_scores),
-                                            recallMultiplier = ((correctTotal - unmatchedCount)/float(correctTotal)))
-        logging.info("AUC: {}\n Optimal (precision, recall, F1, threshold): {}".format(auc(r, p),
-                                                                                       optimal))
-        # Write error log to file
-        if error_file:
-            logging.info("Writing {} error indices to {}".format(len(errors),
-                                                                 error_file))
-            with open(error_file, 'w') as fout:
-                fout.write('\n'.join([str(error)
-                                     for error
-                                      in errors]) + '\n')
-
-        # write PR to file
-        with open(output_fn, 'w') as fout:
-            fout.write('{0}\t{1}\n'.format("Precision", "Recall"))
-            for cur_p, cur_r in sorted(zip(p, r), key = lambda (cur_p, cur_r): cur_r):
-                fout.write('{0}\t{1}\n'.format(cur_p, cur_r))
+                    if pred_s and Benchmark.f1(*pred_s) > max_s:
+                        max_s = Benchmark.f1(*pred_s)
+                        gold = i
+                        pred = j
+            if max_s == 0:
+                break
+            matches.append([gold, pred])
+        # Now that matches are determined, compute final scores.
+        prec_scores = [scores[i][j][0] for i,j in matches]
+        rec_scores = [scores[i][j][1] for i,j in matches]
+        total_prec = sum(prec_scores)
+        total_rec = sum(rec_scores)
+        scoring_metrics = {"precision" : [total_prec, len(scores[0])],
+                           "recall" : [total_rec, len(scores)],
+                           "precision_of_matches" : prec_scores,
+                           "recall_of_matches" : rec_scores
+        }
+        # print(scoring_metrics)
+        return scoring_metrics
 
     @staticmethod
     def prCurve(y_true, y_scores, recallMultiplier):
@@ -198,11 +262,6 @@ def f_beta(precision, recall, beta = 1):
     """
     beta = float(beta) # Make sure that results are in float
     return (1 + pow(beta, 2)) * (precision * recall) / ((pow(beta, 2) * precision) + recall)
-
-
-f1 = lambda precision, recall: f_beta(precision, recall, beta = 1)
-
-
 
 
 if __name__ == '__main__':

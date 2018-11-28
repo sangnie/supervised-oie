@@ -14,18 +14,19 @@ class GoldReader(OieReader):
         d = defaultdict(lambda: [])
         with open(fn) as fin:
             for line_ind, line in enumerate(fin):
+#                print line
                 data = line.strip().split('\t')
                 text, rel = data[:2]
                 args = data[2:]
                 confidence = 1
                 
-                curExtraction = Extraction(pred = rel,
+                curExtraction = Extraction(pred = rel.strip(),
                                            head_pred_index = None,
-                                           sent = text,
+                                           sent = text.strip(),
                                            confidence = float(confidence),
                                            index = line_ind)
                 for arg in args:
-                    curExtraction.addArg(arg)
+                    curExtraction.addArg(arg.strip())
                     
                 d[text].append(curExtraction)
         self.oie = d
